@@ -1,0 +1,44 @@
+
+// Responsive
+
+@mixin sm {
+  // small mobile
+  @media (max-width: 767px) {
+      @content;
+  }
+}
+
+@mixin md {
+  // horizontal mobile - tablet
+  @media (min-width: 768px) {
+      @content;
+  }
+}
+
+@mixin lg {
+  // horizontal tablet - minilaptop
+  @media (min-width: 999px) {
+      @content;
+  }
+}
+
+@mixin xl {
+  // minilaptop
+  @media (min-width: 1025px) {
+      @content;
+  }
+}
+
+@mixin xxl{
+  // laptop
+  @media (min-width: 1366px) {
+      @content;
+  }
+}
+
+@mixin xxxl {
+  // Large-screen
+  @media (min-width: 1824px) {
+      @content;
+  }
+}

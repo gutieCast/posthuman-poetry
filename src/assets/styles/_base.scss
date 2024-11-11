@@ -1,0 +1,18 @@
+// _base.scss
+
+/* Reset de margenes y paddings */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $font-title;
+}
+
+/* Tipografía base */
+body {
+  font-family: $font-body;
+
+}
