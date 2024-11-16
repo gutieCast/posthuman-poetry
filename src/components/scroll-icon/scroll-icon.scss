@@ -1,0 +1,48 @@
+@use '../../assets/styles/variables';
+@use '../../assets/styles/mixins';
+
+.scroll-icon {
+  // display: inline-block;
+  width: 25px;
+  height: 40px;
+  border: 2px solid variables.$color-green;
+  border-radius: 35px;
+  // cursor: pointer;
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto 1vh;
+  flex-shrink: 0;
+  transition: display 3s ease-in-out;
+
+  &:before{
+      content: "";
+      position: absolute;
+      left: 50%;
+      top: 0;
+      width: 2px;
+      height: 60%;
+      background: linear-gradient(transparent, variables.$color-green, transparent);
+      transform: translateX(-50%);
+      animation: anim-scroll-down 1.5s ease infinite;
+  }
+  @include mixins.md {
+    width: 40px;
+    height: 60px;
+  }
+}
+
+
+@keyframes anim-scroll-down {
+  0%{
+    transform: translate(-50%, 0px);
+    opacity: 0;
+  }
+  50%{
+      transform: translate(-50%, 8px);
+      opacity: 1;
+  }
+  100%{
+      transform: translate(-50%, 16px);
+      opacity: 0;
+  }
+}

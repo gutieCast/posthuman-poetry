@@ -1,24 +1,18 @@
+import { FC } from "react";
+
+import videoLaPazSmoke from '../../assets/video/la-paz-smoke.mp4';
 import './hero.scss';
-import videoHero from '../../assets/video/hero.mp4'; 
 
-export function Hero () {
-  // const handlePlay = () => {
-
-  // }
-
+const Hero: FC = () => {
   return (
-    <div className="hero">
-      <video id="video" autoPlay loop muted >
-          <source src={ videoHero } type="video/mp4" />
-      </video>
-      <div className="hero-content">
-        <h1 className="text-title">
-          {/* <text> */}
-            Bienvenidos al Antropoceno
-          {/* </text> */}
-        </h1>
-  </div>
-    </div>
-
+    <section className="section video-hero">
+      <div className="section-content">
+        <video autoPlay loop muted >
+            <source src={ videoLaPazSmoke } type="video/mp4" />
+        </video>
+      </div>
+    </section>
   )
 }
+
+export default Hero;

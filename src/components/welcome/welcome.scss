@@ -1,0 +1,78 @@
+@use '../../assets/styles/variables';
+@use '../../assets/styles/mixins';
+
+video {
+  // position: fixed;
+  // right: 0;
+  // bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+  transform: none !important;
+}
+.text-title {
+  // position: absolute; // with video styles
+  // top: 50%;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  text-align: center;
+  font-size: 18vi;
+  letter-spacing: .15ch;
+  line-height: .75;
+  font-family: variables.$font-title;
+  font-weight: 900;
+  z-index: 1;
+  // text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+  // color: variables.$color-white;
+  text-shadow:
+  /* regular text-shadow */
+  0 .15ch 15px var(--shadow),
+  /* text-shadow highlight */
+  0 -2px 0 var(--highlight);
+  span {
+    opacity: 0;
+    display: inline-block;
+    animation: animate 1s linear forwards !important;
+  }
+  .word {
+    margin: 0 variables.$mp-sm;
+  }
+  &.column {
+    // flex-direction: column;
+    align-items: end !important;
+  }
+  &.row{
+    // flex-direction: row;
+    align-items: center;
+  }
+}
+@include mixins.animate-spans-title(26);
+
+.welcome {
+  @include mixins.section;
+  justify-content: space-between;
+  background-color: variables.$color-white;
+  --bg: oklch(35% .3 #{variables.$color-gray-light});
+  --text: oklch(85% .1 #{variables.$color-gray-light});
+  --shadow: oklch(25% .2 #{variables.$color-gray-light});
+  --highlight: oklch(98% .05 #{variables.$color-gray-light});
+  &.is-hidden{
+    opacity: 0;
+    z-index: -1;
+    transition: opacity 800ms 250;
+  }
+}
+
+@keyframes animate {
+  0%{
+      opacity: 0;
+      transform: rotateY(90deg);
+      filter: blur(10px);
+  }
+  100%{
+      opacity: 1;
+      transform: rotateY(0deg);
+      filter: blur(0px);
+  }
+}
+

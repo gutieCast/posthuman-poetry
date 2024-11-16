@@ -1,6 +1,20 @@
 // FONTS
-
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Pathway+Gothic+One&display=swap');
-$font-title: "Pathway Gothic One", sans-serif;
-$font-body: "Montserrat", sans-serif;
 
+$font-title: "Pathway Gothic One", sans-serif;
+$font-normal: "Montserrat", sans-serif;
+
+// COLORS
+
+$color-black: #000000;
+$color-green: #429242;
+$color-white: #757371;
+$color-gray-light: #CFCBCB;
+$color-white: #ECECEA;
+
+//MARGINS & PADDINGS
+
+$mp-sm: 10px;
+$mp-md: 20px;
+$mp-lg: 30px;
+$mp-xl: 15rem;
