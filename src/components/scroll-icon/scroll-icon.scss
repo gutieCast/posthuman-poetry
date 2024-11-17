@@ -2,18 +2,17 @@
 @use '../../assets/styles/mixins';
 
 .scroll-icon {
-  // display: inline-block;
   width: 25px;
   height: 40px;
   border: 2px solid variables.$color-green;
   border-radius: 35px;
-  // cursor: pointer;
   position: relative;
   overflow: hidden;
   margin: 0 auto 1vh;
   flex-shrink: 0;
   transition: display 3s ease-in-out;
-
+  z-index: 2;
+  animation: animate 1s linear forwards;
   &:before{
       content: "";
       position: absolute;

@@ -40,7 +40,7 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: space-around;
   position: relative;
   min-height: 100%;
-  min-height: 100%;
+  height: 100%;
   > * {
     @include mixins.sm {
       opacity: 0;
@@ -51,8 +51,18 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+.text-title {
+  letter-spacing: .15ch;
+  line-height: .75;
+  font-family: variables.$font-title;
+  font-weight: 900;
+  z-index: 1;
+  text-transform: uppercase;
+
+}
+
 .text-content {
-  color: whitesmoke;
+  color: variables.$color-white;
   font-family: variables.$font-normal;
   max-width: 85%;
   margin: variables.$mp-xl auto;
@@ -66,14 +76,17 @@ h1, h2, h3, h4, h5, h6 {
 
 .is-visible {
   .section-content > * {
-    align-items: center;
-    display: flex;
     opacity: 1;
-    
+    display: flex;
+    // &:not(.--initial-scene) > * {
+    //   align-items: center;
+    //   display: flex;
+      
+    // }
     // Apply animation to all elements except h1 and .scroll-icon
-    &:not(h1):not(h2):not(.scroll-icon):not(canvas):not(video) {
+    &:not(h1)::not(.scroll-icon):not(canvas):not(video) {
       animation: content-animation 3s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards 1;
-      transform: translate3d(0, 1rem, 0);
+      transform: translate3d(0, 0.5rem, 0);
       transition: all 1500ms;
     }
   }
@@ -82,4 +95,16 @@ h1, h2, h3, h4, h5, h6 {
 .is-hidden {
   opacity: 0;
   z-index: -1;
+}
+
+@keyframes content-animation {
+  0% {
+    top: 50vh;
+  }
+  20% {
+    top: 20vh;
+  }
+  100% {
+    top: 50vh;
+  }
 }

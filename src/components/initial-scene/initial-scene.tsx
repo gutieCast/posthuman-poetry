@@ -24,17 +24,17 @@ const InitialScene : FC = () => {
   }, []);
 
 
-  const mountRef = useRef<HTMLDivElement | null>(null);
+  const sceneRef = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {
-    if (!mountRef.current) return;
+    if (!sceneRef.current) return;
 
-    const currentMount = mountRef.current;
+    const currentMount = sceneRef.current;
 
     const renderer = new THREE.WebGLRenderer();
     renderer.setPixelRatio(2);
     renderer.setSize(window.innerWidth, window.innerHeight);
-    mountRef.current.appendChild(renderer.domElement);
+    sceneRef.current.appendChild(renderer.domElement);
 
     const scene = new THREE.Scene();
     const pmremGenerator = new THREE.PMREMGenerator(renderer);
@@ -264,8 +264,8 @@ const InitialScene : FC = () => {
 
     return (
         <section className="section initial-scene">
-          <div ref={ mountRef }  className="section-content --initial-scene">
-            <h1 className={`text-title ${screenClass}`}>
+          <div ref={ sceneRef }  className="section-content --initial-scene">
+            <h1 className={`text-title ${screenClass} main-title`}>
               <div className="word">
                 <span>B</span>
                 <span>i</span>

@@ -3,6 +3,8 @@ import useElementsOnScreen from "../hooks/use-elements-on-screen";
 
 import InitialScene from "../components/initial-scene/initial-scene";
 import Hero from '../components/hero/hero';
+import Epigraph from "../components/epigraph/epigraph";
+
 import "../assets/styles/styles.scss";
 
 const Main: FC = () => {
@@ -27,6 +29,7 @@ const Main: FC = () => {
     <main>
       <InitialScene />
       <Hero />
+      <Epigraph />
     </main>
   );
 }

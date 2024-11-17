@@ -4,31 +4,47 @@
 .--hero {
   justify-content: end;
   align-items: end;
+  justify-content: space-between;
+  .title-hero {
+    color: variables.$color-gray-light;
+    font-family: variables.$font-normal;
+    font-size: 13vi;
+    position: absolute;
+    bottom: 10%;
+    opacity: 0;
+    letter-spacing: .15ch;
+    line-height: .95;
+    @include mixins.lg {
+      font-size: 6vi;
+    }
+  }
+  video {
+    filter: brightness(50%);
+    width:100vw;
+    height:100vh;
+    transform: none !important;
+    animation: none !important;
+    @include mixins.sm {
+      object-fit: none;
+      object-position: 63% 50%;
+    }
+    @include mixins.md {
+      object-fit: cover;
+    }
+  }
 }
 
 .hero {
   @include mixins.section;
-  justify-content: space-between;
-  h2 {
-    color: variables.$color-gray;
-    position: absolute;
-    bottom: 10%;
-  }
-  video {
-    filter: brightness(50%);
-    position: fixed;
-    right: 0;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
-    @include mixins.sm {
-      left: -250%;
-    }
-    @include mixins.md {
-      left: -32%;
-    }
-    @include mixins.lg {
-      left: 0;
-    }
+
+}
+
+.hero.is-visible {
+  .--hero .title-hero {
+    animation: animate-title 0.7s linear forwards;
   }
 }
+
+
+
+
