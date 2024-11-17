@@ -5,8 +5,9 @@ import './hero.scss';
 
 const Hero: FC = () => {
   return (
-    <section className="section video-hero">
-      <div className="section-content">
+    <section className="section hero">
+      <div className="section-content --hero">
+        <h2 className="text-title">Ecos de una nueva época geológica en la poesía de Bolivia</h2>
         <video autoPlay loop muted >
             <source src={ videoLaPazSmoke } type="video/mp4" />
         </video>

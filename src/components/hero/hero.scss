@@ -1,14 +1,24 @@
 @use '../../assets/styles/variables';
 @use '../../assets/styles/mixins';
 
-.video-hero {
+.--hero {
+  justify-content: end;
+  align-items: end;
+}
+
+.hero {
   @include mixins.section;
   justify-content: space-between;
+  h2 {
+    color: variables.$color-gray;
+    position: absolute;
+    bottom: 10%;
+  }
   video {
     filter: brightness(50%);
-    // position: fixed;
-    // right: 0;
-    // bottom: 0;
+    position: fixed;
+    right: 0;
+    bottom: 0;
     min-width: 100%;
     min-height: 100%;
     @include mixins.sm {

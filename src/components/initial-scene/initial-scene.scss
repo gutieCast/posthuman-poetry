@@ -1,0 +1,71 @@
+@use '../../assets/styles/variables';
+@use '../../assets/styles/mixins';
+
+.--initial-scene canvas{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  transform: none !important;
+  animation: none !important;
+}
+
+// video {
+//   // position: fixed;
+//   // right: 0;
+//   // bottom: 0;
+//   min-width: 100%;
+//   min-height: 100%;
+//   transform: none !important;
+//   animation: none !important;
+// }
+
+.word {
+  margin: 0 variables.$mp-sm;
+  color: variables.$color-gray-light;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  mix-blend-mode: screen;
+
+  span {
+    opacity: 0;
+    display: block;
+    animation: animate 1s linear forwards;
+  }
+}
+
+.initial-scene {
+  @include mixins.section;
+  justify-content: space-between;
+  background-color: variables.$color-white;
+  // --bg: oklch(35% .3 #{variables.$color-gray-light});
+  // --text: oklch(85% .1 #{variables.$color-gray-light});
+  // --shadow: oklch(25% .2 #{variables.$color-gray-light});
+  // --highlight: oklch(98% .05 #{variables.$color-gray-light});
+  &.is-hidden{
+    opacity: 0;
+    z-index: -1;
+    transition: opacity 800ms 250;
+  }
+}
+
+
+// Define the animation
+@keyframes animate {
+  0%{
+      opacity: 0;
+      transform: rotateY(90deg);
+      filter: blur(10px);
+  }
+  100%{
+      opacity: 1;
+      transform: rotateY(0deg);
+      filter: blur(0px);
+  }
+}
+
+// Apply the mixin to the spans
+@include mixins.animate-spans-title(26);

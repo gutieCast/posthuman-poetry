@@ -1,8 +1,7 @@
-@use "variables";
+@use 'variables';
+@use 'mixins';
 
-// _base.scss
-
-/* Reset de margenes y paddings */
+/* Reset */
 * {
   padding: 0;
   margin: 0;
@@ -11,7 +10,12 @@
   box-sizing: border-box;
 }
 
-/* Estilos generales */
+/* General styles */
+
+html {
+  min-block-size: 100%;
+}
+
 body {
   font-family: variables.$font-normal;
 }
@@ -27,3 +31,55 @@ h1, h2, h3, h4, h5, h6 {
   font-family: variables.$font-title;
 }
 
+.section-content {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: space-around;
+  position: relative;
+  min-height: 100%;
+  min-height: 100%;
+  > * {
+    @include mixins.sm {
+      opacity: 0;
+      transform: translate3d(0, 4rem, 0);
+      transition: opacity 800ms 250,
+      transform 800ms cubic-bezier(0.13, 0.07, 0.26, 0.99) 250;
+    }
+  }
+}
+
+.text-content {
+  color: whitesmoke;
+  font-family: variables.$font-normal;
+  max-width: 85%;
+  margin: variables.$mp-xl auto;
+  @include mixins.md {
+    max-width: 80%;
+  }
+  @include mixins.lg {
+    max-width: 60%;
+  }
+}
+
+.is-visible {
+  .section-content > * {
+    align-items: center;
+    display: flex;
+    opacity: 1;
+    
+    // Apply animation to all elements except h1 and .scroll-icon
+    &:not(h1):not(h2):not(.scroll-icon):not(canvas):not(video) {
+      animation: content-animation 3s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards 1;
+      transform: translate3d(0, 1rem, 0);
+      transition: all 1500ms;
+    }
+  }
+}
+
+.is-hidden {
+  opacity: 0;
+  z-index: -1;
+}

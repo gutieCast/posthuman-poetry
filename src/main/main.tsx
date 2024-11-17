@@ -1,7 +1,7 @@
 import { FC, useEffect } from "react";
 import useElementsOnScreen from "../hooks/use-elements-on-screen";
 
-import Welcome from '../components/welcome/welcome';
+import InitialScene from "../components/initial-scene/initial-scene";
 import Hero from '../components/hero/hero';
 import "../assets/styles/styles.scss";
 
@@ -19,14 +19,13 @@ const Main: FC = () => {
     // Get all sections with the class 'section'
     const sections = Array.from(document.querySelectorAll('.section')) as HTMLElement[];
 
-    // Clear the current array and push new elements
     sectionRefs.current!.length = 0; // Clear the array
     sectionRefs.current!.push(...sections); // Add new elements
   }, [sectionRefs]);
 
   return (
     <main>
-      <Welcome />
+      <InitialScene />
       <Hero />
     </main>
   );
