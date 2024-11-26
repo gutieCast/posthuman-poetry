@@ -8,4 +8,5 @@ export default defineConfig({
     sourcemap: true,
     chunkSizeWarningLimit: 1600
   },
+  // base: 'https://gutieCast.github.io/posthuman-poetry'
 })

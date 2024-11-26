@@ -48,7 +48,7 @@ const Poetry: FC = () => {
   ]
 
   const itemsMenuFooter = [
-    { title: 'Especies de compañía', href: 'cronica', dir: 'right'  }
+    { title: 'Especies de compañía', href: '/cronica', dir: 'right'  }
   ]
 
   return (

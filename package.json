@@ -2,7 +2,6 @@
   "name": "poesia-posthumana",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://gutieCast.github.io/posthuman-poetry ",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "npm run build && gh-pages -d dist"
   },
   "dependencies": {
     "@react-three/drei": "^9.117.0",
