@@ -20,7 +20,7 @@ body {
   font-family: variables.$font-normal;
 }
 
-main {
+main, .poetry-sections-container {
   // min-block-size: 100%;
   height: 100vh;
   overflow-y: scroll;
@@ -31,80 +31,37 @@ h1, h2, h3, h4, h5, h6 {
   font-family: variables.$font-title;
 }
 
-.section-content {
-  flex-grow: 1;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  align-content: center;
-  justify-content: space-around;
-  position: relative;
-  min-height: 100%;
-  height: 100%;
-  > * {
-    @include mixins.sm {
-      opacity: 0;
-      transform: translate3d(0, 4rem, 0);
-      transition: opacity 800ms 250,
-      transform 800ms cubic-bezier(0.13, 0.07, 0.26, 0.99) 250;
-    }
+@keyframes animate-title {
+  0% {
+    opacity: 0;
+    transform: translateY(20px) scale(0.95);
+    filter: blur(8px);
   }
-}
-
-.text-title {
-  letter-spacing: .15ch;
-  line-height: .75;
-  font-family: variables.$font-title;
-  font-weight: 900;
-  z-index: 1;
-  text-transform: uppercase;
-
-}
-
-.text-content {
-  color: variables.$color-white;
-  font-family: variables.$font-normal;
-  max-width: 85%;
-  margin: variables.$mp-xl auto;
-  @include mixins.md {
-    max-width: 80%;
+  50% {
+    opacity: 0.7;
+    transform: translateY(0) scale(1.02);
+    filter: blur(2px);
   }
-  @include mixins.lg {
-    max-width: 60%;
-  }
-}
-
-.is-visible {
-  .section-content > * {
+  100% {
     opacity: 1;
-    display: flex;
-    // &:not(.--initial-scene) > * {
-    //   align-items: center;
-    //   display: flex;
-      
-    // }
-    // Apply animation to all elements except h1 and .scroll-icon
-    &:not(h1)::not(.scroll-icon):not(canvas):not(video) {
-      animation: content-animation 3s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards 1;
-      transform: translate3d(0, 0.5rem, 0);
-      transition: all 1500ms;
-    }
+    transform: translateY(0) scale(1);
+    filter: blur(0px);
   }
-}
-
-.is-hidden {
-  opacity: 0;
-  z-index: -1;
 }
 
 @keyframes content-animation {
   0% {
-    top: 50vh;
-  }
-  20% {
     top: 20vh;
   }
-  100% {
-    top: 50vh;
+  20% {
+    top: -20vh;
   }
+  100% {
+    top: 0vh;
+  }
+}
+
+@keyframes fade-out {
+  from { scale: 1; opacity: 1 }
+  to { scale: 0.9; opacity: 0 }
 }

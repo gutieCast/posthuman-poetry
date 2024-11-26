@@ -1,12 +1,37 @@
 @supports (scroll-snap-type: y mandatory) {
   .scroll-container {
-    height: 100vh;
+    min-height: 100vh;
     overflow-y: scroll;
     scroll-snap-type: y mandatory;
   }
 
   section {
+    // height: 100vh;
+    // scroll-snap-align: center;
+    scroll-behavior: smooth;
+    // scroll-snap-align: start;
+
+  }
+
+  section.horizontal-scroll  {
+    // scroll-snap-align: center ;
     height: 100vh;
+    scroll-behavior: smooth;
+    overflow-y: scroll;
+  }
+}
+
+@supports (scroll-snap-type: x mandatory) {
+
+  .--horizontal-scroll {
+    min-width: 100vh;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+  }
+
+  .horizontal-scroll-image-container {
+    width: 100vw;
     scroll-snap-align: center;
+    scroll-behavior: smooth;
   }
 }

@@ -1,0 +1,56 @@
+@use '../../assets/styles/variables';
+@use '../../assets/styles/mixins';
+
+header {
+  background-color: variables.$color-black;
+  color: variables.$color-white;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  height: inherit;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+nav {
+  ul {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    li {
+      margin: variables.$mp-md variables.$mp-sm;
+      a {
+        color: variables.$color-white;
+        text-decoration: none;
+        &:hover {
+          text-decoration: underline;
+          color: variables.$color-green;
+        }
+        &.active {
+          color: variables.$color-green;
+          font-weight: 800;
+        }
+      }
+      @include mixins.md {
+        margin: variables.$mp-md;
+      }
+    }
+  }
+}
+
+.layout {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+.main-container {
+  flex-grow: 1;
+}
+
+

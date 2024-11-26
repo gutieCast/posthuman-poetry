@@ -1,0 +1,18 @@
+@use '../../assets/styles/variables';
+@use '../../assets/styles/mixins';
+
+.transition {
+  height: 50vh;
+  width: 100%;
+  background: linear-gradient(to bottom, var(--color-from), var(--color-to));
+  animation: color-transition 5s ease infinite;
+  animation-timeline: view(250px);
+  @keyframes color-transition {
+    0% {
+      background-position: 0% 50%;
+    }
+    100% {
+      background-position: 100% 50%;
+    }
+  }
+}

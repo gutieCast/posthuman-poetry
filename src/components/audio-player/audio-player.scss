@@ -1,0 +1,29 @@
+@use '../../assets/styles/mixins';
+
+.audio-frame {
+  width: 100vw;
+  // display: block;
+  // margin: 20px auto;
+  max-width: 500px;
+  margin: 20px auto;
+  
+  display: block;
+  width: auto;
+
+  // @include mixins.md {
+    //   width: 60vw;
+    //   cursor: pointer;
+    //   img {
+  //     max-height: 100%;
+  //   }
+  // }
+}
+a {
+  display: block;
+  margin: 0 auto;
+  width: fit-content;
+}
+
+img {
+  max-width: 100%;
+}

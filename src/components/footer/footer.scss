@@ -1,0 +1,33 @@
+@use '../../assets/styles/variables';
+@use '../../assets/styles/mixins';
+
+footer.nav-footer{
+  background-color: variables.$color-black;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  &.space-between {
+    justify-content: space-between;
+  }
+  &.flex-end {
+    justify-content: flex-end;
+  }
+  a {
+    display: flex;
+    flex-direction: column;
+    color: variables.$color-white;
+    font-size: variables.$size-normal;
+    margin: 50px;
+    &.right {
+      align-items: flex-end;
+    }
+    &.left {
+      align-items: flex-start;
+    }
+    img {
+      margin-bottom: 10px;
+    }
+  }
+  
+}

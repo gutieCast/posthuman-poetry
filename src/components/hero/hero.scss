@@ -5,17 +5,22 @@
   justify-content: end;
   align-items: end;
   justify-content: space-between;
+  min-height: 800px;
   .title-hero {
     color: variables.$color-gray-light;
     font-family: variables.$font-normal;
-    font-size: 13vi;
+    font-size: 1rem;
+    padding: 100px 50px 50px 50px;
     position: absolute;
     bottom: 10%;
     opacity: 0;
     letter-spacing: .15ch;
     line-height: .95;
+    text-align: end;
+    width: 70%;
     @include mixins.lg {
-      font-size: 6vi;
+      font-size: 3rem;
+      padding: 0 100px;
     }
   }
   video {
@@ -41,10 +46,12 @@
 
 .hero.is-visible {
   .--hero .title-hero {
-    animation: animate-title 0.7s linear forwards;
+    animation: animate-title 2.5s linear forwards;
   }
 }
 
-
+// .title-hero {
+//   animation: animate-title 0.7s linear forwards;
+// }
 
 

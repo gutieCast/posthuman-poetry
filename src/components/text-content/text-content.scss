@@ -1,0 +1,70 @@
+@use "../../assets/styles/variables";
+@use "../../assets/styles/mixins";
+
+.dark {
+  @include mixins.dark-theme;
+}
+
+.light {
+  @include mixins.light-theme;
+}
+
+.default {
+  @include mixins.theme;
+}
+
+.text-content {
+  padding-top: 10vh;
+  .text-title {
+    font-size: 3rem;
+    padding: 0 50px;
+    @include mixins.lg {
+      padding: 0 300px;
+    }
+  }
+}
+
+.--text-content {
+  justify-content: flex-start !important;
+  overflow: scroll;
+  height: fit-content;
+  position: sticky;
+  width: 100%;
+  /* Hide scrollbar for IE, Edge and Firefox */
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+.--text-content .poem-container {
+  margin: variables.$mp-md auto;
+  width: 90%;
+  @include mixins.md {
+    margin: variables.$mp-lg auto;
+  }
+  @include mixins.lg {
+    margin: variables.$mp-xl auto;
+    max-width: 1000px;
+  }
+}
+
+.--text-content p, .--text-content .paragraph-content {
+  font-size: variables.$size-paragraph;
+  max-width: 80%;
+  margin: variables.$mp-sm auto;
+  // padding: 30px;
+
+  @include mixins.md {
+    margin: variables.$mp-md auto;
+    max-width: 75%;
+  }
+  @include mixins.lg {
+    margin: variables.$mp-md auto;
+    max-width: 1000px;
+  }
+}
+.space {
+  margin-top: 100px;
+}

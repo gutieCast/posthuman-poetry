@@ -1,0 +1,144 @@
+@use '../../assets/styles/variables';
+@use '../../assets/styles/mixins';
+
+.poet-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 90%;
+  height: 100%;
+  border-radius: 10px;
+  margin: 50px auto;
+  box-shadow: 0 1px 1px variables.$color-green;
+  border: 1px solid variables.$color-black;
+  background-color: variables.$color-white;
+
+}
+.poet-card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  @include mixins.lg {
+    // flex-direction: row;
+    padding: 30px;
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-row: auto;
+  }
+}
+.poet-photo {
+  border-radius: 50%;
+  margin: 20px auto;
+  img {
+    max-width: 100%;
+  }
+  @include mixins.lg {
+    max-width: 500px;
+    width: unset;
+    margin: 20px auto;
+    display: block;
+  }
+}
+
+.poet-card-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.poet-info {
+  display: flex;
+  flex-direction: column;
+  @include mixins.lg {
+    // flex-direction: row;
+    // align-items: flex-start;
+    // justify-content: space-between;
+    // margin: 10px;
+  
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-template-rows: auto;
+  }
+}
+
+.info-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  margin: 10px;
+  img {
+    margin-right: 10px;
+  }
+  @include mixins.lg {
+    align-items: flex-start;
+    margin: 20px;
+  }
+  ul {
+    @include mixins.lg {
+      width: max-content;
+    }
+  }
+}
+
+.poet-biography, .works {
+  flex-grow: 1;
+  padding: 0 0 0 10px;
+  color: variables.$color-black;
+  background-color: variables.$color-white;
+  width: 100%;
+  p, span, li span {
+    margin: 0 0 10px 0 !important;
+    padding: 10px 0 !important;
+    width: 100%;
+    max-width: none;
+    font-size: variables.$size-paragraph;
+    text-wrap: balance;
+  }
+  .text-container {
+    display: inline-flex;
+    align-items: center;
+    justify-content: flex-start;
+
+  }
+  ul li span {
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100%;
+  }
+}
+
+.poet-card footer {
+  background-color: variables.$color-black;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: variables.$mp-md;
+  font-size: variables.$size-normal;
+  width: 100%;
+  padding: 20px 10px;
+  color: variables.$color-white;
+  margin: 0 !important;
+  a {
+    color: variables.$color-green;
+    text-decoration: none;
+    width: 60px;
+    img {
+      max-width: 100%;
+    }
+  }
+}
+
+// .info-item {
+//   display: flex;
+//   flex-direction: row;
+//   justify-content: center;
+//   align-items: center;
+//   flex-wrap: wrap;
+//   margin-bottom: 20px;
+//   ul {
+//     flex-grow: 1;
+//   }
+// }

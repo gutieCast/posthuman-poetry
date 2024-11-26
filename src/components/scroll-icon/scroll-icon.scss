@@ -10,8 +10,10 @@
   overflow: hidden;
   margin: 0 auto 1vh;
   flex-shrink: 0;
-  transition: display 3s ease-in-out;
+  display: inline-block;
+  transition: display 5s ease-in-out;
   z-index: 2;
+  transform: none !important;
   animation: animate 1s linear forwards;
   &:before{
       content: "";

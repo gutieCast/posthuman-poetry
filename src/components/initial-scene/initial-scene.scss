@@ -1,20 +1,31 @@
 @use '../../assets/styles/variables';
 @use '../../assets/styles/mixins';
 
-.--initial-scene canvas{
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  transform: none !important;
-  animation: none !important;
-}
-
-.main-title {
-  font-size: 18vi;
-  display: flex;
+.--initial-scene {
   flex-direction: column;
+  justify-content: center;
+  height: 50vh;
+  // canvas{
+  //   width: 100%;
+  //   height: 100%;
+  //   position: absolute;
+  //   top: 0;
+  //   left: 0;
+  //   right: 0;
+  //   bottom: 0;
+  //   transform: none !important;
+  //   animation: none !important;
+  // }
+}
+.main-title {
+  font-family: variables.$font-title;
+  font-weight: 900;
+  font-size: 11vi;
+  letter-spacing: .15ch;
+  line-height: 1;
+  text-transform: uppercase;
+  z-index: 1;
+  margin-bottom: 50px;
   &.align-end {
     align-items: end !important;
   }

@@ -1,0 +1,64 @@
+@use '../../assets/styles/variables';
+@use '../../assets/styles/mixins';
+
+.poem-container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  margin: variables.$mp-md;
+  padding: variables.$mp-md;
+  // box-shadow: 0 1px 1px variables.$color-green;
+  
+  @include mixins.md {
+    
+    width: 65%;
+  }
+  .title {
+    font-size: variables.$size-title;
+    line-height: 1.2;
+    margin: variables.$mp-md 0;
+    font-weight: 900;
+    text-align: center;
+    padding-left: 15%;
+  }
+  .author {
+    font-size: variables.$size-paragraph;
+    font-weight: 600;
+    font-style: italic;
+    margin: variables.$mp-md;
+    text-align: end;
+  }
+  .poem {
+    font-size: variables.$size-xs;
+    text-align: left;
+    margin: 0;
+    line-height: 1.3;
+    display: block !important;
+    margin-bottom: variables.$mp-md;
+    margin-bottom: variables.$mp-sm;
+
+    @include mixins.md {
+      margin: variables.$mp-md;
+      width: 80%;
+    }
+    @include mixins.lg {
+      font-size: variables.$size-big-parr;
+      margin: variables.$mp-lg auto;
+      // padding: variables.$mp-lg;
+
+    }
+    span {
+      font-size: variables.$size-normal;
+      @include mixins.md {
+
+        font-size: variables.$size-paragraph;
+      }
+    }
+  }
+}
+
+.poem span:first-child:first-letter {
+  float: left;
+  font-size: 40px;
+  margin: 12px 5px 0px 0px;
+}

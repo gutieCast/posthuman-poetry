@@ -1,0 +1,2112 @@
+{
+  "intro": {
+    "title": null,
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "Los océanos se alimentan de hasta 12 millones de toneladas de basura cada año, según la organización ecologista Greenpeace. Como el río Flint de Estados Unidos, por muchos otros ríos del planeta fluyen toneladas de basura, cargando los territorios que tocan con contaminación."
+      },
+      {
+        "type": "paragraph",
+        "content": "Como por los ríos fluye la basura, en la historia de la poesía escrita en Bolivia, por muchas obras han fluido los pensamientos y sensaciones de los seres humanos. Por ejemplo, la poesía de mediados del s. XX, según el crítico literario Leonardo García Pabón, estaba muy arraigada a la identidad nacional. Es decir, buscaba sobre todo construir una alegoría de lo nacional."
+      },
+      {
+        "type": "poem",
+        "title": "Altiplano",
+        "author": "Óscar Cerruto",
+        "verses": [
+          "El Altiplano es inmensurable como un recuerdo",
+          "piel de kirquincho, toca con sus extremos las cuatro",
+          "puntas de cielo,",
+          "sopla su armada brisa de bestia.",
+          "El Altiplano es resplandeciente como un acero.",
+          "Su soledad de luna, tambor de las sublevaciones,",
+          "solfatara de las leyendas.",
+          "Pastoras de turbiones y pesares,",
+          "las vírgenes de la tierra alimentan la hoguera de la",
+          "música.",
+          "Los hombres, en el metal de sus cabellos,",
+          "asilan el caliente perfume de los combates.",
+          "Altiplano rayado de caminos y tristeza",
+          "como palma de minero."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "En cambio, la poesía del s. XXI en Bolivia continúa con el trabajo de la generación McOndo que es, según el escritor Edmundo Paz Soldán para el medio DW, \"un intento de registrar el impacto de los nuevos medios y tecnologías en la cultura urbana de hoy\"",
+        "tooltip": {
+          "word": "McOndo",
+          "content": "Parodia de Macondo, corriente literaria latinoamericana surgida como reacción contra la escuela literaria del realismo mágico (movimiento literario que muestra lo extraño como algo cotidiano, como por ejemplo lo hace Cien años de soledad), que dominaba la recepción europea de la literatura de América Latina desde 1960.",
+          "source": "La Vanguardia."
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Después de esta generación, otros flujos en la poesía también han intentado exceder la identidad, ya sea latinoamericana o nacional. Tal es el caso de la Alt Lit, que según el medio Clarín, propone, \"después del 11 de septiembre, una nueva sinceridad: producto inevitable del fin de un imperio, la sensación de que ellos también son vulnerables\".",
+        "tooltip": {
+          "word": "Alt Lit",
+          "content": "Corriente literaria surgida en Estados Unidos que se enfoca en cuestiones mínimas de la vida cotidiana urbana y que lleva estas cuestiones hasta una inutilidad irónica.",
+          "source": "La Vanguardia."
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "La Alt Lit muestra un mundo \"tal como es\" y su estilo se basa en la sinceridad extrema. En Bolivia, José Villanueva (1992-) es uno de los máximos exponentes de este flujo."
+      },
+      {
+        "type": "poem",
+        "title": "Camararería",
+        "author": "José Villanueva",
+        "verses": [
+          "papi no te emputes",
+          "ese cana que mira de reojo",
+          "sabe que llevo su coima entre las piernas",
+          "un bulto para el clan de los mandriles",
+          "bajo el mismo escudo cada cuerpo la misma escoria",
+          "pero mis negros nunca ellos se labran su ansiedad a puro pulso",
+          "en las fiestas diciendo que quieren desaparecer",
+          "¡vámonos a otro país para ser alguien!",
+          "aquí la vida pasa contra nuestra voluntad",
+          "incapaces de trabajo o sacrificio",
+          "el sexo duro la voluntad blanda",
+          "no hay que acudir al mundo para buscar justicia",
+          "pero te has borrado tantos días negrito",
+          "que parece que tienes la mitad de tu edad",
+          "tres miembros tuvo nuestra religión trunca",
+          "pikachuri por delante",
+          "luego yo si me da el tiempo",
+          "y tú:",
+          "¿beberías sin preguntar del hoyuelo de mi mano?"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Hoy en día, como por los ríos fluye la contaminación, por seis obras de la poesía escrita en Bolivia fluyen reflexiones en torno a la humanidad y su lugar en la naturaleza."
+      },
+      {
+        "type": "poem",
+        "title": "Tradición",
+        "author": "Valeria Canelas",
+        "verses": [
+          "Me apropio de las cenizas de todos los que me precedieron",
+          "y en lugar de enterrarlas",
+          "las guardo en un gran cofre de cemento",
+          "y me siento sobre él",
+          "como si me encontrara en una plaza cualquiera",
+          "tomando el sol",
+          "–vida animal finalmente–",
+          "dispuesta a encarar el día",
+          "llena de acciones poco importantes"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Estas obras ya no se concentran en ser parte de una nación o de exceder una identidad regional, sino que abordan los temas de los que hablan desde puntos de vista posthumanos."
+      }
+    ]
+  },
+  "posthumano": {
+    "title": null,
+    "content": [
+      {
+        "type": "image",
+        "caption": "[Definición Antropoceno va acá]",
+        "source": ""
+      },
+      {
+        "type": "paragraph",
+        "content": "Por estas obras fluyen preguntas propias de la época llamada Antropoceno, una era geológica marcada por los efectos de la actividad humana. Pero, ¿cuáles son las características de estas obras?, ¿y pueden realmente estas obras humanas ir más allá de lo humano en el Antropoceno, la época del ser humano?"
+      },
+      {
+        "type":"image",
+        "caption": "Grandes ciudades. Fuente: Google Earth.",
+        "source": "/src/assets/images/foto-grandes-ciudades.png"
+      }
+    ]
+  },
+  "antropoceno": {
+    "title": "¿Antropoceno?",
+    "content": [
+      {
+        "type": "image",
+        "caption": "[Definición Antropoceno va acá]",
+        "source": ""
+      },
+      {
+        "type": "paragraph",
+        "content": "Durante una conferencia en Cuernavaca, México, el Nobel que descubrió el agujero en la capa de Ozono, Paul Crutzen, se sintió impaciente al escuchar a sus colegas todavía referirse a la época geológica actual como Holoceno, se puso de pie y los corrigió: \"¡No! Ya no vivimos en el Holoceno, sino en… ¡El Antropoceno!\" (Arias Maldonado, 2018, párr. 1)."
+      },
+      {
+        "type": "paragraph",
+        "content": "Después de aquel episodio, el Antropoceno se ha convertido en un término utilizado de manera informal por científicos y cientistas sociales para referirse a la época geológica actual, afectada por las acciones de los seres humanos. Este término, según la National Geographic, tiene enfrentada a la comunidad científica."
+      },
+      {
+        "type": "paragraph",
+        "content": "Entre las propuestas de los especialistas, la llamada Gran Aceleración del siglo XX es uno de los muchos indicadores de esta época geológica."
+      },
+      {
+        "type": "image",
+        "caption": "Gran Aceleración del siglo XX",
+        "source": "/src/assets/images/infografía-gran-aceleración-siglo-XX.png"
+      },
+      {
+        "type": "paragraph",
+        "content": "A pesar de que se basa en sólidos argumentos científicos, la propuesta del Antropoceno ha sido rechazada por la comunidad de geólogos, según el medio The Conversation, por la imposibilidad de acordar el momento exacto en que comenzó. Podría haber empezado en el siglo XVIII, con la invención de la máquina de vapor, o en el siglo XX, con la aceleración de las industrias."   
+      },
+      {
+        "type":"paragraph",
+        "content": "Según el geólogo de la Universidad de Cambridge, Philip Gibbard, los geólogos descartaron el nombramiento del Antropoceno manera formal porque la fecha de la propuesta de su comienzo, 1952, es demasiado reciente y porque \"los humanos han estado influyendo en el medio ambiente natural durante al menos 40.000 años\"."
+      },
+      {
+        "type": "paragraph",
+        "content": "No hay un consenso: no se sabe si la humanidad empezó a afectar la geología del planeta cuando comenzó la agricultura, cuando comenzó la Revolución Industrial o cuando comenzó lo que llaman la Gran Aceleración del siglo XX."
+      },
+      {
+        "type":"paragraph",
+        "content": "Aunque el término Antropoceno todavía no es oficialmente una época geológica, sí se acepta como evento geológico y define a la situación actual que vive el planeta Tierra. Esta nueva era, la era de los humanos, está marcada por el cambio climático, la disminución de la diversidad de los seres vivos y la contaminación."
+      }
+    ] 
+  },
+  "ecos": {
+    "title": "Ecos",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "Algunas obras de la poesía contemporánea en Bolivia podrían considerarse un marcador social del Antropoceno porque estas visibilizan los problemas de esta época ante sus lectores debido a sus temáticas y formas."
+      },
+      {
+        "type": "paragraph",
+        "content": "Las temáticas de esta obra no son antropocéntricas, que quiere decir que no tienen como centro la humanidad, y más bien tratan sobre el materialismo vibrante, que quiere decir que las capacidades de hacer o crear también pueden ser desempeñadas por otros organismos, objetos o espacios."
+      },
+      {
+        "type": "paragraph",
+        "content": "Estas obras son también postautónomas. Es decir que perturban los límites entre lo literario y otros espacios, como lo político, lo económico e incluso lo ritual."
+      },
+      {
+        "type": "poem",
+        "title": "Sigrotor",
+        "author": "Andrés Mariño",
+        "verses": [
+          
+            "Xatha xatha",
+            "xxitrRa mhortuzz",
+
+            "666houl 666or666atho666a 666houl 666houl 666houl",
+
+            "(los sesos derramados de Hastursedec-aa-Ioth: el energúmeno 666houl traficándonos energía desde el Otro Lado)"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Algunas de las obras del Antropoceno, además, eligen otros métodos para su producción editorial. Esto hace de los autores personas más conscientes de los materiales que utilizan o los procesos en los que incurren. Tal es el caso de Jessica Freudenthal, que ha publicado en editoriales alternativas."
+      },
+      {
+        "type": "image",
+        "caption": "Portada de Poemas ocultos de Jessica Freudenthal. Fuente: Jessica Freudenthal.",
+        "source": "/src/assets/images/portada-poemas-ocultos.png"
+      },
+      {
+        "type": "paragraph",
+        "content": "Jessica dice que ha publicado en editoriales de este tipo para cultivar las relaciones y los intercambios entre poetas. Tomar en cuenta estas relaciones es una manera de prestar atención a las fuerzas que operan por fuera del autor o del individuo: las colectividades, los circuitos editoriales o los materiales con que se hacen los libros."
+      },
+      {
+        "type": "paragraph",
+        "content": "Además de ser un indicador del Antropoceno, estas son las obras que hacen que sus lectores reflexionen en torno a la humanidad y su relación con la naturaleza: "
+      }
+    ]
+  },
+  "jessica": {
+    "title": "Cérvix (3600, 2023) de Jessica Freudenthal (La Paz, 1978–)",
+    "content": [
+      {
+        "type": "poet",
+        "photo": "/src/assets/images/photos/jessica-freudenthal.png",
+        "biography": [
+          "Escritora, artista, mediadora de la lectura, ludotecaria. Ha participado en festivales y encuentros literarios. Produce artículos y ensayos, colabora con diversas publicaciones. A través de la poesía y la literatura colabora con artistas transdisciplinares y proyectos educativos."
+        ],
+        "location": [
+          "Nació en España.",
+          "Vive en La Paz, Bolivia."
+        ],
+        "education": [
+          "Estudió Literatura en la Universidad Mayor de San Andrés."
+        ],
+        "works": [
+          {
+            "title": "Hardware",
+            "year": "2004"
+          },
+          {
+            "title": "Demo",
+            "year": "2008 y 2010"
+          },
+          {
+            "title": "Cérvix",
+            "year": "2022"
+          }
+        ],
+        "link": "https://www.instagram.com/jessica.freudenthal?igsh=MnRqNGZ4eWE3MGl4" 
+      },
+      {
+        "type": "poem",
+        "title": "Vértebras de metal",
+        "author": "Jessica Freudenthal",
+        "verses": [
+          "Aquí postradas",
+          "  donde se gesta y termina el mundo",
+          "  donde parimos, abortamos, exhalamos",
+          "  donde cada día               ​una a una",
+          "  ultrajadas, violadas, muertas",
+          "  en este pasado",
+          "  este presente",
+          "                 en los catres de la eternidad",
+          "  en todas las esquinas",
+          "  siempre ​​​​         solas",
+          "  mirando al techo",
+          "  al piso",
+          "                                 aquí",
+          "                              donde no hay astros",
+          "  ni tierra",
+          "  silencio alguno",
+          "     ​gritos tal vez",
+          "  si no nos tapan la boca",
+          "",
+          "           la imagen es casi siempre la misma:",
+          "                                   las piernas abiertas.",
+          "  En cada palabra no dicha se fortalece la maldición:",
+          "  ​​​​​un brazo invisible que nos ahorca.",
+          "Nos condenan los miedos,",
+          "las ligaduras en los ovarios, las cicatrices en el vientre, las plegarias para aliviar el dolor, los sortilegios para alejar los espíritus.",
+          "—Si no eres madre eres hija—",
+          "El tiempo no cura las heridas, no borra los moretones, no seca las lágrimas, no desaparece los insultos, no entierra los no deseados.",
+          "Aquí",
+          "escribimos con cada gota de sangre",
+          "con cada ligamento",
+          "con cada hueso no sepultado.",
+          "***",
+          "Habitamos la nada en medio de las casas. Lavamos estereotipos, cernimos chismes, separamos la historia, pulverizamos los grandes discursos, recogemos futuro.",
+          "***",
+          "Aquí,",
+          "donde la mina es vertedero",
+          "recogemos las sobras del metal",
+          "nosotras mismas somos restos                                                                             -palliri-",
+          "últimos suspiros",
+          "a esta altura                                         cuatro mil cuatrocientos sobre el nivel del mar",
+          "todas somos boca mina",
+          "agujeros para extraer e introducir",
+          "el hartazgo",
+          "​​​​​​​​​el sinsentido",
+          "​​​​​​​​​​el vacío",
+          "Allí",
+          "donde ellos no nos ven",
+          "trazamos un linaje ​                      ancestral",
+          "de mineral que se funde con silencios",
+          "Aquí afuera",
+          "no sé si recogemos vértebras",
+          "o trozos minerales",
+          "​                               Nosotras         siempre      hemos        estado       aquí",
+          "Únicamente nuestras voces se escuchan por la noche. Tenemos tres, cinco, trece, veinte, treinta y seis, cincuenta y nueve, setenta y dos, noventa y uno, cien años…",
+          "No recordamos nuestros nombres.",
+          "***",
+          "Ocurre que nos toman por las trenzas",
+          "sobre catres de hierro",
+          "mirando la pared",
+          "rechina la historia",
+          "miramos   -cuando hay una-  por la ventana",
+          "nos jalan el mundo",
+          "decimos nada.",
+          "A veces pensamos en las otras,",
+          "en sus polleras, cómo se mueven, cómo ondula la fiesta.",
+          "Aquí",
+          "hasta las piedras se congelan.",
+          "El frío de nuestros cuerpos en la zanja",
+          "-el olvidadero de la primera veta -",
+          "el Cerro desmoronándose",
+          "yacimiento de tumbas.",
+          "Blancas manos",
+          "¿vértebras o metal?",
+          "¿qué podemos hacer sino comer polvo, masticar la tierra?",
+          "frases gastadas",
+          "En el riachuelo       -apenas un recuerdo del cauce-",
+          "acabamos todas",
+          "como antigua metáfora repetida",
+          "en lenguas indígenas en castellano                                                   -pallar-",
+          "en lengua muerta",
+          "Jornadas de picapedrera,",
+          "se pican las muelas de los hijos a la par",
+          "las moscas de la muerte nos pican los ojos",
+          "a puro golpe ciernen nuestros años.",
+          "Somos partículas suspendidas.",
+          "Trenzamos el zinc, la plata y el estaño,",
+          "el oro de nuestras razas perdidas,",
+          "tamizamos generaciones",
+          "envenenadas de silencio y mercurio.",
+          "Guardamos la bocamina.",
+          "***",
+          "Este es el futuro.",
+          "Aquí y ahora.",
+          "***",
+          "Tú, ¿sabes cómo te llamas?",
+          "No importa de dónde vengas, cuál es tu nombre",
+          "del Norte, del Sur.",
+          "El sinsentido y la angustia son las mismas.",
+          "La mano que nos ahorca, el arma que nos penetra, el silencio de los siglos.",
+          "​​​​El mismo.",
+          "Las noches sin estrellas, los espejos de espaldas,",
+          "nuestras bocas de sed,",
+          "los hijos escondidos y los ojos abiertos",
+          "tejiendo coronas de tierra y cruces de fuego",
+          "cocinando para las vivas",
+          "las sobrevivientes",
+          "***",
+          "No importa si no sabes tu nombre,",
+          "si duermes sobre seda, en catres, sobre escombros, en las piedras…",
+          "​​El silencio palpitante cuando sabes lo no dicho y prefieres callar",
+          "en la complicidad el miedo será siempre         el mismo.",
+          "Allí                     Aquí                Nosotras             Todas"
+        ] 
+      },
+      {
+        "type": "audio",
+        "imgCoverAudio": "/src/assets/images/audio-covers/poema-1-audio-cover.png",
+        "url": "https://open.spotify.com/episode/2gxQIS35ywH5kuVe1g2GD9?si=jYxo9Qt5Qge_dFBEsLoU3Q"
+      }
+      
+    ]
+  },
+  "jessica2": {
+    "title": null,
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "En esta obra, Jessica explora la maternidad como experiencia de contacto extraterrestre. Dice: \"Cuando hay un ser dentro tuyo, literalmente es como que hay otra piel dentro de tu piel. Un latido dentro de tu latido. ¿Entonces cuál es el límite? ¿Si come de lo que tú comes? Es muy imposible de definirlo, de sentirlo\"."
+      },
+      {
+        "type": "paragraph",
+        "content": "El nuevo mito que plantea Donna Haraway acerca del cyborg es un mito en el que no hay ningún temor de tener parentesco con animales o máquinas, o incluso, en el contexto de este poema, temor de tener parentesco con nuestros propios hijos."
+      },
+      {
+        "type": "paragraph",
+        "content": "En la obra, la voz poética llamada madre incluso desgarra su propia identidad, como seguramente ha hecho con su cuerpo alguna que otra hija suya, pero no lo se sabrá porque, como dice la voz poética:"
+      },
+      {
+        "type": "poem",
+        "title": null,
+        "author": null,
+        "verses": [
+          "\"Nadie puede presenciar lo que sucede.",
+          "Nadie testigo",
+          "de ese\t\t\t\t\tespacio-tiempo",
+          "ajeno y extraño",
+          "dual y simultáneo",
+          "imposible silogismo\""          
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "La autora propone el cuerpo materno como un cyborg de Donna Haraway, un cuerpo entre el organismo y la máquina, que se genera de una manera violenta: \"Para mí Cérvix es una obra violenta\"."
+      },
+      {
+        "type": "paragraph",
+        "content": "Y la obra es violenta. La maternidad cyborg desgarra la identidad de la madre y la desplaza hacia la del reptil:"
+      },
+      {
+        "type": "poem",
+        "verses": [
+          "\"Se arrastra",
+          "No puedo dejar de mirarlo",
+          "mueve solo un lado de su cuerpo,",
+          "\t\t\t\t\t\t\t       babea\""
+        ]
+      },
+      {
+        "type": "image",
+        "caption": "Vórtice. Fuente: Tenor.",
+        "source": "/src/assets/images/effects/vortex-fuente-tenor.gif"
+      },
+      {
+        "type": "paragraph",
+        "content": "Cérvix —que es sinónimo de cuello uterino— es un poema que opera en espiral. Comienza con una madre y termina con la imagen de las palliris en la bocamina, escarbándola.",
+        "tooltip": {
+          "word": "palliris",
+          "content": "Una palliri es una mujer que trabaja en las minas, generalmente de Bolivia, recogiendo residuos de mineral con valor comercial. La palabra palliri proviene del aymara palla-ri, que significa \"la que recoge\".",
+          "source": "Diccionario de la lengua española."
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Las palliris son mujeres, generalmente esposas de mineros, que se dedican a rescatar en las bocaminas los residuos de la minería que puedan tener algo de valor para la venta. Todas estas mujeres trabajan por fuera de la mina, sin ningún tipo de derecho laboral o seguro, según el medio Opinión. Algunas de ellas heredan el contrato con la minera de su esposo y pueden acceder a trabajar dentro de la mina, pero esto solo ocurre en el caso de que sus esposos fallezcan. Muchas de ellas están condenadas a la pobreza, ven a sus esposos e hijos morir en las minas y, finalmente, ellas mismas mueren."
+      },
+      {
+        "type": "paragraph",
+        "content": "En el principio de Cérvix está el útero: la espiral que da vida. Hacia el final otra espiral, la de la bocamina, que es una tierra que se traga aquella vida. Creación de la vida en el útero y destrucción de la vida de las palliris, mujeres son madres y tienen úteros, en la mina."
+      },
+      {
+        "type": "image",
+        "caption": " Palliris de Llalagua. Fuente: Opinión.",
+        "source": "/src/assets/images/foto-palliris.jpg"
+      }
+    ]
+  },
+  "edgar":{
+    "title": "Sarcoma (3600, 2018) de Edgar Solíz (Oruro, 1984–)",
+    "content": [
+      {
+        "type": "poet",
+        "photo": "/src/assets/images/photos/edgar-soliz.png",
+        "biography": [
+          "Es poeta, investigador literario acerca de las narrativas del gremio marifrunci (LGBTIQ+) en la literatura boliviana e integrante del Movimiento Maricas Bolivia."
+        ],
+        "location": [
+          "Nació en Oruro.",
+          "Vive en La Paz, Bolivia."
+        ],
+        "education": [
+          "Estudió Literatura en la Universidad Mayor de San Andrés."
+        ],
+        "works": [
+          {
+            "title": "Eucaristicón",
+            "year": "2004"
+          },
+          {
+            "title": "Sarcoma",
+            "year": "2018"
+          },
+          {
+            "title": "Gay discreto busca heterocurioso: pulsiones homosexuales que habitan la ciudad",
+            "year": "2018"
+          }
+        ],
+        "link": "https://www.instagram.com/edgarsolizguzman?igsh=ZG9va3dmbTVqcmkx"
+      },
+      {
+        "type": "poem",
+        "title": "V",
+        "author": "Édgar Soliz",
+        "verses": [
+          "Permanecer ilegible",
+          "en miles de formas.",
+          "Dejar a la carcoma instalarse",
+          "temporalmente,",
+          "mientras el silencio deviene territorio cifrado.",
+          "Nada queda de la pus,",
+          "las llagas,",
+          "costras",
+          "y cicatrices.",
+          "Ni siquiera ese fatal tizne violáceo que tanto temíamos.",
+          "(LA MODORRA EMPIEZA A HABITAR LO EXCESIVO DEL DESEO EN LO TRANSITORIO DE LA NÁUSEA EQUÍVOCA DEL AMOR QUE, A SU VEZ, YERRA EL CUERPO PORQUE TODO MUERE EN EL SUPLICIO DE LA NOCHE QUE VACÍA SU URNA APOYÁNDOSE EN LA PRÉDICA DE LA  URGENCIA  TIEMPO  DESTINO  CUERPO  POEMA  PALABRA SILENCIO.)"
+        ]
+      },
+      {
+        "type": "audio",
+        "imgCoverAudio": "/src/assets/images/audio-covers/poema-2-audio-cover.png",
+        "url": "https://open.spotify.com/episode/4eOjRS1Nhex7GsWLQ4onwt?si=67a2c304e9544544"
+      }
+    ]
+  },
+  "edgar2": {
+    "title": null,
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "En Sarcoma, Edgar Soliz deja hablar a la enfermedad del VIH (sigla para el virus de inmunodeficiencia humana), en su expresión de SIDA (que es la etapa final de la infección por VIH), como carcoma de la vida y del lenguaje. Esta obra además tiene lo que él llama \"una acción militante respecto del VIH\", puesto que Edgar es miembro de Nación Marica, un movimiento que apuesta por la liberación del gremio marifrunci.",
+        "tooltip": {
+          "word": "marifrunci",
+          "content": "Movimiento de personas LGBTIQ+ o también llamadas disidencias sexuales. Esta es la palabra que utiliza el movimiento Maricas Bolivia para no invisibilizar los orígenes populares, cholos e indígenas de las personas homosexuales latinoamericanas.",
+          "source": "Comunicación personal."
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Sarcoma es también una obra que transmite incertidumbre. En 1984, tres años después de los primeros brotes, el VIH y el SIDA fueron identificados por la comunidad científica. Se supo, en aquella época, que las causas de contagio eran vía sangre, relaciones sexuales y de madre a hijo."
+      },
+      {
+        "type": "paragraph",
+        "content": "En la época, la enfermedad todavía no tenía un nombre conocido. Uno de sus primeros nombres, según el medio Somich, fue el de \"cáncer gay\". Por eso, Sarcoma no es solo un libro sobre el SIDA, sino también un diálogo con las tradiciones artística y literaria homosexuales, y también con los movimientos por los derechos de los homosexuales."
+      },
+      {
+        "type": "paragraph",
+        "content": "Para Edgar, honrar su tradición literaria es tan importante como nombrarse indígena: \"es difícil desentenderse de Loco afán: Crónicas de sidario de Pedro Lemebel, la grandiosa novela El color del verano de Reinaldo Arenas o Salón de belleza de Mario Bellatin\"."
+      },
+      {
+        "type": "image",
+        "caption": "Portada de un libro de crónicas de enfermos de SIDA de Pedro Lemebel. Fuente: Memoria chilena.",
+        "source": "/src/assets/images/portada-loco-afan-pedro-lemebel.jpg"
+      },
+      {
+        "type": "paragraph",
+        "content": "En Sarcoma, la enfermedad escribe sobre la superficie de un cuerpo infecto:"
+      },
+      {
+        "type": "poem",
+        "verses": [
+          "Desahuciado:",
+          "     El dolor escribe sus señales como grafía del tormento,",
+          "     signos indescifrables que transforman mi cuerpo",
+          "     en un misterio que socava sus fronteras",
+          "     y abre su clausura como un hueco violento en la carne.",
+          "     ",
+          "     La enfermedad me escribe ocupando el aire putrefacto, socava mi piel para herirme con la congoja tornasolada",
+          "     de esas miserias que enaltecen el color de mis pústulas",
+          "     y reavivan el sopor que destila un dogma de muerte."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "El SIDA en Sarcoma es una enfermedad que es capaz de expresarse. Parte del lenguaje de la enfermedad del SIDA son sus signos: las pústulas y los sarcomas. Estas imágenes son leídas por la sociedad, pero también la sociedad les construye otras."
+      },
+      {
+        "type": "paragraph",
+        "content": "Edgar menciona como inspiración de su obra a la filósofa Susan Sontag quien, en El SIDA y sus métaforas, afirma el SIDA en los años ‘80 pasó a ser vivido como se vivía el cáncer, es decir el secreto y la vergüenza."
+      },
+      {
+        "type": "paragraph",
+        "content": "Pero el secreto y la vergüenza no fueron la inspiración de Edgar para escribir Sarcoma, sino la incertidumbre y el miedo a encontrarse con las expresiones de la enfermedad y con la muerte. Según el poeta, él mismo ha vivido el periodo ventana: un periodo entre el primer contacto sin protección con una persona —generalmente, contacto sexual— y los 30 días siguientes, periodo en el que el virus todavía no alcanza a ser detectado. Considérese que una persona puede vivir hasta 15 años sin saber que porta el VIH."
+      },
+      {
+        "type": "paragraph",
+        "content": "Pero el cuerpo individual no es necesariamente el cuerpo que trabaja Edgar en Sarcoma, sino que él habla desde un cuerpo social marica, cuerpo sobre el que el VIH y el SIDA, a través de la muerte y el estigma, escriben."
+      }
+    ]
+  },
+  "valeria": {
+    "title": "Escribir sobre el cemento (Liliputienses, 2023) de Valeria Canelas (La Paz, 1984–)",
+    "content": [
+      {
+        "type": "poet",
+        "photo": "/src/assets/images/photos/valeria-canelas.png",
+        "biography": [
+          "Escritora y felinista. Licenciada en Historia y magíster en Literatura hispanoamericana y en Estudios ibéricos y latinoamericanos. En la actualidad, estudia biblioteconomía y escribe su tesis doctoral sobre la relación entre lo animal y lo humano."
+        ],
+        "location": [
+          "Nació en La Paz.",
+          "Vive en Sevilla, España."
+        ],
+        "education": [
+          "Estudió Historia. Es magíster en Literatura hispanoamericana y en Estudios ibéricos y latinoamericanos. Actualmente es doctorante en Literatura Hispanoamericana y escribe su tesis sobre la relación entre lo animal y lo humano."
+        ],
+        "works": [
+          {
+            "title": "Maquinería",
+            "year": "2016"
+          },
+          {
+            "title": "Escribir sobre el cemento (Liliputienses, 2023)",
+            "year": "2023"
+          }
+        ],
+        "link": "https://www.instagram.com/valerianeko?igsh=YWl5N3BtOGJ2aTVz"
+      },
+      {
+        "type": "poem",
+        "title": "Compañía",
+        "author": "Valeria Canelas",
+        "verses": [
+          "Ahora que estamos en el inicio",
+          "del colapso",
+          "te miro mientras pienso que",
+          "al menos lograrse conocernos",
+          "compartir este momento",
+          "coincidir en este lugar",
+          "en la historia y en el recorrido del planeta",
+          "que se agota.",
+          "",
+          "Tuvimos suerte.",
+          "",
+          "Nosotros también nos agotamos",
+          "solo que aún no lo sabemos del todo",
+          "pero te acaricio la pata",
+          "y atravieso todas las especies que nos separan",
+          "intentando llegar a nuestro origen común",
+          "la raíz evolutiva de nuestros órganos.",
+          "",
+          "Todo lo que nos separara",
+          "no impide que ambos nos encontremos en el mismo límite",
+          "aunque tú no lo sepas",
+          "y quizás no lo experimentes en forma cabal",
+          "aunque yo también me encuentre en una especie",
+          "de bruma inconsciente",
+          "y atraviese este final de los tiempos",
+          "como si fuera una simple ficción",
+          "sin consecuencias.",
+          "",
+          "Pero dicen que por primera vez",
+          "este verano en la India",
+          "los de tu especie caen muertos por las calles",
+          "y los pájaros se precipitan como bombas que no estallan",
+          "y yo me pregunto si es eso lo que nos espera",
+          "estar juntos en la sequía y en la muerte",
+          "acompañarnos también en la asfixia."
+        ]
+      },
+      {
+        "type": "audio",
+        "imgCoverAudio": "/src/assets/images/audio-covers/poema-3-audio-cover.png",
+        "url": "https://open.spotify.com/episode/2cpE68JZFsAsOBN1ZJs0RU?si=D17hnOKvQbOBlkUGjb913w"
+      }
+    ]
+  },
+  "valeria2": {
+    "title": null,
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "Valeria, que escribió Escribir sobre el cemento, dice que \"el horizonte de que en nuestro umbral de vida nos enfrentemos a la desaparición de especies, de ecosistemas, es bastante, bastante patente, bastante claro. Entonces pienso, eso tiene que afectar al lenguaje de alguna forma\"."
+      },
+      {
+        "type": "paragraph",
+        "content": "Pero la búsqueda de su poesía, según la poeta, no va por el horizonte de los grandes mundos distópicos, sino por los horizontes de vida cotidianos y actuales. En los horizontes cotidianos de la obra de Valeria las sutiles relaciones entre diferentes especies son primordiales:"
+      },
+      {
+        "type": "poem",
+        "verses": [
+          "Cansada de buscar lo excepcional",
+          "me entrego a lo inmediato",
+          "equivoco nuevamente los repartos",
+          "al pensar que lo uno no está",
+          "engarzado en lo otro",
+          "se trata de un desbroce innecesario",
+          "porque es en las superficies pobladas",
+          "en las extensas nieblas sin contraste",
+          "donde aparece breve",
+          "eso que busco",
+          "como un relámpago"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "La poeta es doctorante en Literatura Hispanoamericana en la Universidad Complutense de Madrid. Investiga, actualmente, la relación entre lo animal y lo humano en la literatura latinoamericana. Lo animal, para ella, es aquello extranjero, lo desconocido que palpita con intensidad en cualquier lengua humana."
+      },
+      {
+        "type": "paragraph",
+        "content": "Valeria, en casi todos sus perfiles en línea, se nombra felinista. ¿Por que es feminista gatuna o por que es activista por los derechos de los gatos? Como fuera, la poeta propone en su obra, como lo haría Dona Haraway, la generación de parentescos en vez de los relacionamientos más comunes entre los humanos y el resto de los seres del planeta, como el de consumo.",
+        "tooltip": {
+          "word": "parentescos",
+          "content": "La filósofa Donna Haraway propone construir parentescos como una manera de reconfigurar las relaciones entre el planeta y sus habitantes humanos. Para ella, esto implica generar parentescos entre humanos y no–humanos (animales, minerales, plantas, etc.).",
+          "source": "Seguir con el problema, Donna Haraway"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "En 2023, la Policía Forestal y de Preservación del Medio Ambiente (Pofoma) registró 647 denuncias de rescate animal, de las cuales solo un par terminaron en sentencia. La cifra de ese año es menor con respecto al anterior, 2022, en la que Pofoma registró 3.551 denuncias."
+      },
+      {
+        "type": "paragraph",
+        "content": "El especismo es una forma de discriminación hacia quienes no pertenecen a determinada especie, generalmente a la especie humana, según el sitio web Animal Ethics. Esta discriminación incluye la explotación de los animales no humanos, quienes se usan como recursos alimenticios, materiales, para experimentación o incluso para ser los jueguetes de los niños. Son, en pocas palabras, esclavos."
+      },
+      {
+        "type": "image",
+        "caption": "Cachorros rescatados de la venta ilegal de animales de la Feria 16 de Julio de El Alto, Bolivia. Fuente: La Razón.",
+        "source": "/src/assets/images/foto-cachorros-16-julio.jpg"
+      },
+      {
+        "type": "paragraph",
+        "content": "Para evitar generar estas relaciones de explotación, Valeria elige no solo una dieta vegetariana, sino también una sensibilidad poética que se sabe humana, que conoce el rol de esta especie en la cadena alimenticia y que comparte la responsabilidad de la explotación a los animales y el planeta:"
+      },
+      {
+        "type": "poem",
+        "title": "Botánica",
+        "verses": [
+          "Estos perfiles grises tienen su encanto",
+          "estos bloques de cemento",
+          "columbarios improvisados",
+          "tienen su encanto",
+          "estas instancias volcadas hacia el puerto",
+          "tomadas por gaviotas de andén",
+          "tienen su encanto",
+          "me repito con un afán de permanencia",
+          "que en cuanto llega el tren se disipa",
+          "como un mal presagio",
+          "o una mala decisión inapelable",
+          "un entramado de circunstancias",
+          "que han desembocado aquí",
+          "en esta necesidad un tanto insulsa",
+          "de resaltar lo que me rodea",
+          "con palabras",
+          "forzar la percepción",
+          "orillarse fuera de sus cauces neutros",
+          "y perdonarme",
+          "por estar aquí",
+          "planta carnívora en medio del colapso."
+        ]
+      }
+    ]
+  },
+  "lucia": {
+    "title": "Oráculo eléctrico (3600, 2023) de Lucía Carvalho (Santa Cruz, 1993–)",
+    "content": [
+      {
+        "type": "poet",
+        "photo": "/src/assets/images/photos/lucia-carvalho.png",
+        "biography": [
+          "Escritora, artista audiovisual y gestora cultural. Gestora cultural del espacio colaborativo y de recuperación de la memoria patrimonial Casa Carmencita. Coordinadora de la plataforma de difusión literaria y cultural @Cyberelfa."
+        ],
+        "location": [
+          "Nació en Santa Cruz.",
+          "Vive en Santa Cruz, Bolivia."
+        ],
+        "education": [
+          "Estudió Marketing y Publicidad en la Universidad Privada de Santa Cruz de la Sierra."
+        ],
+        "works": [
+          {
+            "title": "Fiesta equivocada",
+            "year": "2017"
+          },
+          {
+            "title": "Universo 127 Expandido",
+            "year": "2021"
+          },
+          {
+            "title": "Oráculo eléctrico",
+            "year": "2023"
+          }
+        ],
+        "link": "https://www.instagram.com/delulu_u_?igsh=MWt6ZmEzNTJ3YWJlZg=="
+      },
+      {
+        "type": "poem",
+        "title": "Daphne cyborg",
+        "author": "Lucía Carvalho",
+        "verses": [
+          "El oráculo eléctrico sabrá mostrar",
+          "la belleza que me contiene.",
+          "",
+          "Esta fuente de sangre que llamo cuerpo no logro",
+          "habitarlo",
+          "",
+          "La biología no es suficiente.",
+          "Pitonisas o algoritmos",
+          "me muestran el yo futuro.",
+          "",
+          "Yo",
+          "perfecta",
+          "más allá de esta corteza de piel",
+          "descubro mi verdadera forma",
+          "",
+          "sangre y metal."
+        ]
+      },
+      {
+        "type": "audio",
+        "imgCoverAudio": "/src/assets/images/audio-covers/poema-4-audio-cover.png",
+        "url": "https://open.spotify.com/episode/0LiYzEvwQAQrrdQoSsmJxe?si=jhHm4mM1TCOB-LxcGrpLEQ"
+      }
+    ]
+  },
+  "lucia2": {
+    "title": null,
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "La autora de El oráculo eléctrico, Lucía Carvalho, trabaja la poesía desde lo digital, pero también desde lo místico: \"Estoy tratando de entender y comunicarme con algo desconocido a través de la poesía\"."
+      },
+      {
+        "type": "paragraph",
+        "content": "Lucía dice que, aunque en su parecer no sea una idea muy popular, la tecnología puede llegar a ser espiritual. Afirma que utilizar la tecnología puede ser similar a utilizar un tablero de ouija, en tanto que puede revivir a artistas mediante hologramas o puede recuperar discos mediante inteligencia artificial, que de otra manera se hubieran perdido."
+      },
+      {
+        "type": "image",
+        "caption": "Holograma de Tupac Shakoor en el festival de música Coachella 2012. Fuente: Lollapaloozamania.",
+        "url": "/src/assets/images/foto-holograma-tupac-shakoor.jpg"
+      },
+      {
+        "type": "paragraph",
+        "content": "Oráculo eléctrico apuesta por buscar respuestas a preguntas espirituales en las máquinas. A esta propuesta, en Tecgnosis: Mito, magia y misticismo en la era de la información, el escritor Erik Davis le ha llamado el cyborg espiritual."
+      },
+      {
+        "type": "paragraph",
+        "content": "Para Davis, los medios tecnológicos —\"desde los jeroglíficos hasta el código informático\"— son indisociables del intercambio entre el mundo espiritual o divino y el humano. A este tipo de propuestas se las enmarca dentro del tecnomisticismo.",
+        "tooltip": {
+          "word": "tecnomisticismo",
+          "content": "Corriente de pensamiento que desarma la premisa de que el avance de la razón técnica traería un desencantamiento del mundo. Más bien, propone que la dimensión espiritual sigue viva; convive y dialoga con el desarrollo de Internet y todas las evoluciones que nos dejan perplejos.",
+          "source": "Página/12"
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Davis lo advirtió ya en un intercambio de e-mails que tuvo con el medio Página/12: \"Quizás ya seamos más posthumanos de lo que imaginamos\". \"Si los 25 años que han pasado entre la publicación inicial (de Tecgnosis) y ahora sirven de guía, los temas extraños y marginales que cubro solo se volverán más mainstream\", vaticina, consultado por el mundo que imagina en el futuro."
+      },
+      {
+        "type": "paragraph",
+        "content": "Oráculo eléctrico comienza con esta imagen:"
+      },
+      {
+        "type": "image",
+        "caption": "Comienzo Oráculo eléctrico",
+        "url": "/src/assets/images/foto-oraculo-electrico.png"
+      },
+      {
+        "type": "paragraph",
+        "content": "En él, quien escribe instala ya el panorama: se trata de una usuaria que pregunta a Google, cual si fuera un oráculo, cuál es el próximo paso que \"buscamos con la comunicación\" o que está \"fuera del orden\"."
+      },
+      {
+        "type": "paragraph",
+        "content": "El Oráculo eléctrico, sin embargo, no responde, sino que refleja un vacío:"
+      },
+      {
+        "type": "poem",
+        "verses": [
+          "Una voz incómoda se vacía",
+          "en las fibras del oráculo eléctrico",
+          "",
+          "Quise mostrar",
+          "todo lo que me contiene",
+          "",
+          "retumba el eco",
+          "",
+          "Estoy vacía."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Sin embargo, hay cierta esperanza en encontrar respuestas en el Oráculo eléctrico, pues él \"sabrá mostrar / la belleza que me contiene\". "
+      },
+      {
+        "type": "paragraph",
+        "content": "Además, la obra junta la cultura digital popular con la clásica. La tecnología de uso cotidiano, como los teléfonos inteligentes, se entremezcla con personajes míticos griegos. Esta obra es un homenaje a la abuela de Lucía, quien le hablaba de los mitos griegos y guaraníes, pero también es un homenaje a la red de Internet, red y a la vez oráculo por donde nuevos mitos circulan."
+      },
+      {
+        "type": "paragraph",
+        "content": "Lucía gestiona el proyecto Hija del internet, sitio web que reúne su trabajo, y gestiona el proyecto Cyber Elfa, un proyecto de difusión cultural que intersecta animé, poesía y feminismo. En septiembre, el podcast Hablemos escritoras le hizo una entrevista donde la poeta menciona ser fundadora del centro cultural Casa Carmencita en Santa Cruz, donde busca \"abrir un espacio cultural en donde podamos darle sala a artistas y crear eventos culturales\"."
+      }
+    ]
+  },
+  "andres": {
+    "title": "El chivo maquínico (web blog, circa 2021–) de Andrés Mariño Rivera (El Alto, 1996–)",
+    "content": [
+      {
+        "type": "poet",
+        "photo": "/src/assets/images/photos/andres-mariño.png",
+        "biography": [
+          "Poeta, performer y traficante de libros. Su mera existencia es ya un atentado"
+        ],
+        "location": [
+          "Nació en El Alto en 1996",
+          "Vive en La Paz, Bolivia."
+        ],
+        "education": [
+          "Estudió Literatura en la Universidad Mayor de San Andrés."
+        ],
+        "works": [
+          {
+            "title": "Chivo maquínico",
+            "year": "circa 2021–actualidad."
+          },
+          {
+            "title": "Geología sagrada",
+            "year": "2023"
+          },
+          {
+            "title": "Voodoo Virus",
+            "year": "2021"
+          }
+        ],
+        "link": "https://www.instagram.com/xxkadaverxx?igsh=MXVxZG8xOHgwbWs5Mg=="
+      },
+      {
+        "type": "poem",
+        "title": "",
+        "author": "Andrés Mariño",
+        "verses": [
+          "Xatha xatha",
+          "xxitrRa mhortuzz",
+          "666houl 666or666atho666a 666houl 666houl 666houl",
+          "(los sesos derramados de Hastursedec-aa-Ioth: el energúmeno 666houl traficándonos energía desde el Otro Lado)",
+          "xatra gammificando el koxxxis y la lengua artificial desviada por virus y entidades espirituales",
+          "se intercepta señales ultrafrías venidas de la zona múltiple nanofantasma",
+          "nekroespasmos",
+          "respiras crystal y el organismo duele al ser desintegrado por el polvo",
+          "Ihelgatorz//// demonio del hielo",
+          ":el mundo se parte :el motor del mundo cambia de rumbo",
+          "el xtranjero se inserta como un atentado informático contra la interfaz",
+          "tácticas de shock para arrastrarse mejor en medio de los insectos y la mutación antropófaga-sagrada",
+          "Hielo escarlata",
+          "Viniendo a corromper una aceleración exponencialmente negativa",
+          "Velocidad total",
+          "Ihelthorz Ihelthorz / polvo de hielo: luz maligna",
+          "Aliméntate de los susurros de luz maligna mediante drenajes sintéticos",
+          "xxXxXxXxXXXXxxxXXXXxxXxXxxXXxxxXxXxXxXxXxXxXxXx"
+        ]
+      },
+      {
+        "type": "audio",
+        "imgCoverAudio": "/src/assets/images/audio-covers/poema-5-audio-cover.png",
+        "url": "https://open.spotify.com/episode/06WjqLz3Xyjqa14jH6AtKr?si=AnF60npwRV2Zbg3cjXoX9A"
+      }
+    ]
+  },
+  "andres2": {
+    "title": null,
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "Andrés Mariño, el poeta que escribe en El chivo maquínico, afirma rotundamente que no hay una ruptura entre el mundo natural y el maquínico, sino que aquella separación no es más que una apariencia. Todo está unido por flujos y energías sutiles. En sus palabras: \"Es a partir de flujos, transformaciones, bloques, donde esos flujos (natural y maquínico) se condensan, luego se descondensa\", \"no se destruyen, no se transforman\", \"no hay una ruptura, sino que hay contagios\"."
+      },
+      {
+        "type": "paragraph",
+        "content": "El chivo maquínico, más que un sitio web, es un proyecto transmedia que se presenta a sí mismo de la siguiente manera:"
+      },
+      {
+        "type": "poem",
+        "verses": [
+          "El chivo maquínico viene a meter sus cuernos y sus lenguas en el cerebro cultural, político y religioso del movimiento del espíritu de este tiempo, y obviamente de los otros tiempos.",
+          "El chivo es un fantasma y un nervio.",
+          "No tiene nombre pero sí posición en contra del posicionamiento y los bulbos.",
+          "Las publicaciones se incrustarán como pezuñas en los huesos de un plasma llamado carne virtual que chupa vuestros cerebros.",
+          "Nuestra mera existencia es ya un atentado.",
+          "Advertencia, la bomba es lateral.",
+          "Cabe decir, por último, que escribimos no desde el tercero, sino desde el último de los mundos.",
+          "El rapto ya viene.",
+          "Sustituir chivo, por la Kobrxx y la sangre fría y el misterio Dewónico"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "En una entrevista para la revista de poesía Ubre amarga, Andrés presenta a El chivo como un proyecto con dos alas: \"una, es el blog El chivo maquínico que reúne textos experimentales, propuestas maquínico deseantes, manifiestos, experimentos visuales y otra, de experimentación performática y de ritual burlesco y violento: Los Trances del RoTuRnomiO (TdR)\", que se dedica sobre todo a la performance en vivo."
+      },
+      {
+        "type": "image",
+        "caption": "Afiche de uno de los Trances del RoTuRnomiO. Fuente: EscenArtes.",
+        "source": "/src/assets/images/afiche-trances-del-roturnomio.jpg"
+      },
+      {
+        "type": "paragraph",
+        "content": "En el proyecto participan Andrés Mariño, Oscar Delgadillo, Nonato Espina (quien es un personaje ficticio) y Leonardo Nicodemo, y colabora continuamente con artistas y proyectos del afuera, es decir, seres humanos y seres no humanos."
+      },
+      {
+        "type": "paragraph",
+        "content": "En Bolivia, después de la pandemia el presupuesto de cultura del Estado Plurinacional de Bolivia sufrió una reducción del 73%: de Bs 146.00 0.000 a Bs 39.000.000, según el medio Opinión. El Premio Municipal de Poesía Franz Tamayo, se redujo de los Bs. 20.000 en 2017, pasando por los Bs 15.000 en 2020, hasta llegar a los Bs 11.000 en 2024. Este es el incentivo más importante a los poetas en el país, porque el Premio Nacional de Poesía Yolanda Bedregal dejó de existir en el año de la pandemia por COVID-19, el 2020."
+      },
+      {
+        "type": "paragraph",
+        "content": "Para Andrés, es fácil concentrarse en el \"mal externo\" de la precariedad de la industria cultural boliviana y no ser autocrítico. Para él, el cáncer de los poetas y los artistas es la ausencia de investigación y la falta de rigor en los procesos investigativos. \"Hay que estar a la altura del nuevo parásito\", afirma el poeta."
+      },
+      {
+        "type": "paragraph",
+        "content": "Para él, los movimientos artísticos deberían ser “movimientos paramilitares instaurando nuevas religiones sin dios”. En los poemas del Chivo maquínico, quien escribe se relaciona con una sustancia —probablemente ketamina— como si de la relación con una entidad espiritual se tratara:"
+      },
+      {
+        "type": "poem",
+        "verses":[
+          "La tarjeta corta el polvo. Tssschzzz. Hace líneas. Ghoul ghoul ghoul. Sniffffffffffff. El otro lado y la simetría. Snifffffff. Todo es oscuro y no tiene por qué serlo. Hasta que se oscurece más.",
+          "Visiones. Vómitos. ¿Acaso la maldita criatura Z me ama como yo amo el horror de la kosa?",
+          "Me intoxico por amor.",
+          "",
+          "Progresiones en polvo hacia snowcrash. Pspspspsps. Algo te llama. Resplandor de campanas y sieRRRRRRas. DIJE Z Y PUNTO.",
+          "¿Quién te hizo creer que estábamos destinados a volver? Software software haciendo y deshaciendo. Esto es una trampa. Atrapado en la trabada trampa. Jodida de mierda hijo de puta.",
+          "suneastos. Abaou Werrra!!!!",
+          "",
+          "Hechos de tiza. Golem. Gorrem.",
+          "VOLVEMOS, PERO CON LA BESTIA.",
+          "Atravesar el transecto mientras todo se tranza.",
+          "El dragón ángel negro sin cabeza",
+          "El hardware se calcina en el 10mo día consecutivo de la campaña zerg (z).",
+          "Rxxxx no es Z. No tienes las bolas para ser Z.",
+          "(Sólo hay truco / no hay trato posible)"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "En este poema, quien escribe se relaciona desde el amor y el horror con \"la kosa\" o la sustancia ketamina. El texto termina con la frase \"(\"Sólo hay truco / no hay trato posible\") y con esto se refiere a que en esta poesía no hay manera en que haya un acuerdo con la entidad espiritual de la ketamina, sino que hay truco, trampa para lograr un fin. La sustancia, una religión y el ser humano, su esclavo o amante."
+      },
+      {
+        "type": "paragraph",
+        "content": "Esta poesía de estética violenta celebra tanto la devastación ambiental como la existencial. Propone una apuesta radical por la aceleración del capitalismo desde la autodestrucción encaminada hacia el colapso planetario:"
+      },
+      {
+        "type": "poem",
+        "verses": [
+          "Un impulso de autodestrucción se alza como la fachada de una iglesia derruida. No hecha de piedra sino de la experiencia de la carne, edificio negro cuyos ventanales eyectan chorros de azufre, el humo incontenible de la realidad desaforada, virulenta, explosiva, demoniaca."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "En estos poemas no hay una reflexión ecológica, sino más bien una celebración del horror cósmico que causan los seres humanos que juegan con la muerte del planeta y de la especie. Es esta perspectiva cósmica la que hace a estos poemas posthumanos."
+      }
+    ]
+  },
+  "ignacio": {
+    "title": "Ángeles a máxima velocidad (Loko: el Gato, 2021) de Ignacio “Nacho” Navarro",
+    "content": [
+      {
+        "type": "poet",
+        "photo": "/src/assets/images/photos/ignacio-navarro.png",
+        "biography": [
+          "Es artista, estratega de marketing y nómada digital. Trabaja en poesía, en collage y en la intervención digital de imágenes."
+        ],
+        "location": [
+          "Nació en Sucre en 1998.",
+          "Vive en Santa Cruz, Bolivia."
+        ],
+        "education": [
+          "Cursó Derecho en la Universidad Privada de Santa Cruz de la Sierra."
+        ],
+        "works": [
+          {
+            "title": "Bete Noire",
+            "year": "2016"
+          },
+          {
+            "title": "Ángeles a máxima velocidad",
+            "year": "2017 y 2020"
+          },
+          {
+            "title": "Ruido de Ave / Ruido de Aqua",
+            "year": "2024"
+          }
+        ],
+        "link": "https://www.instagram.com/charles.norwick?igsh=azkwajdpMmFzaXU0"
+      },
+      {
+        "type": "poem",
+        "title": "Párpado",
+        "author": "Nacho Navarro",
+        "verses": [
+          "troza mi existencia como ruiseñor",
+          "tulipán que ave como cielo",
+          "Ojo: Ojo que estera la huella que hielo en mi interior",
+          "y cielo juguete en mar",
+          "mar y pilares",
+          "fuente única, envidiable el párpado que cierra.",
+          "Origen apartado:",
+          "muerto el mercader de los ojos",
+          "las lagañas podridas de un dios es el tiempo.",
+          "Podredumbre de la uva que es el mundo.",
+          "Mundo/tiempo/espacio",
+          "nocturno es el espacio donde la luna llora.",
+          "Y llora el gato que come las esquinas del cielo.",
+          "También llora el cielo que come las esquinas del mundo",
+          "y el mundo que come la cola de la rata, llora.",
+          "Yo párpado parado en relojes",
+          "La existencia relincha como ave que verde en mis sienes.",
+          "Así la flor cabalga como juguete",
+          "así la flor es el ojo en la noche.",
+          "Así yo noche todos mis lunares",
+          "los lunares se agitan formando cicatrizas",
+          "la espuma brota, aquello que me mantiene visible",
+          "Los otros ven que no veo el suelo ni el cielo",
+          "arriba el pájaro que ojo y porta el dolor",
+          "abajo el ratón que diablo y porta mi piel.",
+          "El mundo me toca.",
+          "El mundo como animal de símbolos duerme en la profundidad.",
+          "El mundo como dedos me toca.",
+          "El mundo como animal de símbolos duerme en la profundidad.",
+          "El mundo como dedos me toca",
+          "Brota flor, pedazo entraña",
+          "himno huérfano, ufanada ópera",
+          "todo en secreto rigor",
+          "El monte repite la voz de las santas aguas",
+          "la escritura es agua que rosa en carne.",
+          "Existe también luz",
+          "que yo párpado como nadie",
+          "La luz que es el mundo quemándose."
+        ]
+      },
+      {
+        "type": "audio",
+        "imgCoverAudio": "/src/assets/images/audio-covers/poema-6-audio-cover.png",
+        "url": "https://open.spotify.com/episode/6aX0UZRwe2ARvuSN4p8vFh?si=wYcO1l3DQiCNJuvoYvMWIg"
+      }
+    ]
+  },
+  "ignacio2":{
+    "title": null,
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "Ignacio Navarro, autor de Ángeles a máxima velocidad, confiesa que su relación con el Antropoceno es un proyecto al que se adscribe, porque se considera el arte parte de un rastro humano en la geología que indica que ha \"estado acá, en el Planeta\""
+      },
+      {
+        "type": "image",
+        "caption": "Fuente: collage de Ángeles a máxima velocidad de Ignacio Navarro.",
+        "source": "/src/assets/images/collage-nacho.png"
+      },
+      {
+        "type": "paragraph",
+        "content": "Su obra está dedicada a Anne Sexton porque ella \"sí dejó una obra y dejó un rastro de lo que ella fue como persona, como ser, como como humana\". Por ello el libro de poemas y collages, Ángeles a máxima velocidad, comienza con el siguiente poema introductorio:"
+      },
+      {
+        "type": "poem",
+        "verses": [
+          "Ángeles a máxima velocidad recorren las carreteras de Massachusetts",
+          "para ser decapitados por autos que caen de sus espíritus, llegan a",
+          "Mineápolis para morir envenenados del fuego y gladiolos, entre todos,",
+          "hermanos narcotizados y exploradores llegan a Matsuyama para ser",
+          "lanzados al abismo de antimateria creado por sus propios deseos.",
+          "",
+          "Latinoamérica se hunde en un pentágono, se convierte en una",
+          "locomotora llena de lobos y destruye al Kremlim con todos los",
+          "cuerpos muertos de sus niños.",
+          "",
+          "Nunca más serán sus rostros iguales.",
+          "Nunca más serán oídas sus voces de nuevo.",
+          "Este es su edificio."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Su poesía y los poetas que lo influencian se caracterizan por las altas intensidades. Quien escribe lo hace desde Bolivia, Latinoamérica, pero también menciona locaciones como Massachusetts, Mineápolis, el Kremlim ruso y Matsuyama, conectando geografías lejanas para reforzar la velocidad a la que los ángeles, la imagen principal de la obra, caen."
+      },
+      {
+        "type": "paragraph",
+        "content": "En esta introducción, los ángeles o los \"hermanos narcotizados\", protagonizan una caída acelerada y colectiva hacia los abismos creados \"por sus propios deseos\". Latinoamérica se hunde en un pentágono, símbolo del poder geopolítico estadounidense y \"destruye  al Kremlim con todos los cuerpos muertos de sus niños\"."
+      },
+      {
+        "type": "paragraph",
+        "content": "Hacia el final de la introducción, quedan los versos que recuerdan la mortalidad pero también la trascendencia de los ángeles que caen: \"este es su edificio\". El poeta se adscribe al proyecto del Antropoceno porque, como los ángeles, él también busca ir más allá de la mortalidad."
+      },
+      {
+        "type": "paragraph",
+        "content": "En su página de Gumroad, Nacho da a conocer y comercializa su poesía. Es nómada digital y trabaja desde Santa Cruz para Estados Unidos, en Creators Collective.",
+        "tooltip": {
+          "word": "nómada digital",
+          "content": "Un nómada digital es una persona que utiliza Internet para ejercer su actividad laboral o para vender sus conocimientos a otras personas. Se caracterizan por poder trabajar desde cualquier lado porque trabajan en línea, porque utilizan diferentes modelos de negocios para trabajar y porque su estilo de vida se basa en el viaje.",
+          "source": "Infobae."
+        }
+      }
+    ]
+  },
+  "readers": {
+    "title": "Lectores",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "Como parte de este reportaje, se realizó un sondeo diseñado para 15 personas que mantienen una estrecha relación con la poesía: poetas, críticos de poesía y estudiantes de literatura. El sondeo se realizó en la ciudad de La Paz, entre octubre y noviembre de 2024. Las edades de los participantes fluctúan entre los 26 y los 55 años. Participaron 8 personas del sexo masculino, 5 del femenino, 1 persona transmasculina y 1 persona del género no binario."
+      },
+      {
+        "type": "paragraph",
+        "content": "En el sondeo, se les hizo preguntas a los lectores sobre poesía posthumana y se les pidió que leyeran dos poemas de las obras seleccionadas en este reportaje: \"Compañía\" de Valeria Canelas y un poema sin título de Andrés Mariño."
+      },
+      {
+        "type": "paragraph",
+        "content": "Aunque en los resultados la mayoría reportó no saber qué es la poesía posthumana, también cada uno escribió su propia definición de lo que es poesía posthumana:"
+      },
+      {
+        "type": "image",
+        "caption": "",
+        "source": "/src/assets/images/infografía-lectores-1.png"
+      },
+      {
+        "type": "paragraph",
+        "content": "Además, de ello, la mayoría de las personas encuestadas (10/15), es decir el 66.6%, sugirieron que la poesía posthumana está estrechamente relacionada con una enunciación posthumana. Es decir, que quien habla en el poema no lo hace desde un cuerpo humano, o no le habla a alguien que es humano (puede ser un gato o un dios) o totalmente humano (puede ser un androide, mitad humano y mitad máquina).",
+        "tooltip": {
+          "word": "enunciación",
+          "content": "La enunciación es el conjunto de condiciones desde las que se habla. Es decir, para conocer la enunciación de un enunciado es importante saber quién lo emite, para quién, cuándo, dónde.",
+          "source": "Centro Virtual Cervantes."
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Se presentaron dos poemas posthumanos con dos perspectivas totalmente diferentes, para poder mostrar cómo estas variaciones influyen en las interpretaciones de los lectores:"
+      },
+      {
+        "type": "poem",
+        "title": "Compañía",
+        "author": "Valeria Canelas",
+        "verses": [
+          "Ahora que estamos en el inicio",
+          "del colapso",
+          "te miro mientras pienso que",
+          "al menos lograrse conocernos",
+          "compartir este momento",
+          "coincidir en este lugar",
+          "en la historia y en el recorrido del planeta",
+          "que se agota.",
+          "",
+          "Tuvimos suerte.",
+          "",
+          "Nosotros también nos agotamos",
+          "solo que aún no lo sabemos del todo",
+          "pero te acaricio la pata",
+          "y atravieso todas las especies que nos separan",
+          "intentando llegar a nuestro origen común",
+          "la raíz evolutiva de nuestros órganos.",
+          "",
+          "Todo lo que nos separara",
+          "no impide que ambos nos encontremos en el mismo límite",
+          "aunque tú no lo sepas",
+          "y quizás no lo experimentes en forma cabal",
+          "aunque yo también me encuentre en una especie",
+          "de bruma inconsciente",
+          "y atraviese este final de los tiempos",
+          "como si fuera una simple ficción",
+          "sin consecuencias.",
+          "",
+          "Pero dicen que por primera vez",
+          "este verano en la India",
+          "los de tu especie caen muertos por las calles",
+          "y los pájaros se precipitan como bombas que no estallan",
+          "y yo me pregunto si es eso lo que nos espera",
+          "estar juntos en la sequía y en la muerte",
+          "acompañarnos también en la asfixia."
+        ]
+      },
+      {
+        "type": "poem",
+        "author": "Andrés Mariño",
+        "verses": [
+          "Xatha xatha",
+          "",
+          "xxitrRa mhortuzz",
+          "666houl 666or666atho666a 666houl 666houl 666houl",
+          "",
+          "(los sesos derramados de Hastursedec-aa-Ioth: el energúmeno 666houl traficándonos energía desde el Otro Lado)",
+          "",
+          "xatra gammificando el koxxxis y la lengua artificial desviada por virus y entidades espirituales",
+          "",
+          "se intercepta señales ultrafrías venidas de la zona múltiple nanofantasma",
+          "",
+          "nekroespasmos",
+          "",
+          "respiras crystal y el organismo duele al ser desintegrado por el polvo",
+          "",
+          "Ihelgatorz//// demonio del hielo",
+          "",
+          ":el mundo se parte :el motor del mundo cambia de rumbo",
+          "",
+          "el xtranjero se inserta como un atentado informático contra la interfaz",
+          "",
+          "tácticas de shock para arrastrarse mejor en medio de los insectos y la mutación antropófaga-sagrada",
+          "",
+          "Hielo escarlata",
+          "",
+          "Viniendo a corromper una aceleración exponencialmente negativa",
+          "",
+          "Velocidad total",
+          "",
+          "Ihelthorz Ihelthorz / polvo de hielo: luz maligna",
+          "",
+          "Aliméntate de los susurros de luz maligna mediante drenajes sintéticos",
+          "",
+          "xxXxXxXxXXXXxxxXXXXxxXxXxxXXxxxXxXxXxXxXxXxXxXxXx"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Las percepciones que tuvieron los lectores de estos dos poemas se pueden consultar en detalle en la siguiente infografía:"
+      },
+      {
+        "type": "image",
+        "source": "/src/assets/images/infografía-lectores-2.png",
+        "caption": ""
+      },
+      {
+        "type": "paragraph",
+        "content": "Aunque algunos de los lectores consideran que estos poemas están estrechamente relacionados con lo humano, ya sea por el lenguaje utilizado o por la misma experiencia transmitida, otros reconocen en estos poemas una exploración de los límites de la humanidad o de un \"violento cambio provocado por la humanidad\"."
+      },
+      {
+        "type": "paragraph",
+        "content": "Los lectores reconocen también en estos poemas una tentativa posthumana. Más en el caso de Andrés que en el caso de Valeria, cuya poesía alguno de los lectores consideró naíf.",
+        "tooltip": {
+          "word": "naíf",
+          "content": "En el arte o la poesía, naíf es una obra infantil o ingenua, incluso si es elaborada y compleja. Para muchos críticos, este arte es la expresión más auténtica de la inocencia.",
+          "source": "Manifiesto de Arte."
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "El poema de Andrés evoca en los lectores “situaciones de exterminio, ataque, intercepción, destrucción, inoperancia” y una \"atmósfera post apocalíptica (qué poderosa imagen: hielo escarlata), con mutantes insecto/antropófagos (sagrados)\"."
+      },
+      {
+        "type": "paragraph",
+        "content": "El poema de Valeria transfiere a los lectores \"el lamento solidario de un ser de una especie a otro\" de otra o una \"voz humana que coincide con esa otra especie a la que se dirige, sobre la duda/el deseo de si esta compañía continuará incluso en el final de sus tiempos como especies\""
+      },
+      {
+        "type": "paragraph",
+        "content": "A pesar de que 26.66% de los lectores reportan sentir cierto desconcierto ante los poemas leídos, también el 73.33% reporta que uno de los efectos que causa la lectura de estos poemas es que se reflexione en torno a la humanidad, sus límites y también las conexiones que pueden llegar a tener con otros seres, ya sea, no–humanos o más–que–humanos.",
+        "tooltip": {
+          "word": "más-que-humano ",
+          "content": "Seres que desafían la primacía de los seres humanos en el mundo. Por ejemplo: dioses, espíritus, demonios, ángeles, apus o plantas maestras.",
+          "source": "Tekoporá. Revista Latinoamericana de humanidades ambientales y estudios territoriales."
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "En este sentido, el sondeo ha podido comprobar que los lectores pueden llegar a cuestionar tanto la condición de los seres humanos con relación al rol de estos en la naturaleza a través de la poesía. "
+      },
+      {
+        "type": "paragraph",
+        "content": "A través de las entrevistas a los poetas, se ha confirmado que estos poemas contribuyen a que los lectores cuestionen la relación de los seres humanos con la naturaleza debido a una estética donde hay una fuerte presencia, explícita o implícita de seres no–humanos o más–que–humanos en sus escritos. En el caso de Edgar Soliz, el ser no–humano es el SIDA; en el de Andrés Mariño, el ser más–que–humano es el cosmos que causa horror."
+      },
+      {
+        "type": "paragraph",
+        "content": "Muchos de estos poetas, además, eligen otros medios de producción y difusión. En el caso de Lucía Carvalho, destaca el afán de producir libros colectivamente y, en el de Jessica Freudenthal, destaca el deseo de conectarse con comunidades poéticas internacionales y el deseo de publicar de manera más sustentable, vía editoriales que reciclan sus materiales."
+      },
+      {
+        "type": "paragraph",
+        "content": "Por último, el poema de Andrés es una obra de escribir que aunque ha sido traducido a varios idiomas, no ha sido traducido a otro lenguaje. Esto puede ser una oportunidad de comunicar la poesía a un público que no conoce el idioma o la lengua en que se escribe."
+      },
+      {
+        "type": "paragraph",
+        "content": "Algunas de estas obras también contribuyen a que quienes las estudian cuestionen la dicotomía entre naturaleza y cultura. En el sondeo, los lectores han podido reconocer que en estas obras hay una continuidad entre lo natural y lo cultural o artificial. Se puede reconocer esto, por ejemplo, en los poemas de Valeria Canelas, que enlaza la vida cotidiana de un departamento urbano (cultural) al colapso de la crisis climática (natural-artificial) y a la supervivencia de una especie felina (natural)."
+      },
+      {
+        "type": "paragraph",
+        "content": "También han sido entrevistados tres expertos para dar a conocer si esta poesía puede llegar a contribuir con un cambio hacia una cultura más ecológica. Si bien todos han admitido que puede haber una contribución a la discusión ecológica en el arte, también son críticos y afirman que el arte o la poesía se pueden convertir en meros objetos de consumo, en una moda más."
+      },
+      {
+        "type": "paragraph",
+        "content": "De momento, no hay una distancia temporal suficiente como para llegar a conclusiones definitivas sobre el impacto del arte en pos de un movimiento ecológico. Sin embargo, ¿alguna vez la ausencia de distancia histórica ha frenado el impulso de reflexionar o escribir sobre lo que ocurre aquí y ahora?"
+      }
+    ]
+  },
+  "chronicle" : {
+    "title": "Especies de compañía: Valeria y Grissini",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "Un fin de semana de noviembre de 2011, España se preparaba para sus elecciones generales. En una de las 2.704 rotondas de Madrid, un gato gris estaba a punto de ser atropellado. Pero fue rescatado."
+      },
+      {
+        "type": "image",
+        "caption": "Mapa satelital de las rotondas que hay en España y Europa. Fuente: Mapamundi rotondas.",
+        "source": "/src/assets/images/foto-rotondas-españa.jpg"
+      },
+      {
+        "type": "paragraph",
+        "content": "Como muchos gatos rescatados, el gato pasó a un hogar temporal: el departamento de Valeria Canelas, una estudiante de posgrado que ha dedicado la mayor parte de sus investigaciones a los estudios animales en la literatura. También, como en muchos hogares temporales, el felino se quedó en la estancia más de la cuenta. "
+      },
+      {
+        "type": "paragraph",
+        "content": "Valeria no pudo contra lo que ella llama un gato \"demasiado cariñoso\" que no era capaz de disimular su interdependencia con respecto a otros seres, ya sean animales o humanos. Entre sus investigaciones, además, la poeta estudia no solamente la interdependencia entre humanos y animales registrada en la literatura, sino también el extrañamiento que causan a los seres humanos el relacionamiento con estos seres, por excelencia extranjeros en la humanidad."
+      },
+      {
+        "type": "poem",
+        "verses": [
+          "Recuerdo cuando leí por primera vez los poemas de Natalie Diaz (California, -) y Mary Oliver (Ohio, 1935). Recuerdo esa sensación de deslumbramiento que ocasionaba que las palabras que no entendía del todo se fueran revelando en mi proceso de lectura. Era esta una revelación que no dependía exclusivamente del significado sino también de todos aquellos núcleos de sentido que operaban en sus poemas, desbordando la palabra. Algo similar ocurre cuando nos enfrentamos, sin previo aviso, con la presencia de un animal inesperado: puro desborde de una experiencia hasta ese momento controlada. Algo similar sucede también con ese diálogo, en ocasiones infructuoso, que se establece con los animales con los que compartimos nuestra vida.  Podemos decir, entonces, que al igual que sucede con los poemas en una lengua que nos es ajena, nuestra relación con los animales está atravesada por los distintos lenguajes que compartimos. Enfrentarnos a lo animal es, en este sentido, una experiencia constante de traducción."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Grisini, todavía extranjero en casa de Valeria, también era extranjero de la lengua de la poeta. Pero, aunque nunca se hablaron mutuamente desde la lengua humana, fue a partir de otros lenguajes que comenzaron su relación."
+      },
+      {
+        "type": "paragraph",
+        "content": "El primer día de su estancia en el departamento, Valeria lo llevó al veterinario. El segundo día, eran las elecciones generales de España. El tercer día era feriado. En el cuarto día, el gato obtuvo un nombre: Grisini. Este nombramiento fue el primer gesto de interdependencia entre Valeria y el gato."
+      },
+      {
+        "type": "paragraph",
+        "content": "—Y ya, me lo quedé."
+      },
+      {
+        "type": "image",
+        "caption": "Grisini y Valeria, conversando. Fuente: Valeria Canelas.",
+        "source": "/src/assets/images/foto-valeria-grisini.jpg"
+      },
+      {
+        "type": "paragraph",
+        "content": "Lo siguiente que recuerda Valeria es la conversación online entre ella y entrevistador hacia el final de la entrevista para ser aceptada en la maestría en Estudios Ibéricos y Latinoamericanos en la Universidad de Notre Dame de Estados Unidos:"
+      },
+      {
+        "type": "paragraph",
+        "content": "—¿Tiene alguna pregunta acerca del programa?"
+      },
+      {
+        "type": "paragraph",
+        "content": "—Sí. Tengo dos gatos, ¿es viable que yo me los lleve y pueda vivir con ellos? Porque no los puedo dejar en España."
+      },
+      {
+        "type": "paragraph",
+        "content": "Grisini, de vez en cuando, interviene en la entrevista virtual a Valeria con un maullido: no le gusta estar solo, le gusta la compañía."
+      },
+      {
+        "type": "paragraph",
+        "content": "El gato gris empezó su nueva vida viajando de la casa de Valeria junto a su compañero felino, ahora fallecido, Grumo, hacia Estados Unidos. Hacia un departamento tan pequeño que no tenía puertas y donde Valeria no podía separarse, ni por un momento, de Grisini. "
+      },
+      {
+        "type": "image",
+        "caption": "Pasaporte de Grisini. Fuente: Valeria Canelas.",
+        "source": "/src/assets/images/pasaporte-grisini.jpg"
+      },
+      {
+        "type": "paragraph",
+        "content": "No es la primera vez que un ser no–humano es sujeto de derecho como lo es una persona humana, o que porta documentos de identificación. A la fecha, son varios los seres no–humanos que gozan de derechos."
+      },
+      {
+        "type": "paragraph",
+        "content": "En 2011, una comunidad ecuatoriana, amparada por la Constitución Política de la República de Ecuador de 2008, que reconoce los derechos de la Madre Tierra, logró que se reconociera al río Vilcabamba como ser con derechos para que no fuese desviado de su curso. El Vilcabamba, desde entonces, gozó de derechos y el desvío de su curso era una violación a su derecho a la libertad."
+      },
+      {
+        "type": "paragraph",
+        "content": "A este hito histórico le siguieron otros. Como el caso del río Whanganui en Nueva Zelanda o el del río Atrato en Colombia, que según el medio Climática también fueron declarados como seres no–humanos con derechos. "
+      },
+      {
+        "type": "paragraph",
+        "content": "Era 1977 un hito silencioso que pasó desapercibido para muchos: en el corazón de la Organización de las Naciones Unidas (ONU), fue firmada la Declaración Universal de los Derechos del Animal."
+      },
+      {
+        "type": "paragraph",
+        "content": "La Declaración fue escrita en abril de 1866 por el acaudalado Henry Bergh, un neoyorkino que curiosamente no tenía animales en su custodia y quien, de hecho, no gustaba de los perros. Pero era sensible hacia su sufrimiento. Y, por tanto, desde aquel momento y hasta nuestros días, el activista es recordado como un apasionado activista por los derechos de los animales."
+      },
+      {
+        "type": "image",
+        "caption": "Postal de 1966 en homenaje a Henry Bergh y en conmemoración a los 100 años de la Sociedad Americana de Prevención de la Crueldad Animal. Fuente: Mystic Stamps Company.",
+        "source": "/src/assets/images/postal-henry-bergh.jpg"
+      },
+      {
+        "type": "paragraph",
+        "content": "Como Bergh, Valeria siente una gran empatía hacia los animales y los seres no–humanos. Por ello, los protagonistas de sus poemas son el cemento, los gatos o incluso las hojas sobre el pavimento:"
+      },
+      {
+        "type": "poem",
+        "verses": [
+          "Aumentan mis ansias",
+          "de lo vivo",
+          "por eso insisto en darles forma",
+          "animal a los pequeños montones de hojas",
+          "y de basura",
+          "que flanquean los rieles del tren",
+          "por eso y por la miopía",
+          "gran aliada del deseo",
+          "siempre dispuesta a hacer surgir",
+          "formas concretas",
+          "en toda distorsión"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "En la época de la crisis política de Bolivia de 2019, Valeria estaba atenta a la coyuntura del país a distancia. En esos días, Grumo, quien era mayor que Grisini, tuvo su primer ataque de una serie de ataques epilépticos que lo llevaron a su muerte. Después de unas semanas, el gato gris intentaba confortarlo para que se tranquilizara. A pesar de ello, Grumo murió y Grisini se volvió cada día más cercano a Valeria. Hoy, él es un honorable gato de 13 años."
+      },
+      {
+        "type": "image",
+        "caption": "Grisini en manos de Valeria. Fuente: Valeria Canelas.",
+        "source": "/src/assets/images/foto-grisini.png"
+      },
+      {
+        "type": "paragraph",
+        "content": "Fue en el pequeño departamento de Sevilla, una de las ciudades más calientes de España, y con el gato pegado a ella que Valeria escribió \"Compañía\". La temperatura de aquellos días rondaba los 40 °C y ella podía ver cómo su animal de compañía jadeaba por el exceso de calor."
+      },
+      {
+        "type": "paragraph",
+        "content": "Para ella, hay algo \"cuando convives con otras especies\", porque \"ves cómo perciben algo porque se muerden las orejas o tienen el hocico, pero tú no puedes llegar a saber eso realmente\". En una convivencia entre dos o más especies, hay una capa de experiencia a la que no se puede acceder."
+      },
+      {
+        "type": "image",
+        "caption": "En 2021, en las calles de India vivían 91 gatos callejeros. Fuente: The Catrina Foundation.",
+        "source": "/src/assets/images/foto-gato-callejero.jpg"
+      },
+      {
+        "type": "paragraph",
+        "content": "Mientras escribía \"Compañía\", la noticia de que el verano en India era tan extremo que los gatos morían en las calles le llegó a través de una notificación del celular. En India, para aquel entonces, las temperaturas alcanzaban los 50°C. Para algunos, otro síntoma más de que se acerca la crisis ambiental. Pero para Valeria y Grisini esta noticia fue un punto de quiebre:"
+      },
+      {
+        "type": "paragraph",
+        "content": "—Estoy aquí con mi gato en esta especie de comunión para la que no tengo muy bien palabras y en realidad los dos estamos ante el mismo umbral de crisis… ¿Qué vamos a hacer?"
+      },
+      {
+        "type": "audio",
+        "imgCoverAudio": "/src/assets/images/audio-covers/poema-3-audio-cover.png",
+        "url": "https://open.spotify.com/episode/2cpE68JZFsAsOBN1ZJs0RU?si=D17hnOKvQbOBlkUGjb913w"
+      }
+    ]
+  },
+  "profile1": {
+    "title": "Poesía-ritual: La plaga de lo extranjero",
+    "content": [
+      {
+        "type": "image",
+        "caption": "Página de inicio de El chivo maquínico. Fuente: El chivo maquínico.",
+        "source": "/src/assets/images/foto-inicio-chivo-maquinico.png"
+      },
+      {
+        "type": "paragraph",
+        "content": "Dicen que es intensamente provocador. Dicen, también, que escribe sus textos bajo la influencia del mismísimo espíritu o demonio. Otros dicen que sus textos son demasiado adolescentes."
+      },
+      {
+        "type": "paragraph",
+        "content": "Lo cierto es que Andrés Mariño es un poeta, performer y literato que dedica muchas de sus noches a hacer rituales para la mano izquierda, también conocida como la mano de la magia negra."
+      },
+      {
+        "type": "image",
+        "caption": "Andrés en la performance erótica Opus Nigrum. Fuente: Camila Rocha.",
+        "source": "/src/assets/images/foto-andres-marino-eros-opus-nigrum.png"
+      },
+      {
+        "type": "paragraph",
+        "content": "—Hay mucho discurso que dice que es poesía. Poesía es una categoría de marketing, un discurso que tiene esta forma, que generalmente es cortado en versos, que habla de ciertas cosas, puede ser de la verdad, puede ser los sentimientos, de la naturaleza, del afuera misma, de lo que sea, y utiliza el lenguaje de cierta manera, para lo cual hay un montón de recursos estilísticos que se ponen en juego… Si no es un túnel de contagio, yo diría que no es poesía."
+      },
+      {
+        "type": "paragraph",
+        "content": "Así define la poesía y así la vive. Lo dice convencido de que la poesía debería ser una especie de religión neopagana. Quizás por ello, en las lecturas que realiza, generalmente performa un ritual. Detrás de una mesa llena de cartas invertidas y velas rojas, Mariño lee a susurros invocaciones."
+      },
+      {
+        "type": "paragraph",
+        "content": "La performance ritual finaliza la jornada de poesía sonora del festival internacional de arte sonoro Sonandes 2024 de la ciudad de La Paz. Este festival de sonido, que se celebra cada año desde hace diez años, ha invitado por primera vez a poetas a ser parte de él. Quienes están allí presentes bailan, abriendo quizás los canales energéticos que Mariño busca abrir en el ritual."
+      },
+      {
+        "type": "image",
+        "caption": "Autorretrato del poeta Andrés Mariño. Fuente: Andrés Mariño.",
+        "source": "/src/assets/images/foto-andres-marino.png"
+      },
+      {
+        "type": "paragraph",
+        "content": "Mientras la madre del poeta asistía los domingos a los cultos de una iglesia evangelista de la ciudad Satélite de El Alto, al Mariño de 14 años le llamaba más la atención el ocultismo."
+      },
+      {
+        "type": "paragraph",
+        "content": "—Siempre he leído cosas al respecto, siempre he investigado con respecto, he vivido situaciones que se me ha demostrado que eso era así tenebrosamente real y no solo una lectura, ¿cierto? Llamar cosas, comunicarse con cosas. Sí, eso, eso, así secretamente, digamos, es lo que diría."
+      },
+      {
+        "type": "paragraph",
+        "content": "El vector hacia estas energías tenebrosamente reales es la poesía. En sus obras están los resultados de esas comunicaciones. En La geología sagrada trata con demonios tónicos, de cuevas, de volcanes y de túneles. Actualmente transcribe sus comunicaciones con seres de aire, como los ángeles, la lluvia, la nieve y el espacio exterior."
+      },
+      {
+        "type": "image",
+        "caption": "Ataque cerebral. Fuente: Mateo Olivares.",
+        "source": "/src/assets/images/ataque-cerebral-mateo-olivares.webp"
+      },
+      {
+        "type": "paragraph",
+        "content": "Mientras exploraba la Isla del Sol hacia finales de 2022, Mariño decidió robar una calavera para que ella le revelara nuevas verdades en su búsqueda. Después de robarla, personas allegadas empezaron a morir a su alrededor, su gata se lanzó por un precipicio y también percibía que los entes lo perseguían: escuchaba sus mensajes en los discursos de las iglesias, en la calle y hasta en el minibús."
+      },
+      {
+        "type": "paragraph",
+        "content": "En aquella época, llegó a su casa un brujo especializado en magia negra a hacerle una ceremonia de limpieza con tabaco que lo hizo vomitar. Pero al día siguiente de la ceremonia, vomitó de nuevo. Durante las semanas siguientes, seguía vomitando."
+      },
+      {
+        "type": "paragraph",
+        "content": "El ser que habitaba su cuerpo entonces es conocido en la cultura aymara como anchanchu. El hábitat de este ser es el Manqhapacha o el mundo de abajo. Cuando ataca, este ser lleva a su víctima a la locura, según un artículo del medio Muy Waso."
+      },
+      {
+        "type": "image",
+        "caption": "Altar casero. Fuente: Andrés Mariño.",
+        "source": "/src/assets/images/foto-altar-andres-marino.png"
+      },
+      {
+        "type": "paragraph",
+        "content": "—La poesía, en tanto cosa escrita o cosa hecha, es un vehículo de una plaga, de la plaga de lo extranjero, de lo que se desconoce, de lo que no se dice."
+      },
+      {
+        "type": "paragraph",
+        "content": "Pero, como todo, comunicarse con estas entidades para traer “la plaga de lo extranjero” a su poesía tiene un precio, y ese precio es la locura. Durante una larga temporada, el anchanchu, espíritu del mundo subterráneo, parecía haber reclamado su carne y su cordura. Pero Mariño, a pesar de eso, continúa en su misión de comunicarse con seres no–humanos o más–que–humanos."
+      },
+      {
+        "type": "paragraph",
+        "content": "Por ello, en los últimos meses, escribir poesía es para Mariño sentarse, trasnocharse y comunicarse con seres más–que–humanos, usualmente demoníacos, a través de sus cartas de Tarot, cual médium. Su poesía es un pacto para abrir el túnel hacia el afuera. O quizás, como él mismo susurra, con estas entidades \"(Sólo hay truco / no hay trato posible)\"."
+      },
+      {
+        "type": "audio",
+        "imgCoverAudio": "/src/assets/images/audio-covers/poema-5-audio-cover.png",
+        "url": "https://open.spotify.com/episode/06WjqLz3Xyjqa14jH6AtKr?si=AnF60npwRV2Zbg3cjXoX9A"
+      }
+    ]
+  },
+  "profile2": {
+    "title": "Poesía-pústula: La carcoma del lenguaje",
+    "content": [
+      {
+        "type": "image",
+        "caption": " Edgar Soliz leyendo en un baño público. Fuente: EJU TV.",
+        "source": "/src/assets/images/foto-edgar-soliz-lectura.jpg"
+      },
+      {
+        "type": "paragraph",
+        "content": "Tres largos días con sus noches le había tomado a Edgar decidir sobre cómo iba a ser su suicidio." 
+      },
+      {
+        "type": "paragraph",
+        "content": "—Como era cobarde, quería que el método elegido me doliera lo menos posible —recuerda entre risas."
+      },
+      {
+        "type": "paragraph",
+        "content": "Había tenido la mala fortuna de haber estudiado cinco años la carrera de Medicina y conocía demasiado bien tanto los distintos tipos de dolor que siente el cuerpo como el umbral al que el dolor puede llegar."
+      },
+      {
+        "type": "paragraph",
+        "content": "Pensó en lo más rápido: se tiraría del Puente de las Américas. Sí, el clásico suicidio paceño. Eficiente y doloroso por tan sólo unos segundos. Estaba decidido."
+      },
+      {
+        "type": "image",
+        "caption": "",
+        "source": "/src/assets/images/infografía-suicidios.png"
+      },
+      {
+        "type": "paragraph",
+        "content": "Contrario a la imagen que muchos asocian a la palabra maricón, Edgar es parco y discreto, como quien ha aprendido del lecho de amor en la clandestinidad y del sufrimiento en soledad dentro de su propio nido familiar."
+      },
+      {
+        "type": "paragraph",
+        "content": "De manera parca y discreta, entonces, a los 25 años Edgar comenzó a andar el camino hacia su muerte. La homofobia fue para él un proceso que lo corroyó de afuera hacia adentro: primero era un paria para el cuerpo social, luego el cuerpo familiar y luego lo llegó a ser en su propio cuerpo. Fue expulsado por los anticuerpos."
+      },
+      {
+        "type": "paragraph",
+        "content": "Como poeta, Edgar escribe junto al VIH-SIDA, pero también junto a toda una genealogía de escritores homosexuales que también habrían escrito con la enfermedad. Entre ellos, con quien más admite dialogar es con Pedro Lemebel, otro poeta, cronista y performer que se autodenominaba pobre, homosexual y comunista."
+      },
+      {
+        "type": "image",
+        "caption": "Performance “Alacranes en Marcha” (1994) de Pedro Lemebel en la marcha del orgullo LGBTQI+ de Estados Unidos. Fuente: Katabasis.",
+        "source": "/src/assets/images/foto-lemebel-performance.jpg"
+      },
+      {
+        "type": "paragraph",
+        "content": "Lemebel, en cambio, se reía del SIDA. “Es la autodefensa de los homosexuales”, decía. Trabajaba la carcajada, que algunas críticas literarias han llamado también la risa post-mortis. Así, por ejemplo, comienza la historia de una travesti portadora de VIH, Loba Lamar, de Loco afán: Crónica de sidario:"
+      },
+      {
+        "type": "poem",
+        "verses": [
+          "Ingenio de cola y astucia callejera tuvo ella para lucir ese nombre, esa chapa de vodevil portuario que coronaba la pista al ser anunciada por el animador. Al retumbar el mambo número ocho los clarines, el pestañazo sangrado de los focos, y las palmas aplaudiéndola. Esas manos cacheteando su poto flaco de hombre tiritando al son de los tambores."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Si bien la escritura de Edgar no contiene una risa post-mortis, quizá sí contiene el gesto de un forense que encuentra en rigor-mortis característico de los cadáveres, con una mueca miedo e incertidumbre, pero que continúa con el diagnóstico:"
+      },
+      {
+        "type": "poem",
+        "verses": [
+          "Morir sin conocer la cara de la muerte.",
+          "",
+          "Morir y vaciarme,",
+          "intentando contener esos huecos ",
+          "y demorando las goteras",
+          "con los pulpejos de los dedos",
+          "que no alcanzan a cubrirlas",
+          "porque todo se desborda.",
+          "",
+          "Incluso la muerte, incurable, que se limpia el rostro con pañuelos  asépticos intentando  coger  esas  venas escondidas para fracturar las jeringas de 5 ml a vista y paciencia de las miradas torvas, infectas y licenciosas, del pabellón.",
+          "",
+          "(EL HUESO NO LATE EN LA REMINISCENCIA DEL DOLOR SOLO EL GRITO ESCONDIDO EN LA ORILLA ENTREABRIENDO EL MIEDO PARA ANUNCIAR LO QUE QUEDARÁ)"
+        ]        
+      },
+      {
+        "type": "paragraph",
+        "content": "El poeta busca que la enfermedad hable en la poesía. En sus versos aparecen la sangre, el semen y las excreciones, ya que estos fluidos no son ajenos en el lenguaje en el que se comunica la enfermedad:"
+      },
+      {
+        "type": "paragraph",
+        "content": "—Hay un lenguaje que el cuerpo tiene que son los síntomas o los signos de la enfermedad. Cuando he pensado en Sarcoma pensaba en el cuerpo. Todos estos lenguajes que genera el propio cuerpo alrededor de la enfermedad para anunciar algo. Ya tú verás qué haces con eso. Uno como persona, si siente esos signos y esos síntomas, puedes ir al hospital y resolver ese tema o no… Y dejarte morir. Muchas cosas pueden pasar."
+      },
+      {
+        "type": "paragraph",
+        "content": "Edgar decidió que se iba a dejar morir. En su última caminata por La Paz, hizo una pausa en un baño público de la calle Comercio. En este baño las letrinas tenían tres perforaciones: una trasera, una a la izquierda y otra a la derecha. Esto despertó la curiosidad del condenado a muerte."
+      },
+      {
+        "type": "image",
+        "caption": "Grisini y Valeria, conversando. Fuente: Valeria Canelas.",
+        "source": "/src/assets/images/foto-bano-cruising.jpg"
+      },
+      {
+        "type": "paragraph",
+        "content": "Cuando introdujo la mirada en otro de los agujeros, otro hombre lo saludó de manera amistosa y comenzó a masturbarse. Ya no se sentía solo, porque acababa de conocer el cruising, una práctica de los hombres homosexuales que consiste en tener conocer homosexuales en lugares públicos, con fines sexuales o afectivos."
+      },
+      {
+        "type": "paragraph",
+        "content": "—Hay un cuerpo colectivo que las metáforas de Sontag para mí son bien actuales hoy en Bolivia, en Latinoamérica. Esto del secreto y la vergüenza es pues de las personas viviendo con VIH. Por eso el activismo de personas viviendo con VIH. Tú no conoces mucho a los líderes o a las lideresas porque cuidan su imagen ante la sociedad, porque están familias, está el secreto y la vergüenza en esas personas. A pesar de todo eso, de ese secreto y vergüenza, hay un cuerpo colectivo. Hay un cuerpo colectivo que puede leerse desde el deseo, desde el placer, desde la enfermedad, desde esta práctica que te decía de crear o recrear una tercera cepa. Cuando dos personas con VIH se encuentran a sí mismas."
+      },
+      {
+        "type": "paragraph",
+        "content": "Edgar se refiere al libro El SIDA y sus metáforas de Susan Sontag, una obra de teoría crítica de 1989 en la que la autora, enferma de cáncer, explora las metáforas atribuidas en la sociedad al cáncer y el SIDA, y que afectan negativamente a los pacientes. Estas metáforas, según la filósofa, distraen al cuerpo social y causan más muertes en los enfermos por la discriminación que sufren."
+      },
+      {
+        "type": "image",
+        "caption": "Grisini y Valeria, conversando. Fuente: Valeria Canelas.",
+        "source": "/src/assets/images/infografía-SIDA.png"
+      },
+      {
+        "type": "paragraph",
+        "content": "Aquel día, Edgar se sintió absorbido por el cuerpo colectivo de la comunidad de disidentes sexuales, también conocida por sus siglas LGBTQI+."
+      },
+      {
+        "type": "image",
+        "caption": "Performance Desandar la ciudad. Fuente: Performing borders.",
+        "source": "/src/assets/images/foto-edgar-soliz-performance-nacion-marica.jpg"
+      },
+      {
+        "type": "paragraph",
+        "content": "Hoy en día, Edgar considera que Sarcoma es un libro que está estancado, incompleto. Confiesa que se ha preguntado muchas veces sobre el porqué de este estancamiento. Entre sus especulaciones, el poeta afirma que se debe a que hace más de cuatro años que no se ha hecho la prueba del VIH. "
+      },
+      {
+        "type": "paragraph",
+        "content": "Para él, es posible que cuando se haga por fin la prueba Elisa y confirme que porta o no el virus VIH, el libro, como ser autónomo, encontrará su camino a la publicación."
+      },
+      {
+        "type": "audio",
+        "imgCoverAudio": "/src/assets/images/audio-covers/poema-2-audio-cover.png",
+        "url": "https://open.spotify.com/episode/4eOjRS1Nhex7GsWLQ4onwt?si=67a2c304e9544544"
+      }
+    ]
+  },
+  "nature-culture": {
+    "title": "Cultureza: Hacia la extinción de la dicotomía entre naturaleza y cultura",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "La discusión en torno a si existe una separación entre la naturaleza y la cultura es muy antigua. Pero, en los últimos años, esta separación se ha erosionado debido a la crisis climática y ha surgido una nueva perspectiva: la cultureza"
+      },
+      {
+        "type": "paragraph",
+        "content": "Este nuevo concepto es propuesto o defendido por algunos especialistas en medio ambiente como Ara Goudsmit, José Octavio Orsag y Stasiek Czaplicki, quienes proponen cuestionar y desmantelar las fronteras que históricamente han separado lo cultural de lo natural."
+      }
+    ]
+  },
+  "illusion": {
+    "title": "Ilusión",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "En una entrevista hecha para este reportaje, la especialista en Estudios del Antropoceno, Ara Goudsmit, afirma que tratar de separar la naturaleza y la cultura es una forma de ilusión, una “fantasía” que nos coloca “lentes compartimentalizados” que nos impiden ver la profunda interrelación entre las diferentes formas de vida en el planeta."
+      },
+      {
+        "type": "poet",
+        "photo": "/src/assets/images/photos/ara-goudsmit.png",
+       "biography": [
+          "Es artista, estratega de marketing y nómada digital. Trabaja en poesía, en collage y en la intervención digital de imágenes."
+        ],
+        "location": [
+          "Nació en Sucre en 1998.",
+          "Vive en Santa Cruz, Bolivia."
+        ],
+        "education": [
+          "Cursó Derecho en la Universidad Privada de Santa Cruz de la Sierra."
+        ],
+        "works": [
+          {
+            "title": "Bete Noire",
+            "year": "2016"
+          },
+          {
+            "title": "Ángeles a máxima velocidad",
+            "year": "2017 y 2020"
+          },
+          {
+            "title": "Ruido de Ave / Ruido de Aqua",
+            "year": "2024"
+          }
+        ],
+        "link": "https://www.instagram.com/aragou?igsh=MW54eWR5ZGNzem1jcQ=="
+      },
+      {
+        "type": "paragraph",
+        "content": "En la Amazonía, por ejemplo, cuenta Goudsmit, los niños aprenden el lenguaje del río que habitan porque no hay la ilusión de que la educación viene de la cultura: se educan gracias a los peces, a los ciclos de las aves y a los cambios en el agua."
+      },
+      {
+        "type": "paragraph",
+        "content": "En los entornos urbanos, en cambio, el contacto con los cuerpos de agua y la vida natural se vuelve nocivo, como ocurre con los contaminados ríos Kripinchaca en Sucre o el Choqueyapu en La Paz. "
+      },
+      {
+        "type": "image",
+        "caption": " Niños de la etnia Tenharim en el río Amazonas. Fuente: EFEVerde.",
+        "source": "/src/assets/images/foto-ninos-selva.webp"
+      },
+      {
+        "type": "paragraph",
+        "content": "¿Pueden los pueblos indígenas enseñar a los habitantes urbanos a superar el distanciamiento entre naturaleza y cultura? Esa es la pregunta que muchos antropólogos, sociólogos y biólogos se hacen cuando discuten el término animismo. "
+      },
+      {
+        "type": "paragraph",
+        "content": "El animismo es el nombre que se le pone a los sistemas de pensamiento que proponen que todos los elementos del mundo natural tienen agencia. Esto significa que lo que para los habitantes urbanos es un recurso natural, una materia sin vida, para las comunidades indígenas del Amazonas puede ser un ser consciente con el que deben mantener una relación y ser responsables de esta, puesto que les brinda protección, alimento o salud.",
+        "tooltip": {
+          "word": "agencia",
+          "content": "En ciencias sociales, la agencia es la capacidad de las personas (ampliada en este caso a animales, espíritus, plantas o cosas) para actuar por sí mismas, definir y alcanzar sus objetivos, elegir y tomar decisiones.",
+          "source": "Academia.edu."
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "En Los últimos niños del bosque del año 2005, el periodista Richard Louv investigó acerca de la desconexión entre niños que habitan los espacios urbanos y la naturaleza, y lo llamó el trastorno por déficit de naturaleza. En esta investigación, el periodista demuestra que hay un enlace entre el aislamiento de la naturaleza en los niños y la obesidad, el asma y el trastorno por deficiencia de atención. Como resultado de este estudio, él y otros comenzaron a trabajar en un movimiento que busca implantar una “terapia del mundo silvestre” en los niños para liberarlos de las “prisiones burocráticas”, que son las aulas de clase urbanas."
+      },
+      {
+        "type": "paragraph",
+        "content": "En la Amazonía, la relación que conservan los Sateré-Mawé con la selva es la de la madre e hijos. La madre, como cualquier otra, provee a los hijos de los alimentos que necesitan. Pero, según el antropólogo Wolfgang Kapfhammer, cuando los niños crecen deben someterse a un rito de paso que cambia la relación con la mujer selva."
+      },
+      {
+        "type": "image",
+        "caption": "Púber Sateré-Mawé antes de cumplir con su ritual de paso. Fuente: Sick History.",
+        "source": "/src/assets/images/foto-nino-amazonia.jpg"
+      },
+      {
+        "type": "paragraph",
+        "content": "En el rito de paso, los púberes Sateré-Mawé deben introducir sus manos a unos sacos en los que los adultos han introducido al menos 80 ejemplares de hormigas balas sedadas. Estas hormigas, según la tradición del pueblo, provienen de la vagina de una mujer serpiente.",
+        "tooltip": {
+          "word": "rito de paso",
+          "content": "Un rito de paso es una actividad que marca la transición de un estado a otro en la vida de una persona. En muchos de casos, los ritos de paso se hacen para que los niños transiten hacia su adultez. Los más conocidos son las fiestas de quince años o la ceremonia de primera comunión.",
+          "source": "News Madre Tierra."
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Cuando los púberes han introducido ya sus manos, las hormigas despiertan por las provocaciones con humo de tabaco que reciben de los adultos. Una a una, las hormigas los pican con una picadura que equivale al dolor que provoca una bala o la introducción de un clavo en la piel de manera violenta, según reporta el medio National Geographic. "
+      },
+      {
+        "type": "paragraph",
+        "content": "Después de este ritual, la relación de los púberes Sateré-Mawé con la madre selva cambia. El dolor que les causa la madre selva les permite comprender que ella no es sólo nutricia, sino que la relación que tiene con ella puede llegar a ser más compleja."
+      },
+      {
+        "type": "paragraph",
+        "content": "En la Amazonía, como dice Ara Goudmsit, los niños no se educan acerca de la naturaleza y sus peligros, como la especialista en el Antropoceno sugiere que sucede en los espacios urbanos, sino que se educan con la naturaleza, aprenden junto a ella. Allí, la educación no proviene solamente de las teorías humanas, sino también del contacto con la selva."
+      }
+    ]
+  },
+  "virginity": {
+    "title": "Virginidad",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "Durante siglos se ha creído que el humano afecta con su artificialidad entornos totalmente vírgenes. Sin embargo, para el historiador de la Amazonía, José Octavio Orsag, la virginidad de la naturaleza con respecto a la cultura no existe."
+      },
+      {
+        "type": "poet",
+        "photo": "/src/assets/images/photos/jose-orsag.png",
+        "biography": [
+          "Es artista, estratega de marketing y nómada digital. Trabaja en poesía, en collage y en la intervención digital de imágenes."
+        ],
+        "location": [
+          "Nació en Sucre en 1998.",
+          "Vive en Santa Cruz, Bolivia."
+        ],
+        "education": [
+          "Cursó Derecho en la Universidad Privada de Santa Cruz de la Sierra."
+        ],
+        "works": [
+          {
+            "title": "Bete Noire",
+            "year": "2016"
+          },
+          {
+            "title": "Ángeles a máxima velocidad",
+            "year": "2017 y 2020"
+          },
+          {
+            "title": "Ruido de Ave / Ruido de Aqua",
+            "year": "2024"
+          }
+        ],
+        "link": "https://www.instagram.com/charles.norwick?igsh=azkwajdpMmFzaXU0"
+      },
+      {
+        "type": "paragraph",
+        "content": "La manera en que se han dado a conocer las islas Galápagos es un gran ejemplo de esta ilusión de virginidad, y del problema de la separación entre naturaleza y cultura."
+      },
+      {
+        "type": "image",
+        "caption": "Retrato de Charles Darwin. Fuente: Wikipedia.",
+        "source": "/src/assets/images/foto-darwin.jpg"
+      },
+      {
+        "type": "paragraph",
+        "content": "En 1845, Charles Darwin escribió Viaje de un naturalista alrededor del mundo. En esos diarios, que incluyen su paso por Galápagos, Darwin propone ideas distintas a las del relato bíblico de la Creación y busca una teoría científica que explique que las especies evolucionan gracias a una selección natural, en la cual el entorno cumple una función, pero que se da por azar y sin intervención humana. En sus diarios, observa:"
+      },
+      {
+        "type": "poem",
+        "verses": [
+          "Hasta ahora no he indicado el rasgo más notable de la Historia Natural de este archipiélago, y es que las diferentes islas, en una extensión considerable, están habitadas por conjuntos diferentes de seres. El vicegobernador, Lawson, me llamó la atención sobre este hecho, manifestándome que había notables diferencias entre las tortugas de las diversas islas, y que podía discernir con toda seguridad la isla de donde procedía cada una. Por algún tiempo no presté gran atención a este aserto, y ya había mezclado en parte las colecciones de dos islas. Nunca pude figurarme que unas islas separadas por 50 o 60 millas de distancia, y la mayor parte a la vista unas de otras, formadas precisamente de las mismas rocas, gozando de un clima idéntico, y que se levantan casi a la misma altura, estuvieron pobladas por seres orgánicos diferentes; pero pronto veremos que así sucede."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Darwin se pregunta, ¿cómo es posible esta paradoja: que las islas alberguen a especies únicas pero que también están emparentadas con las de un continente —América— que está a km. 1.000?"
+      },
+      {
+        "type": "paragraph",
+        "content": "En 1788 llegó el primer navío británico para cazar ballenas cerca de las islas Galápagos. Por el prodigioso número de cetáceos en la región, desde el primer navío hasta fines del siglo XIX, más de un millar de navíos balleneros pasaron por las islas. "
+      },
+      {
+        "type": "paragraph",
+        "content": "En la época, lanzarse a la vida de marinero en busca de aventuras era común. En el siglo XIX, por ejemplo, un muchacho de 21 años se atrevió a enlistarse en el barco ballenero Nantucket para trabajar como marinero y ampliar sus horizontes. Las islas le impresionaron tanto que le ocasionaron pesadillas durante años. El muchacho, llamado Herman Melville, escribió años después una novela titulada Moby Dick."
+      },
+      {
+        "type": "image",
+        "caption": "Barco ballenero del s. XIX. Fuente: Museo Peabody Essex.",
+        "source": "/src/assets/images/barco-ballenero-s-xix.webp"
+      },
+      {
+        "type": "paragraph",
+        "content": "Fue gracias a estudios de geografía posteriores, como el de Christophe Grenier en Conservación contra natura: las islas Galápagos, que se descubrió que los tripulantes de los barcos balleneros cazaban tortugas para alimentarse. En épocas de tormenta, las tortugas eran tiradas por la borda, para aliviar el peso de los barcos. De este modo, las especies eran llevadas lejos de sus hábitats originales."
+      },
+      {
+        "type": "paragraph",
+        "content": "El resultado de estas acciones humanas fue la inexplicable variedad genética que hay de tortugas en las islas de Galápagos, cuenta Orsag. Por este y muchos ejemplos más, el historiador cree que es importante visibilizar que la división entre naturaleza y cultura no existe."
+      }
+    ]
+  },
+  "demythologizing": {
+    "title": "Desmitificación",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "El economista ambiental, Stasiek “Stash” Czaplicki, en una entrevista concedida para este reportaje, afirma que superar la dicotomía entre naturaleza y cultura implica desmitificar todo lo que se entiende por naturaleza.",
+        "tooltip": {
+          "word": "desmitificar",
+          "content": "La mitificación de la naturaleza es un proyecto de pensamiento que busca concebirla como un orden perfecto, idílico y armónico que debe preservarse o conservarse intacto",
+          "source": "Fuente: Gaceta."
+        }
+      },
+      {
+        "type": "poet",
+        "photo": "/src/assets/images/photos/stasiek-czaplicki.png",
+        "biography": [
+          "Es artista, estratega de marketing y nómada digital. Trabaja en poesía, en collage y en la intervención digital de imágenes."
+        ],
+        "location": [
+          "Nació en Sucre en 1998.",
+          "Vive en Santa Cruz, Bolivia."
+        ],
+        "education": [
+          "Cursó Derecho en la Universidad Privada de Santa Cruz de la Sierra."
+        ],
+        "works": [
+          {
+            "title": "Bete Noire",
+            "year": "2016"
+          },
+          {
+            "title": "Ángeles a máxima velocidad",
+            "year": "2017 y 2020"
+          },
+          {
+            "title": "Ruido de Ave / Ruido de Aqua",
+            "year": "2024"
+          }
+        ],
+        "link": "https://www.instagram.com/charles.norwick?igsh=azkwajdpMmFzaXU0"
+      },
+      {
+        "type": "paragraph",
+        "content": "Para Stash, la mitificación de la práctica milenaria del chaqueo, ha hecho que esta mute a escalas inmanejables y permanezca intacta por ser idealizada."
+      },
+      {
+        "type": "paragraph",
+        "content": "De hecho, la práctica del chaqueo, como se practicaba ancestralmente, es inofensiva si se pone en comparación de las prácticas contemporáneas de la deforestación programada, hecha con máquinas. ¿La diferencia? La escala, sí, pero también las relaciones que se construyen entre humanos y no–humanos."
+      },
+      {
+        "type": "paragraph",
+        "content": "El informe Chaqueos e incendios forestales en Bolivia del Instituto Boliviano de Investigación Forestal, aclara que la práctica ancestral del chaqueo en sus orígenes ancestrales se realizaba a partir de la primera lluvia intensa, para que el suelo se caliente poco durante la quema, preservando así su fertilidad y la estructura de su suelo. "
+      },
+      {
+        "type": "paragraph",
+        "content": "El pueblo chiquitano, cuyo verdadero antes de la Colonia era tovasicoci, es uno de los pueblos que hoy en día practican el chaqueo. Estos pequeños seres humanos —de ahí su nombre— eran enemigos de los primeros cruceños y de Ñuflo de Chávez. Lo poco que se sabe de ellos es que eran temidos por los demás pueblos por el veneno de sus flechas y que probablemente hubiesen sido grupos semi-nómadas, cuya economía descansaba en las actividades de caza."
+      },
+      {
+        "type": "paragraph",
+        "content": "No fueron agricultores sino hasta que se vieron obligados a pedir auxilio a jesuitas a finales del siglo XVII, época de la cacería de esclavos en la región. A comienzos del siglo XX, el avasallamiento de sus territorios por parte de empresarios cruceños los dejó en condición de trabajadores o pongos.",
+        "tooltip": {
+          "word": "pongo",
+          "content": "Pongo era un indígena andino que tenía una obligación de servicio personal con un amo en la época colonial. El pongueaje y el mitanaje, instituciones heredadas de la Colonia, fueron acrecentadas durante la República, pervivieron hasta la segunda mitad del siglo XX y fueron abolidas recientemente en la Revolución Nacional del año 1952.",
+          "source": "Diccionario de americanismos."
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Las escalas de consumo de los chiquitanos debe ser siempre pequeña. La dirigente del pueblo chiquitano, Beatriz Tapanaché explica en una entrevista para el diagnóstico sobre la situación socioeconómica de los pueblos de tierras bajas, Nunca nos fuimos, que deben cuidar la relación con el jichi, pues él es el responsable de proteger la flora, la fauna y el aprovisionamiento de agua en el territorio. En sus palabras: hay que cuidar las fuentes de agua, \"porque si se las mal usa, el jichi se va y se seca la fuente\"."
+      },
+      {
+        "type": "paragraph",
+        "content": "Todo se cuida, pues todo tiene su dueño. El antropólogo Carlos Fausto, que realiza trabajo de campo en la Amazonía desde ​1988​, cuenta que en realidad, dueño en los idiomas de la Amazonía suele significar “quien tiene una relación de cuidado con otros” y no tanto propietario."
+      },
+      {
+        "type": "paragraph",
+        "content": "El chaqueo, para los chiquitanos, no solamente cuenta con un calendario agrícola para su sostenibilidad, sino que además es una actividad que los chiquitanos hacen con el permiso de los dueños del lugar, espíritus regentes que cuidan la selva, el bosque o a los animales. Lo hacen así debido a que, para este pueblo, la reciprocidad, redistribución y cooperación se ofrecen más allá del mundo humano: las relaciones sobrepasan su cultura y se extienden hacia la naturaleza."
+      },
+      {
+        "type": "paragraph",
+        "content": "Sin embargo, Stash insiste en que las prácticas contemporáneas de chaqueo son diferentes y además son protagonizadas por otros actores. En un artículo para la Revista Nómadas, el economista señala a los principales responsables de la deforestación en Bolivia entre 2021 y 2022, entre los cuales se encuentran los ganaderos, los menonitas y los colonos."
+      },
+      {
+        "type": "image",
+        "caption": "",
+        "source": "/src/assets/images/infografia-deforestación-bolivia.png"
+      },
+      {
+        "type": "paragraph",
+        "content": "Contrario a la tradición ancestral, el nuevo chaqueo para ganadería y agricultura a gran escala se realiza con máquinas. Para confirmar esto, el Centro de Estudios para el Desarrollo Laboral y Agrario (CEDLA) hizo un estudio multiescalar —de escalas grandes y pequeñas— de la deforestación en Bolivia titulado Causas, actores y dinámicas de la deforestación en Bolivia 2010-2022."
+      },
+      {
+        "type": "paragraph",
+        "content": "A partir de imágenes satelitales, el CEDLA pudo identificar a los actores principales de la deforestación en el país y conocer mejor sus procedimientos. Primero, los actores desmontan el terreno que no se utilizará para la agricultura con maquinaria pesada. Después de dos o tres meses de periodo de seca, quienes deforestan también utilizan máquinas para esparcir combustible e incendiar la vegetación ya seca. Luego, el fuego y el humo se propagan."
+      },
+      {
+        "type": "image",
+        "caption": "Fotografía satelital de los puntos de incendio en 2024 en Bolivia. Fuente: Mongabay.",
+        "source": "/src/assets/images/fotografía-satelital-incendios-bolivia-2024.jpg"
+      },
+      {
+        "type": "paragraph",
+        "content": "En septiembre de 2024, neumólogos paceños pidieron a la Alcaldía declarar una alerta sanitaria debido a la contaminación por humo en la ciudad de La Paz, que está del otro extremo del país de donde se realizaban las prácticas de deforestación. El medio La Razón, por aquellos días, informaba que el Índice de Calidad del Aire marcaba 208, siendo 0 saludable, 100 dañino para la salud y 200 muy dañino para la salud."
+      },
+      {
+        "type": "paragraph",
+        "content": "Para el economista, todo el daño que todavía se hace al medio ambiente en Bolivia tiene que ver con el hecho de que el país sigue en una fase económica principalmente extractivista. Incluso lo que él llama “el discurso de la Pachamama” podría ser cómplice del extractivismo."
+      },
+      {
+        "type": "paragraph",
+        "content": "En sus palabras: \"Un ejemplo claro para mí es pues escucho a amigos, colegas, dirigentes, digamos, más enfocados en la cosmovisión andina y te van a hablar de lo importante de la Pachamama, de lo que provee, de muchos otros elementos\""
+      },
+      {
+        "type": "image",
+        "caption": "Fotografía satelital del humo consecuencia de la deforestación de 2024 en Bolivia. Fuente: Wikipedia.",
+        "source": "/src/assets/images/fotografía-satelital-deforestacion-bolivia-2024-2.png"
+      },
+      {
+        "type": "paragraph",
+        "content": "Stash agrega que, por otro lado, ve a \"actores del Agro que te van a decir lo mismo, y es ahí donde me quedo sorprendido, donde te van a decir yo deforesto porque el bosque, la tierra del bosque es súper nutritiva y es más, no necesito poner nutrientes para poder producir porque la Pachamama va a proveer\"."
+      }
+    ]
+  },
+  "art": {
+    "title": "Arte",
+    "content": [
+      {
+        "type": "paragraph",
+        "content": "Tanto Stash como Ara y José Octavio coinciden: hallan en el arte un espacio en el que se puede resistir a la dicotomía entre naturaleza y cultura."
+      },
+      {
+        "type": "image",
+        "caption": " Persona contemplando la curaduría de \"Las cosas como antes\" de Coca, Goudsmit y Orsag. Fuente: Centro Cultural España La Paz.",
+        "source": "/src/assets/images/foto-exposición-las-cosas-como-antes-CCELP.png"
+      },
+      {
+        "type": "paragraph",
+        "content": "En el arte es donde se puede superar la ilusión de separación, ya que aquella disciplina ha asumido un rol crucial en restituir y revalorizar las conexiones entre la cultura y la naturaleza, opina Ara."
+      },
+      {
+        "type": "paragraph",
+        "content": "José Octavio dice que es importante empezar a cambiar el mundo desde los lenguajes. La historia de los mapas que se han hecho de la Amazonía ha tendido a simplificar los escenarios al punto que sólo han sido vistos como recursos."
+      },
+      {
+        "type": "image",
+        "caption": "El primer mapa de la Amazonía, obra del padre jesuita Samuel Fritz, misionero en la región entre 1685 y 1724. Fuente: Enciclopedia amazónica en línea.",
+        "source": "/src/assets/images/primer-mapa-amazonas.jpg"
+      },
+      {
+        "type": "paragraph",
+        "content": "Una contra-cartografía hecha de obras de arte, un retorno a las complejidades de la Amazonía es la propuesta que Galo Coca, José Octavio y Ara han preparado para la curaduría \"Las cosas como antes\", expuesta en el Centro Cultural España de La Paz del 3 de octubre al 16 de noviembre de 2024."
+      },
+      {
+        "type": "paragraph",
+        "content": "En el manifiesto que redactaron para la muestra, los curadores dicen lo siguiente:"
+      },
+      {
+        "type": "poem",
+        "verses": [
+          "El grito debería ser aturdidor, radical, para comunicar el dolor de escuchar y sentir, día a día, lo que acontece en la Amazonía. Este es un intento de hacer ese grito. No hablamos por los territorios. Exploramos las formas en las que nos han enseñado a ver la Amazonía como bolivianxs. Nos adentramos en los modos que reproducen la mirada conquistadora que no deja de ver en los bosques amazónicos un futuro de extracción y acumulación.",
+          "¿De qué 'antes' hablamos en Las cosas, como antes? Nuestros lenguajes traen la noción del pasado para expresar que lo se hace hoy con la Amazonía no es algo nuevo. Los pactos actuales de destrucción de la Amazonía son pactos con un pasado que no deja de estar presente. Sus síntomas aparecen en textos, imágenes, libros, propagandas, mapas y discursos que relatan las formas de desprecio proyectado hacia territorios. Estos modos de hacer mundo prometen un futuro mejor, un futuro cuya columna vertebral es la destrucción disfrazada de modernidad.",
+          "Pero en el gesto creador, hay hilos que bordan la vitalidad entre imágenes de violencia. En las fotografías de ríos desechos están escritos e inscritos testimonios de mujeres que viven y trabajan en los enclaves extractivos. Probamos modos de contemplar el duelo que nos vincula con seres quemados por el fuego y con seres-árboles vistos sólo como recurso y extracción. Y el cuerpo propio es lugar de memorias, un sitio de diálogo entre territorios.",
+          "Aquí intentamos impugnar la normalidad con la que se emiten y divulgan lenguajes violentos. Las preocupaciones y sensibilidades de las obras se adentran en la búsqueda de crear conversaciones y preguntas en medio de mundos arruinados."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Stash también ve posibilidades de superar la dicotomía entre naturaleza y cultura en el arte, sobre todo en las obras de Hefzibia Martínez y Knorke Leaf, quienes trabajan el problema del extractivismo"
+      },
+      {
+        "type": "image",
+        "caption": "Mural pintado en La Paz en homenaje a la vida de los jaguares. Fuente: Knorke Leaf.",
+        "source": "/src/assets/images/mural-knorke.jpg"
+      },
+      {
+        "type": "paragraph",
+        "content": "Pero Stash es también crítico con el arte, pues sabe que algunas obras de arte solamente se compartirán en redes sin una reflexión de fondo. Ara coincide, puesto que sabe que cualquier obra se puede convertir en un objeto más de consumo."
+      },
+      {
+        "type": "paragraph",
+        "content": "La palabra cultureza emerge como un nuevo paradigma que no separa las urbes de lo rural o lo artificial de lo natural, sino que los une. Como si el límite entre ambas fuera una ilusión, la selva educa, las especies son transformadas por los humanos y las relaciones profundas entre humanos y no-humanos hacen que los bosques se respeten en otros territorios."
+      },
+      {
+        "type": "paragraph",
+        "content": "Quizás la evolución de las palabras cultura y la naturaleza en cultureza no es solo una cuestión de teoría, sino también de supervivencia."
+      }
+    ]
+  }
+}

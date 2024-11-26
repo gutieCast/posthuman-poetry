@@ -5,7 +5,7 @@ const useElementsOnScreen = (
 ): RefObject<HTMLElement[]> => {
   const containerRefs = useRef<HTMLElement[]>([]);
 
-  const callbackFunction = (entries: IntersectionObserverEntry[]) => {
+  const onChangeSectionView = (entries: IntersectionObserverEntry[]) => {
     entries.forEach(entry => {
       const target = entry.target as HTMLElement;
       if (entry.isIntersecting) {
@@ -19,7 +19,7 @@ const useElementsOnScreen = (
   };
 
   useEffect(() => {
-    const observer = new IntersectionObserver(callbackFunction, options);
+    const observer = new IntersectionObserver(onChangeSectionView, options);
     const currentRefs = containerRefs.current;
     currentRefs.forEach(ref => {
       if (ref) {

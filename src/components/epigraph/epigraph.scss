@@ -1,8 +1,19 @@
 @use '../../assets/styles/variables';
 @use '../../assets/styles/mixins';
 
-.epigraph {
-  @include mixins.section;
+.text-epigraph {
+  color: variables.$color-gray;
+  width: 70%;
+  display: inline-block !important;
+  text-transform: none !important;
+  font-size: 2rem;
+  margin: 50px !important;
+
+  @include mixins.lg {
+    font-size: 3rem;
+    margin: 100px 50px 50px 50px !important;
+  }
+
 }
 
 .--epigraph {
@@ -12,15 +23,16 @@
   align-items: center;
   justify-content: center;
   font-weight: bold;
-  font-size: 36px;
   position: relative;
   overflow: hidden;
-  p {
+  font-family: variables.$font-normal;
+  .keyword {
     animation: come2life linear 10s infinite;
     transform-origin: center center;
     opacity: 0;
     width: 250px;
     height: 200px;
+    font-size: 3vi;
     position: absolute;
     backface-visibility: hidden;
     color: variables.$color-gray-light;
@@ -49,16 +61,6 @@
       top: 70vh;
       animation-delay: 2s;
     }
-  }
-}
-
-.text-epigraph {
-  color: variables.$color-gray;
-  font-size: 7vi;
-  width: 65%;
-  display: inline-block !important;
-  span {
-    font-size: 7.5vi;
   }
 }
 

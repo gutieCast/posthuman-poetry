@@ -1,4 +1,4 @@
-
+@use './variables';
 // Responsive
 
 @mixin sm {
@@ -44,12 +44,25 @@
 }
 
 @mixin section {
-  position: relative;
+  position: sticky;
+  display: block;
+  @content;
+}
+
+@mixin section-content {
   display: flex;
   flex-direction: column;
-  // scroll-snap-align: center;
-  // min-height: 100vh;
-  max-height: 100vh;
+  // justify-content: space-around;
+  position: relative;
+  min-height: 100vh;
+
+  &.--text-content {
+    align-content: baseline;
+  }
+
+  &::after {
+    height: 13vi;
+  }
   @content;
 }
 
@@ -60,5 +73,61 @@
       $delay: if($i == 1, 1s, 1s + ($i - 1) * 0.20s);
       animation-delay: $delay !important;
     }
+  }
+}
+
+@mixin theme($text-color: variables.$color-white, $background-color: variables.$color-black) {
+  h2, p, span {
+    color: $text-color;
+  }
+  background-color: $background-color;
+  
+  .--text-content {
+    .poem-container {
+      // background-color: $background-color 0.5;
+      border: 2px solid $text-color;
+      // border-bottom: 1px solid $text-color;
+      .title {
+        color: $text-color;
+      }
+      .author {
+        color: $text-color;
+      }
+      .poem {
+        color: $text-color;
+      }
+    }
+    .figure-container figcaption {
+      color: $text-color;
+    }
+
+    
+    .btn-transparent {
+      @include btn-dynamic(transparent, $text-color, variables.$size-paragraph);
+    }
+  }  
+  @content;
+}
+
+@mixin dark-theme {
+  @include theme(variables.$color-white, variables.$color-black) {
+    @content;
+  }
+}
+
+@mixin light-theme {
+  @include theme(variables.$color-black, variables.$color-white) {
+    @content;
+  }
+}
+
+@mixin btn-dynamic($bgColor: transparent, $color, $fs) {
+  background-color: $bgColor;
+  color: $color;
+  font-size: $fs;
+  @if ($bgColor == transparent) {
+    border: none;
+  } @else {
+    border: 1px solid $bgColor;
   }
 }
