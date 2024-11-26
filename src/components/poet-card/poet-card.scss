@@ -12,7 +12,8 @@
   margin: 50px auto;
   box-shadow: 0 1px 1px variables.$color-green;
   border: 1px solid variables.$color-black;
-  background-color: variables.$color-white;
+  // background-color: variables.$color-white;
+  // color: variables.$color-black !important;
 
 }
 .poet-card-body {
@@ -86,7 +87,7 @@
   flex-grow: 1;
   padding: 0 0 0 10px;
   color: variables.$color-black;
-  background-color: variables.$color-white;
+  // background-color: variables.$color-white;
   width: 100%;
   p, span, li span {
     margin: 0 0 10px 0 !important;
@@ -100,6 +101,7 @@
     display: inline-flex;
     align-items: center;
     justify-content: flex-start;
+    background-color: transparent !important;
 
   }
   ul li span {

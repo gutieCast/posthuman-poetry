@@ -5,8 +5,8 @@ import TextContent, { Content } from "../components/text-content/text-content";
 import { FooterNav } from "../components/footer/footer";
 
 const itemsMenuFooter = [
-  { title: 'Especies de compañía', href: 'cronica', dir: 'left'  },
-  { title: 'Cultureza', href: 'cultureza', dir: 'right' }
+  { title: 'Especies de compañía', href: '/cronica', dir: 'left'  },
+  { title: 'Cultureza', href: '/cultureza', dir: 'right' }
 ];
 
 import textContent from "../utils/content.json"

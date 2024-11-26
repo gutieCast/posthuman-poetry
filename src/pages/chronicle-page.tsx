@@ -7,7 +7,7 @@ import { FooterNav } from "../components/footer/footer";
 
 const itemsMenuFooter = [
   { title: 'Poesía', href: '/', dir: 'left'  },
-  { title: 'Poesía-ritual y poesía-pústula', href: 'perfiles', dir: 'right' }
+  { title: 'Poesía-ritual y poesía-pústula', href: '/perfiles', dir: 'right' }
 ]
 
 import textContent from "../utils/content.json"

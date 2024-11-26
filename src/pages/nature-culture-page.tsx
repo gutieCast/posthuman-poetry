@@ -4,7 +4,7 @@ import TextContent, { Content } from "../components/text-content/text-content";
 import { FooterNav } from "../components/footer/footer";
 
 const itemsMenuFooter = [
-  { title: 'Poesía-ritual y poesía-pústula', href: 'perfiles', dir: 'left'  },
+  { title: 'Poesía-ritual y poesía-pústula', href: '/perfiles', dir: 'left'  },
   { title: 'Poesía', href: '/', dir: 'right' }
 ];
 
