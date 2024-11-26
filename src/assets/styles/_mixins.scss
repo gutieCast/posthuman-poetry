@@ -100,11 +100,6 @@
     .figure-container figcaption {
       color: $text-color;
     }
-
-    
-    .btn-transparent {
-      @include btn-dynamic(transparent, $text-color, variables.$size-paragraph);
-    }
   }  
   @content;
 }
@@ -121,13 +116,12 @@
   }
 }
 
-@mixin btn-dynamic($bgColor: transparent, $color, $fs) {
+@mixin btn-dynamic($bgColor: transparent) {
   background-color: $bgColor;
-  color: $color;
-  font-size: $fs;
   @if ($bgColor == transparent) {
     border: none;
   } @else {
     border: 1px solid $bgColor;
   }
+  @content
 }

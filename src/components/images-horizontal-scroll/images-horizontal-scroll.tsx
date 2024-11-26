@@ -44,15 +44,15 @@ const ImagesHorizontalScroll: FC<IImagesHorizontalScrollProps> = ({ imageURLs })
             <div key={`img-geo-${index}`} className="horizontal-scroll-image-container">
               {
                 index !== 0 &&
-                <button key={`btn-left-${index}`} type="button" className="btn btn-scroll --left" onClick={() => handleScroll('left')}>
-                  left
+                <button key={`btn-left-${index}`} type="button" className="btn btn-scroll --left btn-transparent" onClick={() => handleScroll('left')}>
+                  <img src="/src/assets/icons/left-btn-icon.svg" alt="img-left-icon" />
                   </button>
               }
               <img key={`img-${index}`} src={imageURL} alt="Image" />
               {
                 index !== imageURLs.length - 1 && 
-                <button key={`btn-right-${index}`} type="button" className="btn btn-scroll --right" onClick={() => handleScroll('right')}>
-                  right
+                <button key={`btn-right-${index}`} type="button" className="btn btn-scroll --right btn-transparent" onClick={() => handleScroll('right')}>
+                  <img src="/src/assets/icons/right-btn-icon.svg" alt="img-right-icon" />
                 </button>
               }
             </div>

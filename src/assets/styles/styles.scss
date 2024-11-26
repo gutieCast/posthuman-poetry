@@ -126,7 +126,7 @@
     margin-top: 5px;
     text-align: center;
     p {
-      font-size: variables.$size-s;
+      font-size: variables.$size-normal;
       margin: 0 !important;
       padding: 0 !important;
       max-width: none;
@@ -158,4 +158,9 @@
   height: 60px;
   width: 50px;
   height: 50px;
+}
+
+.btn-transparent {
+  background-color: transparent !important;
+  border: none !important;
 }
