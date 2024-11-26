@@ -147,7 +147,7 @@
       {
         "type": "image",
         "caption": "Gran Aceleración del siglo XX",
-        "source": "/src/assets/images/infografía-gran-aceleración-siglo-XX.png"
+        "source": "../../assets/images/infografía-gran-aceleración-siglo-XX.png"
       },
       {
         "type": "paragraph",
