@@ -6,7 +6,7 @@ import ChroniclesPage from "./pages/chronicle-page";
 import NatureCulturePage from "./pages/nature-culture-page";
 import ProfilesPage from "./pages/profiles-page";
 
-function App() {
+const App = () => {
  return (
    <div className="App">
      <BrowserRouter>

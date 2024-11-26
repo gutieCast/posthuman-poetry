@@ -5,7 +5,8 @@
   justify-content: end;
   align-items: end;
   justify-content: space-between;
-  min-height: 800px;
+  height: 100vh;
+
   .title-hero {
     color: variables.$color-gray-light;
     font-family: variables.$font-normal;

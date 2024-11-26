@@ -2,8 +2,8 @@ import { FC } from "react";
 // interface IChroniclesPageProps {};
 
 
-import TextContent, { Content } from "../components/text-content/text-content";
-import { FooterNav } from "../components/footer/footer";
+import TextContent, { Content } from "../components/text-content/text-content.tsx";
+import { FooterNav } from "../components/footer/footer.tsx";
 
 const itemsMenuFooter = [
   { title: 'Poesía', href: '/', dir: 'left'  },

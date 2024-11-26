@@ -26,6 +26,8 @@
   position: relative;
   overflow: hidden;
   font-family: variables.$font-normal;
+  height: 100vh;
+
   .keyword {
     animation: come2life linear 10s infinite;
     transform-origin: center center;

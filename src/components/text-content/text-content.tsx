@@ -1,9 +1,10 @@
 import { Children, FC, ReactNode, useEffect, useState } from "react";
 import './text-content.scss';
-import PoemComponent from "../poem-container/poem-component";
-import CustomTooltip from "../tooltip/tooltip";
+import PoemComponent from "../poem-container/poem-component.tsx";
+import CustomTooltip from "../tooltip/tooltip.tsx";
+import AudioPlayer from "../audio-player/audio-player.tsx";
+
 import { PoetCard, Work } from "../poet-card/poet-card";
-import AudioPlayer from "../audio-player/audio-player";
 
 interface ITextContentProps {
   theme?: string;

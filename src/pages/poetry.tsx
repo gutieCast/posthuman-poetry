@@ -1,9 +1,9 @@
 import { FC, useEffect } from "react";
 import useElementsOnScreen from "../hooks/use-elements-on-screen";
 
-import InitialScene from "../components/initial-scene/initial-scene";
-import Hero from '../components/hero/hero';
-import Epigraph from "../components/epigraph/epigraph";
+import InitialScene from "../components/initial-scene/initial-scene.tsx";
+import Hero from '../components/hero/hero.tsx';
+import Epigraph from "../components/epigraph/epigraph.tsx";
 
 import TextContent, { Content } from "../components/text-content/text-content";
 
