@@ -147,7 +147,7 @@
       {
         "type": "image",
         "caption": "Gran Aceleración del siglo XX",
-        "source": "../../assets/images/infografía-gran-aceleración-siglo-XX.png"
+        "source": "../images/infografía-gran-aceleración-siglo-XX.png"
       },
       {
         "type": "paragraph",
@@ -203,7 +203,7 @@
       {
         "type": "image",
         "caption": "Portada de Poemas ocultos de Jessica Freudenthal. Fuente: Jessica Freudenthal.",
-        "source": "/src/assets/images/portada-poemas-ocultos.png"
+        "source": "../images/portada-poemas-ocultos.png"
       },
       {
         "type": "paragraph",
@@ -220,7 +220,7 @@
     "content": [
       {
         "type": "poet",
-        "photo": "/src/assets/images/photos/jessica-freudenthal.png",
+        "photo": "../images/photos/jessica-freudenthal.png",
         "biography": [
           "Escritora, artista, mediadora de la lectura, ludotecaria. Ha participado en festivales y encuentros literarios. Produce artículos y ensayos, colabora con diversas publicaciones. A través de la poesía y la literatura colabora con artistas transdisciplinares y proyectos educativos."
         ],
@@ -368,7 +368,7 @@
       },
       {
         "type": "audio",
-        "imgCoverAudio": "/src/assets/images/audio-covers/poema-1-audio-cover.png",
+        "imgCoverAudio": "../images/audio-covers/poema-1-audio-cover.png",
         "url": "https://open.spotify.com/episode/2gxQIS35ywH5kuVe1g2GD9?si=jYxo9Qt5Qge_dFBEsLoU3Q"
       }
       
@@ -422,7 +422,7 @@
       {
         "type": "image",
         "caption": "Vórtice. Fuente: Tenor.",
-        "source": "/src/assets/images/effects/vortex-fuente-tenor.gif"
+        "source": "../images/effects/vortex-fuente-tenor.gif"
       },
       {
         "type": "paragraph",
@@ -444,7 +444,7 @@
       {
         "type": "image",
         "caption": " Palliris de Llalagua. Fuente: Opinión.",
-        "source": "/src/assets/images/foto-palliris.jpg"
+        "source": "../images/foto-palliris.jpg"
       }
     ]
   },
@@ -453,7 +453,7 @@
     "content": [
       {
         "type": "poet",
-        "photo": "/src/assets/images/photos/edgar-soliz.png",
+        "photo": "../images/photos/edgar-soliz.png",
         "biography": [
           "Es poeta, investigador literario acerca de las narrativas del gremio marifrunci (LGBTIQ+) en la literatura boliviana e integrante del Movimiento Maricas Bolivia."
         ],
@@ -500,7 +500,7 @@
       },
       {
         "type": "audio",
-        "imgCoverAudio": "/src/assets/images/audio-covers/poema-2-audio-cover.png",
+        "imgCoverAudio": "../images/audio-covers/poema-2-audio-cover.png",
         "url": "https://open.spotify.com/episode/4eOjRS1Nhex7GsWLQ4onwt?si=67a2c304e9544544"
       }
     ]
@@ -532,7 +532,7 @@
       {
         "type": "image",
         "caption": "Portada de un libro de crónicas de enfermos de SIDA de Pedro Lemebel. Fuente: Memoria chilena.",
-        "source": "/src/assets/images/portada-loco-afan-pedro-lemebel.jpg"
+        "source": "../images/portada-loco-afan-pedro-lemebel.jpg"
       },
       {
         "type": "paragraph",
@@ -575,7 +575,7 @@
     "content": [
       {
         "type": "poet",
-        "photo": "/src/assets/images/photos/valeria-canelas.png",
+        "photo": "../images/photos/valeria-canelas.png",
         "biography": [
           "Escritora y felinista. Licenciada en Historia y magíster en Literatura hispanoamericana y en Estudios ibéricos y latinoamericanos. En la actualidad, estudia biblioteconomía y escribe su tesis doctoral sobre la relación entre lo animal y lo humano."
         ],
@@ -642,7 +642,7 @@
       },
       {
         "type": "audio",
-        "imgCoverAudio": "/src/assets/images/audio-covers/poema-3-audio-cover.png",
+        "imgCoverAudio": "../images/audio-covers/poema-3-audio-cover.png",
         "url": "https://open.spotify.com/episode/2cpE68JZFsAsOBN1ZJs0RU?si=D17hnOKvQbOBlkUGjb913w"
       }
     ]
@@ -698,7 +698,7 @@
       {
         "type": "image",
         "caption": "Cachorros rescatados de la venta ilegal de animales de la Feria 16 de Julio de El Alto, Bolivia. Fuente: La Razón.",
-        "source": "/src/assets/images/foto-cachorros-16-julio.jpg"
+        "source": "../images/foto-cachorros-16-julio.jpg"
       },
       {
         "type": "paragraph",
@@ -738,7 +738,7 @@
     "content": [
       {
         "type": "poet",
-        "photo": "/src/assets/images/photos/lucia-carvalho.png",
+        "photo": "../images/photos/lucia-carvalho.png",
         "biography": [
           "Escritora, artista audiovisual y gestora cultural. Gestora cultural del espacio colaborativo y de recuperación de la memoria patrimonial Casa Carmencita. Coordinadora de la plataforma de difusión literaria y cultural @Cyberelfa."
         ],
@@ -790,7 +790,7 @@
       },
       {
         "type": "audio",
-        "imgCoverAudio": "/src/assets/images/audio-covers/poema-4-audio-cover.png",
+        "imgCoverAudio": "../images/audio-covers/poema-4-audio-cover.png",
         "url": "https://open.spotify.com/episode/0LiYzEvwQAQrrdQoSsmJxe?si=jhHm4mM1TCOB-LxcGrpLEQ"
       }
     ]
@@ -809,7 +809,7 @@
       {
         "type": "image",
         "caption": "Holograma de Tupac Shakoor en el festival de música Coachella 2012. Fuente: Lollapaloozamania.",
-        "url": "/src/assets/images/foto-holograma-tupac-shakoor.jpg"
+        "url": "../images/foto-holograma-tupac-shakoor.jpg"
       },
       {
         "type": "paragraph",
@@ -835,7 +835,7 @@
       {
         "type": "image",
         "caption": "Comienzo Oráculo eléctrico",
-        "url": "/src/assets/images/foto-oraculo-electrico.png"
+        "url": "../images/foto-oraculo-electrico.png"
       },
       {
         "type": "paragraph",
@@ -878,7 +878,7 @@
     "content": [
       {
         "type": "poet",
-        "photo": "/src/assets/images/photos/andres-mariño.png",
+        "photo": "../images/photos/andres-mariño.png",
         "biography": [
           "Poeta, performer y traficante de libros. Su mera existencia es ya un atentado"
         ],
@@ -932,7 +932,7 @@
       },
       {
         "type": "audio",
-        "imgCoverAudio": "/src/assets/images/audio-covers/poema-5-audio-cover.png",
+        "imgCoverAudio": "../images/audio-covers/poema-5-audio-cover.png",
         "url": "https://open.spotify.com/episode/06WjqLz3Xyjqa14jH6AtKr?si=AnF60npwRV2Zbg3cjXoX9A"
       }
     ]
@@ -969,7 +969,7 @@
       {
         "type": "image",
         "caption": "Afiche de uno de los Trances del RoTuRnomiO. Fuente: EscenArtes.",
-        "source": "/src/assets/images/afiche-trances-del-roturnomio.jpg"
+        "source": "../images/afiche-trances-del-roturnomio.jpg"
       },
       {
         "type": "paragraph",
@@ -1032,7 +1032,7 @@
     "content": [
       {
         "type": "poet",
-        "photo": "/src/assets/images/photos/ignacio-navarro.png",
+        "photo": "../images/photos/ignacio-navarro.png",
         "biography": [
           "Es artista, estratega de marketing y nómada digital. Trabaja en poesía, en collage y en la intervención digital de imágenes."
         ],
@@ -1106,7 +1106,7 @@
       },
       {
         "type": "audio",
-        "imgCoverAudio": "/src/assets/images/audio-covers/poema-6-audio-cover.png",
+        "imgCoverAudio": "../images/audio-covers/poema-6-audio-cover.png",
         "url": "https://open.spotify.com/episode/6aX0UZRwe2ARvuSN4p8vFh?si=wYcO1l3DQiCNJuvoYvMWIg"
       }
     ]
@@ -1121,7 +1121,7 @@
       {
         "type": "image",
         "caption": "Fuente: collage de Ángeles a máxima velocidad de Ignacio Navarro.",
-        "source": "/src/assets/images/collage-nacho.png"
+        "source": "../images/collage-nacho.png"
       },
       {
         "type": "paragraph",
@@ -1186,7 +1186,7 @@
       {
         "type": "image",
         "caption": "",
-        "source": "/src/assets/images/infografía-lectores-1.png"
+        "source": "../images/infografía-lectores-1.png"
       },
       {
         "type": "paragraph",
@@ -1289,7 +1289,7 @@
       },
       {
         "type": "image",
-        "source": "/src/assets/images/infografía-lectores-2.png",
+        "source": "../images/infografía-lectores-2.png",
         "caption": ""
       },
       {
@@ -1362,7 +1362,7 @@
       {
         "type": "image",
         "caption": "Mapa satelital de las rotondas que hay en España y Europa. Fuente: Mapamundi rotondas.",
-        "source": "/src/assets/images/foto-rotondas-españa.jpg"
+        "source": "../images/foto-rotondas-españa.jpg"
       },
       {
         "type": "paragraph",
@@ -1393,7 +1393,7 @@
       {
         "type": "image",
         "caption": "Grisini y Valeria, conversando. Fuente: Valeria Canelas.",
-        "source": "/src/assets/images/foto-valeria-grisini.jpg"
+        "source": "../images/foto-valeria-grisini.jpg"
       },
       {
         "type": "paragraph",
@@ -1418,7 +1418,7 @@
       {
         "type": "image",
         "caption": "Pasaporte de Grisini. Fuente: Valeria Canelas.",
-        "source": "/src/assets/images/pasaporte-grisini.jpg"
+        "source": "../images/pasaporte-grisini.jpg"
       },
       {
         "type": "paragraph",
@@ -1443,7 +1443,7 @@
       {
         "type": "image",
         "caption": "Postal de 1966 en homenaje a Henry Bergh y en conmemoración a los 100 años de la Sociedad Americana de Prevención de la Crueldad Animal. Fuente: Mystic Stamps Company.",
-        "source": "/src/assets/images/postal-henry-bergh.jpg"
+        "source": "../images/postal-henry-bergh.jpg"
       },
       {
         "type": "paragraph",
@@ -1472,7 +1472,7 @@
       {
         "type": "image",
         "caption": "Grisini en manos de Valeria. Fuente: Valeria Canelas.",
-        "source": "/src/assets/images/foto-grisini.png"
+        "source": "../images/foto-grisini.png"
       },
       {
         "type": "paragraph",
@@ -1485,7 +1485,7 @@
       {
         "type": "image",
         "caption": "En 2021, en las calles de India vivían 91 gatos callejeros. Fuente: The Catrina Foundation.",
-        "source": "/src/assets/images/foto-gato-callejero.jpg"
+        "source": "../images/foto-gato-callejero.jpg"
       },
       {
         "type": "paragraph",
@@ -1497,7 +1497,7 @@
       },
       {
         "type": "audio",
-        "imgCoverAudio": "/src/assets/images/audio-covers/poema-3-audio-cover.png",
+        "imgCoverAudio": "../images/audio-covers/poema-3-audio-cover.png",
         "url": "https://open.spotify.com/episode/2cpE68JZFsAsOBN1ZJs0RU?si=D17hnOKvQbOBlkUGjb913w"
       }
     ]
@@ -1508,7 +1508,7 @@
       {
         "type": "image",
         "caption": "Página de inicio de El chivo maquínico. Fuente: El chivo maquínico.",
-        "source": "/src/assets/images/foto-inicio-chivo-maquinico.png"
+        "source": "../images/foto-inicio-chivo-maquinico.png"
       },
       {
         "type": "paragraph",
@@ -1521,7 +1521,7 @@
       {
         "type": "image",
         "caption": "Andrés en la performance erótica Opus Nigrum. Fuente: Camila Rocha.",
-        "source": "/src/assets/images/foto-andres-marino-eros-opus-nigrum.png"
+        "source": "../images/foto-andres-marino-eros-opus-nigrum.png"
       },
       {
         "type": "paragraph",
@@ -1538,7 +1538,7 @@
       {
         "type": "image",
         "caption": "Autorretrato del poeta Andrés Mariño. Fuente: Andrés Mariño.",
-        "source": "/src/assets/images/foto-andres-marino.png"
+        "source": "../images/foto-andres-marino.png"
       },
       {
         "type": "paragraph",
@@ -1555,7 +1555,7 @@
       {
         "type": "image",
         "caption": "Ataque cerebral. Fuente: Mateo Olivares.",
-        "source": "/src/assets/images/ataque-cerebral-mateo-olivares.webp"
+        "source": "../images/ataque-cerebral-mateo-olivares.webp"
       },
       {
         "type": "paragraph",
@@ -1572,7 +1572,7 @@
       {
         "type": "image",
         "caption": "Altar casero. Fuente: Andrés Mariño.",
-        "source": "/src/assets/images/foto-altar-andres-marino.png"
+        "source": "../images/foto-altar-andres-marino.png"
       },
       {
         "type": "paragraph",
@@ -1588,7 +1588,7 @@
       },
       {
         "type": "audio",
-        "imgCoverAudio": "/src/assets/images/audio-covers/poema-5-audio-cover.png",
+        "imgCoverAudio": "../images/audio-covers/poema-5-audio-cover.png",
         "url": "https://open.spotify.com/episode/06WjqLz3Xyjqa14jH6AtKr?si=AnF60npwRV2Zbg3cjXoX9A"
       }
     ]
@@ -1599,7 +1599,7 @@
       {
         "type": "image",
         "caption": " Edgar Soliz leyendo en un baño público. Fuente: EJU TV.",
-        "source": "/src/assets/images/foto-edgar-soliz-lectura.jpg"
+        "source": "../images/foto-edgar-soliz-lectura.jpg"
       },
       {
         "type": "paragraph",
@@ -1620,7 +1620,7 @@
       {
         "type": "image",
         "caption": "",
-        "source": "/src/assets/images/infografía-suicidios.png"
+        "source": "../images/infografía-suicidios.png"
       },
       {
         "type": "paragraph",
@@ -1637,7 +1637,7 @@
       {
         "type": "image",
         "caption": "Performance “Alacranes en Marcha” (1994) de Pedro Lemebel en la marcha del orgullo LGBTQI+ de Estados Unidos. Fuente: Katabasis.",
-        "source": "/src/assets/images/foto-lemebel-performance.jpg"
+        "source": "../images/foto-lemebel-performance.jpg"
       },
       {
         "type": "paragraph",
@@ -1685,7 +1685,7 @@
       {
         "type": "image",
         "caption": "Grisini y Valeria, conversando. Fuente: Valeria Canelas.",
-        "source": "/src/assets/images/foto-bano-cruising.jpg"
+        "source": "../images/foto-bano-cruising.jpg"
       },
       {
         "type": "paragraph",
@@ -1702,7 +1702,7 @@
       {
         "type": "image",
         "caption": "Grisini y Valeria, conversando. Fuente: Valeria Canelas.",
-        "source": "/src/assets/images/infografía-SIDA.png"
+        "source": "../images/infografía-SIDA.png"
       },
       {
         "type": "paragraph",
@@ -1711,7 +1711,7 @@
       {
         "type": "image",
         "caption": "Performance Desandar la ciudad. Fuente: Performing borders.",
-        "source": "/src/assets/images/foto-edgar-soliz-performance-nacion-marica.jpg"
+        "source": "../images/foto-edgar-soliz-performance-nacion-marica.jpg"
       },
       {
         "type": "paragraph",
@@ -1723,7 +1723,7 @@
       },
       {
         "type": "audio",
-        "imgCoverAudio": "/src/assets/images/audio-covers/poema-2-audio-cover.png",
+        "imgCoverAudio": "../images/audio-covers/poema-2-audio-cover.png",
         "url": "https://open.spotify.com/episode/4eOjRS1Nhex7GsWLQ4onwt?si=67a2c304e9544544"
       }
     ]
@@ -1750,7 +1750,7 @@
       },
       {
         "type": "poet",
-        "photo": "/src/assets/images/photos/ara-goudsmit.png",
+        "photo": "../images/photos/ara-goudsmit.png",
        "biography": [
           "Es artista, estratega de marketing y nómada digital. Trabaja en poesía, en collage y en la intervención digital de imágenes."
         ],
@@ -1788,7 +1788,7 @@
       {
         "type": "image",
         "caption": " Niños de la etnia Tenharim en el río Amazonas. Fuente: EFEVerde.",
-        "source": "/src/assets/images/foto-ninos-selva.webp"
+        "source": "../images/foto-ninos-selva.webp"
       },
       {
         "type": "paragraph",
@@ -1814,7 +1814,7 @@
       {
         "type": "image",
         "caption": "Púber Sateré-Mawé antes de cumplir con su ritual de paso. Fuente: Sick History.",
-        "source": "/src/assets/images/foto-nino-amazonia.jpg"
+        "source": "../images/foto-nino-amazonia.jpg"
       },
       {
         "type": "paragraph",
@@ -1848,7 +1848,7 @@
       },
       {
         "type": "poet",
-        "photo": "/src/assets/images/photos/jose-orsag.png",
+        "photo": "../images/photos/jose-orsag.png",
         "biography": [
           "Es artista, estratega de marketing y nómada digital. Trabaja en poesía, en collage y en la intervención digital de imágenes."
         ],
@@ -1882,7 +1882,7 @@
       {
         "type": "image",
         "caption": "Retrato de Charles Darwin. Fuente: Wikipedia.",
-        "source": "/src/assets/images/foto-darwin.jpg"
+        "source": "../images/foto-darwin.jpg"
       },
       {
         "type": "paragraph",
@@ -1909,7 +1909,7 @@
       {
         "type": "image",
         "caption": "Barco ballenero del s. XIX. Fuente: Museo Peabody Essex.",
-        "source": "/src/assets/images/barco-ballenero-s-xix.webp"
+        "source": "../images/barco-ballenero-s-xix.webp"
       },
       {
         "type": "paragraph",
@@ -1935,7 +1935,7 @@
       },
       {
         "type": "poet",
-        "photo": "/src/assets/images/photos/stasiek-czaplicki.png",
+        "photo": "../images/photos/stasiek-czaplicki.png",
         "biography": [
           "Es artista, estratega de marketing y nómada digital. Trabaja en poesía, en collage y en la intervención digital de imágenes."
         ],
@@ -2006,7 +2006,7 @@
       {
         "type": "image",
         "caption": "",
-        "source": "/src/assets/images/infografia-deforestación-bolivia.png"
+        "source": "../images/infografia-deforestación-bolivia.png"
       },
       {
         "type": "paragraph",
@@ -2019,7 +2019,7 @@
       {
         "type": "image",
         "caption": "Fotografía satelital de los puntos de incendio en 2024 en Bolivia. Fuente: Mongabay.",
-        "source": "/src/assets/images/fotografía-satelital-incendios-bolivia-2024.jpg"
+        "source": "../images/fotografía-satelital-incendios-bolivia-2024.jpg"
       },
       {
         "type": "paragraph",
@@ -2036,7 +2036,7 @@
       {
         "type": "image",
         "caption": "Fotografía satelital del humo consecuencia de la deforestación de 2024 en Bolivia. Fuente: Wikipedia.",
-        "source": "/src/assets/images/fotografía-satelital-deforestacion-bolivia-2024-2.png"
+        "source": "../images/fotografía-satelital-deforestacion-bolivia-2024-2.png"
       },
       {
         "type": "paragraph",
@@ -2054,7 +2054,7 @@
       {
         "type": "image",
         "caption": " Persona contemplando la curaduría de \"Las cosas como antes\" de Coca, Goudsmit y Orsag. Fuente: Centro Cultural España La Paz.",
-        "source": "/src/assets/images/foto-exposición-las-cosas-como-antes-CCELP.png"
+        "source": "../images/foto-exposición-las-cosas-como-antes-CCELP.png"
       },
       {
         "type": "paragraph",
@@ -2067,7 +2067,7 @@
       {
         "type": "image",
         "caption": "El primer mapa de la Amazonía, obra del padre jesuita Samuel Fritz, misionero en la región entre 1685 y 1724. Fuente: Enciclopedia amazónica en línea.",
-        "source": "/src/assets/images/primer-mapa-amazonas.jpg"
+        "source": "../images/primer-mapa-amazonas.jpg"
       },
       {
         "type": "paragraph",
@@ -2093,7 +2093,7 @@
       {
         "type": "image",
         "caption": "Mural pintado en La Paz en homenaje a la vida de los jaguares. Fuente: Knorke Leaf.",
-        "source": "/src/assets/images/mural-knorke.jpg"
+        "source": "../images/mural-knorke.jpg"
       },
       {
         "type": "paragraph",

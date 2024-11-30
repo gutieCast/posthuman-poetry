@@ -6,6 +6,9 @@ interface IImagesHorizontalScrollProps {
   imageURLs: string[];
 }
 
+import iconLeft from "../../assets/icons/left-btn-icon.svg";
+import iconRight from "../../assets/icons/right-btn-icon.svg";
+
 const ImagesHorizontalScroll: FC<IImagesHorizontalScrollProps> = ({ imageURLs }) => {
   const options = {
     root: null,
@@ -45,14 +48,14 @@ const ImagesHorizontalScroll: FC<IImagesHorizontalScrollProps> = ({ imageURLs })
               {
                 index !== 0 &&
                 <button key={`btn-left-${index}`} type="button" className="btn btn-scroll --left btn-transparent" onClick={() => handleScroll('left')}>
-                  <img src="/src/assets/icons/left-btn-icon.svg" alt="img-left-icon" />
+                  <img src={ iconLeft } alt="img-left-icon" />
                   </button>
               }
               <img key={`img-${index}`} src={imageURL} alt="Image" />
               {
                 index !== imageURLs.length - 1 && 
                 <button key={`btn-right-${index}`} type="button" className="btn btn-scroll --right btn-transparent" onClick={() => handleScroll('right')}>
-                  <img src="/src/assets/icons/right-btn-icon.svg" alt="img-right-icon" />
+                  <img src={ iconRight } alt="img-right-icon" />
                 </button>
               }
             </div>

@@ -51,10 +51,10 @@
   @include mixins.section;
   justify-content: space-between;
   background-color: variables.$color-white;
-  &.is-visible{
+  // &.is-visible{
     h1 .word span {
       animation: animate 1s linear forwards;
-    }
+    // }
   }
 }
 // Define the animation

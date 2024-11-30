@@ -15,6 +15,12 @@ export interface Work {
   year: number; // Year of publication
 }
 
+import iconLocation from '../../assets/icons/location-icon.svg';
+import iconEducation from '../../assets/icons/education-icon.svg';
+import iconWorks from '../../assets/icons/works-icon.svg';
+
+import iconInstagram from '../../assets/icons/instagram-icon.svg';
+
 
 export const PoetCard: FC<IPoetCardProps> = ({ photo, biography, location, education, works, link }) => {
     return (
@@ -35,13 +41,13 @@ export const PoetCard: FC<IPoetCardProps> = ({ photo, biography, location, educa
               </div>
               <div className="poet-info">
                 <div className="info-item">
-                  <img src="/src/assets/icons/location-icon.svg" alt="location-icon" />
+                  <img src={ iconLocation } alt="location-icon" />
                   {location && location.map((loc, index) => (
                     <span key={`loc-${index}`}>{loc} </span>
                   ))}
                 </div>
                 <div className="info-item">
-                  <img src="/src/assets/icons/education-icon.svg" alt="education-icon" />
+                  <img src={ iconEducation } alt="education-icon" />
                   {education && education.map((edu, index) => (
                     <span key={`edu-${index}`}>{edu} </span>
                   ))}
@@ -49,7 +55,7 @@ export const PoetCard: FC<IPoetCardProps> = ({ photo, biography, location, educa
               {
                 works && (
                   <div className="info-item">
-                    <img src="/src/assets/icons/works-icon.svg" alt="works-icon" />
+                    <img src={ iconWorks } alt="works-icon" />
                     <ul>
                       {
                         works.map((work, index) => (
@@ -68,7 +74,7 @@ export const PoetCard: FC<IPoetCardProps> = ({ photo, biography, location, educa
           </div>
           <footer>
             <a href={link}>
-              <img src="/src/assets/icons/instagram-icon.svg" alt="icon" />
+              <img src={ iconInstagram } alt="icon" />
             </a>
           </footer>
         </div>
