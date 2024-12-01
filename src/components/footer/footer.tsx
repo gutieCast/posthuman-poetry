@@ -5,6 +5,10 @@ interface IFooterNavProps {
 };
 import './footer.scss';
 
+
+import iconLeft from "../../assets/icons/left-btn-icon.svg";
+import iconRight from "../../assets/icons/right-btn-icon.svg";
+
 export const FooterNav: FC<IFooterNavProps> = ({ items }) => {
     return (
       <footer className={`nav-footer ${items.length > 1 ? 'space-between' : 'flex-end'}`}>
@@ -14,8 +18,8 @@ export const FooterNav: FC<IFooterNavProps> = ({ items }) => {
           className={dir}
           
           >
-            {dir === 'left' && <img src="/src/assets/icons/left-btn-icon.svg" alt="left-arrow" />}
-            {dir === 'right' && <img src="/src/assets/icons/right-btn-icon.svg" alt="right-arrow" />}
+            {dir === 'left' && <img src={ iconLeft } alt="left-arrow" />}
+            {dir === 'right' && <img src={ iconRight } alt="right-arrow" />}
             {title}
           </NavLink>
         ))
