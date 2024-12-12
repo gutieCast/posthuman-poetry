@@ -5,7 +5,7 @@ const Layout = () => {
   const menuItems = [ 
     {
       href: "/",
-      title: "Poesía",
+      title: "Reportaje",
     },
     {
       href: "cronica",

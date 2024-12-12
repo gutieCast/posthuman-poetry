@@ -5,6 +5,7 @@ import CustomTooltip from "../tooltip/tooltip.tsx";
 import AudioPlayer from "../audio-player/audio-player.tsx";
 
 import { PoetCard, Work } from "../poet-card/poet-card";
+import { Link } from "react-router-dom";
 
 interface ITextContentProps {
   theme?: string;
@@ -34,6 +35,8 @@ export interface Content {
   education?: string[];
   works?: Work[],
   link?: string,
+  display?: string,
+  address?: string,
   imgCoverAudio?: string;
   url?: string;
 }
@@ -115,7 +118,6 @@ const TextContent: FC<ITextContentProps> = (props) => {
                   </figure>
                 );
               }
-              
             }            
           } else if (item.type === 'poet') {
             return (
@@ -125,8 +127,20 @@ const TextContent: FC<ITextContentProps> = (props) => {
             return (
               <AudioPlayer imgCoverAudio={item.imgCoverAudio!} url={item.url!} />
             )
+          } else if(item.type === 'link' && item.address && item.display) {
+            return (
+              <Link
+                className="PDF-downloader"
+                to={item.address} target="_blank" download>
+                <figure key={index} className="figure-container">
+                  <img src={item.display} alt="image-for-link" />
+                </figure>
+                <figcaption>
+                  <p>{ item.title }</p>
+                </figcaption>
+            </Link>
+            )
           }
-
           return null;
         })}
 

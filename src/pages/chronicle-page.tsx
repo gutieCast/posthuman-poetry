@@ -6,7 +6,7 @@ import TextContent, { Content } from "../components/text-content/text-content.ts
 import { FooterNav } from "../components/footer/footer.tsx";
 
 const itemsMenuFooter = [
-  { title: 'Poesía', href: '/', dir: 'left'  },
+  { title: 'Reportaje', href: '/', dir: 'left'  },
   { title: 'Poesía-ritual y poesía-pústula', href: '/perfiles', dir: 'right' }
 ]
 

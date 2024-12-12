@@ -20,7 +20,7 @@ import '../assets/styles/styles.scss';
 import ImagesHorizontalScroll from "../components/images-horizontal-scroll/images-horizontal-scroll";
 import { FooterNav } from "../components/footer/footer";
 
-const Poetry: FC = () => {
+const Report: FC = () => {
   const options = {
     root: null,
     rootMargin: '0px',
@@ -88,4 +88,4 @@ const Poetry: FC = () => {
   );
 }
 
-export default Poetry;
+export default Report;

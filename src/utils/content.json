@@ -4,7 +4,7 @@
     "content": [
       {
         "type": "paragraph",
-        "content": "Los océanos se alimentan de hasta 12 millones de toneladas de basura cada año, según la organización ecologista Greenpeace. Como el río Flint de Estados Unidos, por muchos otros ríos del planeta fluyen toneladas de basura, cargando los territorios que tocan con contaminación."
+        "content": "Los océanos se alimentan de hasta 12 millones de toneladas de basura cada año, según la organización ecologista Greenpeace. Como el río Flint de Estados Unidos, por muchos otros ríos del planeta fluyen toneladas de basura, cargando los territorios que tocan con contaminación.."
       },
       {
         "type": "paragraph",
@@ -33,7 +33,7 @@
       },
       {
         "type": "paragraph",
-        "content": "En cambio, la poesía del s. XXI en Bolivia continúa con el trabajo de la generación McOndo que es, según el escritor Edmundo Paz Soldán para el medio DW, \"un intento de registrar el impacto de los nuevos medios y tecnologías en la cultura urbana de hoy\"",
+        "content": "En cambio, la poesía del s. XXI en Bolivia continúa con el trabajo de la generación McOndo que es, según el escritor Edmundo Paz Soldán para el medio DW, \"un intento de registrar el impacto de los nuevos medios y tecnologías en la cultura urbana de hoy\".",
         "tooltip": {
           "word": "McOndo",
           "content": "Parodia de Macondo, corriente literaria latinoamericana surgida como reacción contra la escuela literaria del realismo mágico (movimiento literario que muestra lo extraño como algo cotidiano, como por ejemplo lo hace Cien años de soledad), que dominaba la recepción europea de la literatura de América Latina desde 1960.",
@@ -46,7 +46,7 @@
         "tooltip": {
           "word": "Alt Lit",
           "content": "Corriente literaria surgida en Estados Unidos que se enfoca en cuestiones mínimas de la vida cotidiana urbana y que lleva estas cuestiones hasta una inutilidad irónica.",
-          "source": "La Vanguardia."
+          "source": "Clarín."
         }
       },
       {
@@ -109,9 +109,15 @@
     "title": null,
     "content": [
       {
-        "type": "image",
-        "caption": "[Definición Antropoceno va acá]",
-        "source": ""
+        "type": "poem",
+        "title": "Posthumano, na",
+        "author": "Del ingl. posthumanist.",
+        "verses": [
+          "1. adj. Perteneciente o relativo al posthumanismo.",
+          "2. adj. Partidario o seguidor del posthumanismo, que propone la insuficiencia y agotamiento del modelo humanista para dar cuenta de la complejidad de nuestra sociedad actual y la necesidad de trascender al mismo con un énfasis propositivo en que la cuestión ética juega un rol fundamental ",
+          "",
+          "Fuente: “Posthumanismo: más allá de antropo-técnica y nomadismo”, Marco Maureira."
+        ]
       },
       {
         "type": "paragraph",
@@ -128,9 +134,14 @@
     "title": "¿Antropoceno?",
     "content": [
       {
-        "type": "image",
-        "caption": "[Definición Antropoceno va acá]",
-        "source": ""
+        "type": "poem",
+        "title": "Antropoceno, na",
+        "author": "Del ingl. Anthropocene, y este de anthropo- 'antropo-' y el gr. καινός kainós 'nuevo, reciente'.",
+        "verses": [
+          "1. adj. Geol. Dicho de una época: que es la más reciente del período cuaternario, abarca desde mediados del siglo XX hasta nuestros días y está caracterizada por la modificación global y sincrónica de los sistemas naturales por la acción humana. ",
+          "",
+          "Fuente: Diccionario de la Real Academia Española de la Lengua."
+        ]
       },
       {
         "type": "paragraph",
@@ -176,11 +187,11 @@
       },
       {
         "type": "paragraph",
-        "content": "Las temáticas de esta obra no son antropocéntricas, que quiere decir que no tienen como centro la humanidad, y más bien tratan sobre el materialismo vibrante, que quiere decir que las capacidades de hacer o crear también pueden ser desempeñadas por otros organismos, objetos o espacios."
+        "content": "Las temáticas de esta obra no son antropocéntricas, lo que quiere decir que no tienen como centro la humanidad. Más bien, estas obras tratan sobre el materialismo vibrante, que quiere decir que las capacidades de hacer o crear también pueden ser desempeñadas por otros organismos, objetos o espacios, y no solamente por los seres humanos."
       },
       {
         "type": "paragraph",
-        "content": "Estas obras son también postautónomas. Es decir que perturban los límites entre lo literario y otros espacios, como lo político, lo económico e incluso lo ritual."
+        "content": "Estas obras son también postautónomas. Es decir que perturban los límites entre lo literario y otros espacios, como lo político, lo económico e incluso lo ritual. Tal es el caso de uno de los poetas entrevistados para este reportaje, Andrés Mariño."
       },
       {
         "type": "poem",
@@ -211,7 +222,7 @@
       },
       {
         "type": "paragraph",
-        "content": "Además de ser un indicador del Antropoceno, estas son las obras que hacen que sus lectores reflexionen en torno a la humanidad y su relación con la naturaleza: "
+        "content": "Además de ser un indicador del Antropoceno, estas son las obras que hacen que sus lectores reflexionen en torno a la humanidad y su relación con la naturaleza:"
       }
     ]
   },
@@ -426,7 +437,7 @@
       },
       {
         "type": "paragraph",
-        "content": "Cérvix —que es sinónimo de cuello uterino— es un poema que opera en espiral. Comienza con una madre y termina con la imagen de las palliris en la bocamina, escarbándola.",
+        "content": "Cérvix —que es sinónimo de cuello uterino— es un poema que opera en espiral. Comienza con una madre y termina con la imagen de las palliris en la bocamina, escarbándola. ",
         "tooltip": {
           "word": "palliris",
           "content": "Una palliri es una mujer que trabaja en las minas, generalmente de Bolivia, recogiendo residuos de mineral con valor comercial. La palabra palliri proviene del aymara palla-ri, que significa \"la que recoge\".",
@@ -554,7 +565,7 @@
       },
       {
         "type": "paragraph",
-        "content": "El SIDA en Sarcoma es una enfermedad que es capaz de expresarse. Parte del lenguaje de la enfermedad del SIDA son sus signos: las pústulas y los sarcomas. Estas imágenes son leídas por la sociedad, pero también la sociedad les construye otras."
+        "content": "El SIDA en Sarcoma es una enfermedad que es capaz de expresarse. Parte del lenguaje de la enfermedad del SIDA son sus signos: las pústulas y los sarcomas. Estas imágenes son leídas por la sociedad, pero también la sociedad les construye otras. "
       },
       {
         "type": "paragraph",
@@ -817,10 +828,10 @@
       },
       {
         "type": "paragraph",
-        "content": "Para Davis, los medios tecnológicos —\"desde los jeroglíficos hasta el código informático\"— son indisociables del intercambio entre el mundo espiritual o divino y el humano. A este tipo de propuestas se las enmarca dentro del tecnomisticismo.",
+        "content": "Para Davis, los medios tecnológicos —\"desde los jeroglíficos hasta el código informático\"— son indisociables del intercambio entre el mundo espiritual o divino y el humano. A este tipo de propuestas se las enmarca dentro del tecnomisticismo. ",
         "tooltip": {
           "word": "tecnomisticismo",
-          "content": "Corriente de pensamiento que desarma la premisa de que el avance de la razón técnica traería un desencantamiento del mundo. Más bien, propone que la dimensión espiritual sigue viva; convive y dialoga con el desarrollo de Internet y todas las evoluciones que nos dejan perplejos.",
+          "content": "Corriente de pensamiento que desarma la premisa de que el avance de la razón técnica traería un desencantamiento del mundo. Más bien, propone que la dimensión espiritual sigue viva; convive y dialoga con el desarrollo de Internet y todas las evoluciones que nos dejan perplejos. ",
           "source": "Página/12"
         }
       },
@@ -839,7 +850,7 @@
       },
       {
         "type": "paragraph",
-        "content": "En él, quien escribe instala ya el panorama: se trata de una usuaria que pregunta a Google, cual si fuera un oráculo, cuál es el próximo paso que \"buscamos con la comunicación\" o que está \"fuera del orden\"."
+        "content": "En él, quien escribe instala ya el panorama: se trata de una usuaria que pregunta a Google, cual si fuera un oráculo, cuál es el próximo paso que \"buscamos con la comunicación\" o que está \"fuera del orden\". "
       },
       {
         "type": "paragraph",
@@ -869,7 +880,7 @@
       },
       {
         "type": "paragraph",
-        "content": "Lucía gestiona el proyecto Hija del internet, sitio web que reúne su trabajo, y gestiona el proyecto Cyber Elfa, un proyecto de difusión cultural que intersecta animé, poesía y feminismo. En septiembre, el podcast Hablemos escritoras le hizo una entrevista donde la poeta menciona ser fundadora del centro cultural Casa Carmencita en Santa Cruz, donde busca \"abrir un espacio cultural en donde podamos darle sala a artistas y crear eventos culturales\"."
+        "content": "Lucía gestiona el proyecto Hija del internet, sitio web que reúne su trabajo, y gestiona el proyecto Cyber Elfa, un proyecto de difusión cultural que intersecta animé, poesía y feminismo. En septiembre, el podcast Hablemos escritoras le hizo una entrevista donde la poeta menciona ser fundadora del centro cultural Casa Carmencita en Santa Cruz, donde busca \"abrir un espacio cultural en donde podamos darle sala a artistas y crear eventos culturales\". "
       }
     ]
   },
@@ -964,7 +975,7 @@
       },
       {
         "type": "paragraph",
-        "content": "En una entrevista para la revista de poesía Ubre amarga, Andrés presenta a El chivo como un proyecto con dos alas: \"una, es el blog El chivo maquínico que reúne textos experimentales, propuestas maquínico deseantes, manifiestos, experimentos visuales y otra, de experimentación performática y de ritual burlesco y violento: Los Trances del RoTuRnomiO (TdR)\", que se dedica sobre todo a la performance en vivo."
+        "content": "En una entrevista para la revista de poesía Ubre amarga, Andrés presenta a El chivo como un proyecto con dos alas: \"una, es el blog El chivo maquínico que reúne textos experimentales, propuestas maquínico deseantes, manifiestos, experimentos visuales y otra, de experimentación performática y de ritual burlesco y violento: Los Trances del RoTuRnomiO (TdR)\", que se dedica sobre todo a la performance en vivo. "
       },
       {
         "type": "image",
@@ -977,7 +988,7 @@
       },
       {
         "type": "paragraph",
-        "content": "En Bolivia, después de la pandemia el presupuesto de cultura del Estado Plurinacional de Bolivia sufrió una reducción del 73%: de Bs 146.00 0.000 a Bs 39.000.000, según el medio Opinión. El Premio Municipal de Poesía Franz Tamayo, se redujo de los Bs. 20.000 en 2017, pasando por los Bs 15.000 en 2020, hasta llegar a los Bs 11.000 en 2024. Este es el incentivo más importante a los poetas en el país, porque el Premio Nacional de Poesía Yolanda Bedregal dejó de existir en el año de la pandemia por COVID-19, el 2020."
+        "content": "En Bolivia, después de la pandemia el presupuesto de cultura del Estado Plurinacional de Bolivia sufrió una reducción del 73%: de Bs 146.000.000 a Bs 39.000.000, según el medio Opinión. El Premio Municipal de Poesía Franz Tamayo, se redujo de los Bs. 20.000 en 2017, pasando por los Bs 15.000 en 2020, hasta llegar a los Bs 11.000 en 2024. Este es el incentivo más importante a los poetas en el país, porque el Premio Nacional de Poesía Yolanda Bedregal dejó de existir en el año de la pandemia por COVID-19, el 2020."
       },
       {
         "type": "paragraph",
@@ -985,7 +996,7 @@
       },
       {
         "type": "paragraph",
-        "content": "Para él, los movimientos artísticos deberían ser “movimientos paramilitares instaurando nuevas religiones sin dios”. En los poemas del Chivo maquínico, quien escribe se relaciona con una sustancia —probablemente ketamina— como si de la relación con una entidad espiritual se tratara:"
+        "content": "Para él, los movimientos artísticos deberían ser \"movimientos paramilitares instaurando nuevas religiones sin dios\". En los poemas del Chivo maquínico, quien escribe se relaciona con una sustancia —probablemente ketamina— como si de la relación con una entidad espiritual se tratara:"
       },
       {
         "type": "poem",
@@ -1009,7 +1020,7 @@
       },
       {
         "type": "paragraph",
-        "content": "En este poema, quien escribe se relaciona desde el amor y el horror con \"la kosa\" o la sustancia ketamina. El texto termina con la frase \"(\"Sólo hay truco / no hay trato posible\") y con esto se refiere a que en esta poesía no hay manera en que haya un acuerdo con la entidad espiritual de la ketamina, sino que hay truco, trampa para lograr un fin. La sustancia, una religión y el ser humano, su esclavo o amante."
+        "content": "En este poema, quien escribe se relaciona desde el amor y el horror con \"la kosa\" o la sustancia ketamina. El texto termina con la frase \"(Sólo hay truco / no hay trato posible)\" y con esto se refiere a que en esta poesía no hay manera en que haya un acuerdo con la entidad espiritual de la ketamina, sino que hay truco, trampa para lograr un fin. La sustancia, una religión y el ser humano, su esclavo o amante."
       },
       {
         "type": "paragraph",
@@ -1064,7 +1075,7 @@
         "title": "Párpado",
         "author": "Nacho Navarro",
         "verses": [
-          "troza mi existencia como ruiseñor",
+          "/troza mi existencia como ruiseñor/",
           "tulipán que ave como cielo",
           "Ojo: Ojo que estera la huella que hielo en mi interior",
           "y cielo juguete en mar",
@@ -1116,7 +1127,7 @@
     "content": [
       {
         "type": "paragraph",
-        "content": "Ignacio Navarro, autor de Ángeles a máxima velocidad, confiesa que su relación con el Antropoceno es un proyecto al que se adscribe, porque se considera el arte parte de un rastro humano en la geología que indica que ha \"estado acá, en el Planeta\""
+        "content": "Ignacio “Nacho” Navarro, autor de Ángeles a máxima velocidad, confiesa que su relación con el Antropoceno es un proyecto al que se adscribe, porque se considera el arte parte de un rastro humano en la geología que indica que ha \"estado acá, en el Planeta\"."
       },
       {
         "type": "image",
@@ -1155,11 +1166,11 @@
       },
       {
         "type": "paragraph",
-        "content": "Hacia el final de la introducción, quedan los versos que recuerdan la mortalidad pero también la trascendencia de los ángeles que caen: \"este es su edificio\". El poeta se adscribe al proyecto del Antropoceno porque, como los ángeles, él también busca ir más allá de la mortalidad."
+        "content": "Hacia el final de la introducción, quedan los versos que recuerdan la mortalidad pero también la trascendencia de los ángeles que caen: “este es su edificio”. El poeta se adscribe al proyecto del Antropoceno porque, como los ángeles, él también busca ir más allá de la mortalidad."
       },
       {
         "type": "paragraph",
-        "content": "En su página de Gumroad, Nacho da a conocer y comercializa su poesía. Es nómada digital y trabaja desde Santa Cruz para Estados Unidos, en Creators Collective.",
+        "content": "En su página de Gumroad, Nacho da a conocer y comercializa su poesía. Es nómada digital y trabaja desde Santa Cruz para Estados Unidos, en Creators Collective. ",
         "tooltip": {
           "word": "nómada digital",
           "content": "Un nómada digital es una persona que utiliza Internet para ejercer su actividad laboral o para vender sus conocimientos a otras personas. Se caracterizan por poder trabajar desde cualquier lado porque trabajan en línea, porque utilizan diferentes modelos de negocios para trabajar y porque su estilo de vida se basa en el viaje.",
@@ -1177,7 +1188,7 @@
       },
       {
         "type": "paragraph",
-        "content": "En el sondeo, se les hizo preguntas a los lectores sobre poesía posthumana y se les pidió que leyeran dos poemas de las obras seleccionadas en este reportaje: \"Compañía\" de Valeria Canelas y un poema sin título de Andrés Mariño."
+        "content": "En el sondeo, se les hizo preguntas a los lectores sobre poesía posthumana y se les pidió que leyeran dos poemas de las obras seleccionadas en este reportaje: “Compañía” de Valeria Canelas y un poema sin título de Andrés Mariño."
       },
       {
         "type": "paragraph",
@@ -1301,30 +1312,44 @@
         "content": "Los lectores reconocen también en estos poemas una tentativa posthumana. Más en el caso de Andrés que en el caso de Valeria, cuya poesía alguno de los lectores consideró naíf.",
         "tooltip": {
           "word": "naíf",
-          "content": "En el arte o la poesía, naíf es una obra infantil o ingenua, incluso si es elaborada y compleja. Para muchos críticos, este arte es la expresión más auténtica de la inocencia.",
+          "content": "En el arte o la poesía, naíf es una obra infantil o ingenua, incluso si es elaborada y compleja. Para muchos críticos, este arte es la expresión más auténtica de la inocencia. ",
           "source": "Manifiesto de Arte."
         }
       },
       {
         "type": "paragraph",
-        "content": "El poema de Andrés evoca en los lectores “situaciones de exterminio, ataque, intercepción, destrucción, inoperancia” y una \"atmósfera post apocalíptica (qué poderosa imagen: hielo escarlata), con mutantes insecto/antropófagos (sagrados)\"."
+        "content": "El poema de Andrés evoca en los lectores \"situaciones de exterminio, ataque, intercepción, destrucción, inoperancia\" y una \"atmósfera post apocalíptica (qué poderosa imagen: hielo escarlata), con mutantes insecto/antropófagos (sagrados)\"."
       },
       {
         "type": "paragraph",
-        "content": "El poema de Valeria transfiere a los lectores \"el lamento solidario de un ser de una especie a otro\" de otra o una \"voz humana que coincide con esa otra especie a la que se dirige, sobre la duda/el deseo de si esta compañía continuará incluso en el final de sus tiempos como especies\""
+        "content": "El poema de Valeria transfiere a los lectores \"el lamento solidario de un ser de una especie a otro\" de otra o una \"voz humana que coincide con esa otra especie a la que se dirige, sobre la duda/el deseo de si esta compañía continuará incluso en el final de sus tiempos como especies\". "
       },
       {
         "type": "paragraph",
-        "content": "A pesar de que 26.66% de los lectores reportan sentir cierto desconcierto ante los poemas leídos, también el 73.33% reporta que uno de los efectos que causa la lectura de estos poemas es que se reflexione en torno a la humanidad, sus límites y también las conexiones que pueden llegar a tener con otros seres, ya sea, no–humanos o más–que–humanos.",
+        "content": "A pesar de que 26.66% de los lectores reportan sentir cierto desconcierto ante los poemas leídos, también el 73.33% reporta que uno de los efectos que causa la lectura de estos poemas es que se reflexione en torno a la humanidad, sus límites y también las conexiones que pueden llegar a tener con otros seres, ya sea, no–humanos (seres con los que los seres humanos comparten de manera desigual el planeta Tierra, como animales, plantas, microbios o virus) o más–que–humanos.",
         "tooltip": {
-          "word": "más-que-humano ",
-          "content": "Seres que desafían la primacía de los seres humanos en el mundo. Por ejemplo: dioses, espíritus, demonios, ángeles, apus o plantas maestras.",
+          "word": "más-que-humanos ",
+          "content": "Seres que desafían la primacía de los seres humanos en el mundo. Por ejemplo: dioses, espíritus, demonios, ángeles, apus o plantas maestras. ",
           "source": "Tekoporá. Revista Latinoamericana de humanidades ambientales y estudios territoriales."
         }
       },
       {
         "type": "paragraph",
-        "content": "En este sentido, el sondeo ha podido comprobar que los lectores pueden llegar a cuestionar tanto la condición de los seres humanos con relación al rol de estos en la naturaleza a través de la poesía. "
+        "content": "El sondeo ha podido comprobar que los lectores pueden llegar a cuestionar tanto la condición de los seres humanos con relación al rol de estos en la naturaleza a través de la poesía.  "
+      },
+      {
+        "type": "paragraph",
+        "content": "Para obtener otro análisis de poesía de cada una de las obras, también se ha invitado al lector especializado en poesía y poeta Juan Carlos Ramiro Quiroga (La Paz, 1962–). El texto de crítica literaria por este poeta comienza, en primer lugar, por presentar el Antropoceno y, después, por hacer un análisis uno por uno de fragmentos de las obras de este reportaje."
+      },
+      {
+        "type": "paragraph",
+        "content": "El análisis de Ramiro Quiroga y la antología elaborada específicamente para este reportaje puede encontrarse en el siguiente enlace:"
+      },
+      {
+        "type": "link",
+        "title": "Descargar Antología Poesía posthumana",
+        "display": "../images/portada-antologia.png",
+        "address": "../files/antologia-poesía-posthumana.pdf"
       },
       {
         "type": "paragraph",
@@ -1333,10 +1358,6 @@
       {
         "type": "paragraph",
         "content": "Muchos de estos poetas, además, eligen otros medios de producción y difusión. En el caso de Lucía Carvalho, destaca el afán de producir libros colectivamente y, en el de Jessica Freudenthal, destaca el deseo de conectarse con comunidades poéticas internacionales y el deseo de publicar de manera más sustentable, vía editoriales que reciclan sus materiales."
-      },
-      {
-        "type": "paragraph",
-        "content": "Por último, el poema de Andrés es una obra de escribir que aunque ha sido traducido a varios idiomas, no ha sido traducido a otro lenguaje. Esto puede ser una oportunidad de comunicar la poesía a un público que no conoce el idioma o la lengua en que se escribe."
       },
       {
         "type": "paragraph",
@@ -1366,7 +1387,7 @@
       },
       {
         "type": "paragraph",
-        "content": "Como muchos gatos rescatados, el gato pasó a un hogar temporal: el departamento de Valeria Canelas, una estudiante de posgrado que ha dedicado la mayor parte de sus investigaciones a los estudios animales en la literatura. También, como en muchos hogares temporales, el felino se quedó en la estancia más de la cuenta. "
+        "content": "Como muchos gatos rescatados, el gato pasó a un hogar temporal: el departamento de Valeria Canelas, una estudiante de posgrado que ha dedicado la mayor parte de sus investigaciones a los estudios animales en la literatura. También, como en muchos hogares temporales, el felino se quedó en la estancia más de la cuenta."
       },
       {
         "type": "paragraph",
@@ -1409,11 +1430,11 @@
       },
       {
         "type": "paragraph",
-        "content": "Grisini, de vez en cuando, interviene en la entrevista virtual a Valeria con un maullido: no le gusta estar solo, le gusta la compañía."
+        "content": "Grisini, de vez en cuando, interviene en la entrevista virtual a Valeria con un maullido: no le gusta estar solo, le gusta la compañía. "
       },
       {
         "type": "paragraph",
-        "content": "El gato gris empezó su nueva vida viajando de la casa de Valeria junto a su compañero felino, ahora fallecido, Grumo, hacia Estados Unidos. Hacia un departamento tan pequeño que no tenía puertas y donde Valeria no podía separarse, ni por un momento, de Grisini. "
+        "content": "El gato gris empezó su nueva vida viajando de la casa de Valeria junto a su compañero felino, ahora fallecido, Grumo, hacia Estados Unidos. Hacia un departamento tan pequeño que no tenía puertas y donde Valeria no podía separarse, ni por un momento, de Grisini."
       },
       {
         "type": "image",
@@ -1430,7 +1451,7 @@
       },
       {
         "type": "paragraph",
-        "content": "A este hito histórico le siguieron otros. Como el caso del río Whanganui en Nueva Zelanda o el del río Atrato en Colombia, que según el medio Climática también fueron declarados como seres no–humanos con derechos. "
+        "content": "A este hito histórico le siguieron otros. Como el caso del río Whanganui en Nueva Zelanda o el del río Atrato en Colombia, que según el medio Climática también fueron declarados como seres no–humanos con derechos."
       },
       {
         "type": "paragraph",
@@ -1489,7 +1510,7 @@
       },
       {
         "type": "paragraph",
-        "content": "Mientras escribía \"Compañía\", la noticia de que el verano en India era tan extremo que los gatos morían en las calles le llegó a través de una notificación del celular. En India, para aquel entonces, las temperaturas alcanzaban los 50°C. Para algunos, otro síntoma más de que se acerca la crisis ambiental. Pero para Valeria y Grisini esta noticia fue un punto de quiebre:"
+        "content": "Mientras escribía \"Compañía\", la noticia de que el verano en India era tan extremo que los gatos morían en las calles le llegó a través de una notificación del celular. En India, para aquel entonces, las temperaturas alcanzaban los 50 °C. Para algunos, otro síntoma más de que se acerca la crisis ambiental. Pero para Valeria y Grisini esta noticia fue un punto de quiebre:"
       },
       {
         "type": "paragraph",
@@ -1641,7 +1662,7 @@
       },
       {
         "type": "paragraph",
-        "content": "Lemebel, en cambio, se reía del SIDA. “Es la autodefensa de los homosexuales”, decía. Trabajaba la carcajada, que algunas críticas literarias han llamado también la risa post-mortis. Así, por ejemplo, comienza la historia de una travesti portadora de VIH, Loba Lamar, de Loco afán: Crónica de sidario:"
+        "content": "Lemebel, en cambio, se reía del SIDA. \"Es la autodefensa de los homosexuales\", decía. Trabajaba la carcajada, que algunas críticas literarias han llamado también la risa post-mortis. Así, por ejemplo, comienza la historia de una travesti portadora de VIH, Loba Lamar, de Loco afán: Crónica de sidario:"
       },
       {
         "type": "poem",
@@ -1676,7 +1697,7 @@
       },
       {
         "type": "paragraph",
-        "content": "—Hay un lenguaje que el cuerpo tiene que son los síntomas o los signos de la enfermedad. Cuando he pensado en Sarcoma pensaba en el cuerpo. Todos estos lenguajes que genera el propio cuerpo alrededor de la enfermedad para anunciar algo. Ya tú verás qué haces con eso. Uno como persona, si siente esos signos y esos síntomas, puedes ir al hospital y resolver ese tema o no… Y dejarte morir. Muchas cosas pueden pasar."
+        "content": "—Hay un lenguaje que el cuerpo tiene que son los síntomas o los signos de la enfermedad. Cuando he pensado en Sarcoma pensaba en el cuerpo. Todos estos lenguajes que genera el propio cuerpo alrededor de la enfermedad para anunciar algo. Ya tú verás qué haces con eso. Uno como persona, si siente esos signos y esos síntomas, puedes ir al hospital y resolver ese tema o no… Y dejarte morir. Muchas cosas pueden pasar. "
       },
       {
         "type": "paragraph",
@@ -1684,7 +1705,7 @@
       },
       {
         "type": "image",
-        "caption": "Grisini y Valeria, conversando. Fuente: Valeria Canelas.",
+        "caption": "Baño para hacer cruising. Fuente: Cruising Gobson.",
         "source": "../images/foto-bano-cruising.jpg"
       },
       {
@@ -1701,7 +1722,6 @@
       },
       {
         "type": "image",
-        "caption": "Grisini y Valeria, conversando. Fuente: Valeria Canelas.",
         "source": "../images/infografía-SIDA.png"
       },
       {
@@ -1715,7 +1735,7 @@
       },
       {
         "type": "paragraph",
-        "content": "Hoy en día, Edgar considera que Sarcoma es un libro que está estancado, incompleto. Confiesa que se ha preguntado muchas veces sobre el porqué de este estancamiento. Entre sus especulaciones, el poeta afirma que se debe a que hace más de cuatro años que no se ha hecho la prueba del VIH. "
+        "content": "Hoy en día, Edgar considera que Sarcoma es un libro que está estancado, incompleto. Confiesa que se ha preguntado muchas veces sobre el porqué de este estancamiento. Entre sus especulaciones, el poeta afirma que se debe a que hace más de cuatro años que no se ha hecho la prueba del VIH."
       },
       {
         "type": "paragraph",
@@ -1732,8 +1752,18 @@
     "title": "Cultureza: Hacia la extinción de la dicotomía entre naturaleza y cultura",
     "content": [
       {
+        "type": "poem",
+        "title": "Cultureza",
+        "author": "De la unión de los vocablos cultura y naturaleza: cultu + reza.",
+        "verses": [
+          "1. sust. Dicho de una propuesta teórica en que no se separa la cultura de la naturaleza, sino en la que son una y la misma cosa.",
+          "",
+          "Fuente: El pensamiento dicotómico en la antropología y el evolucionismo, Vera, Chiappa y Lizárraga."
+        ]
+      },
+      {
         "type": "paragraph",
-        "content": "La discusión en torno a si existe una separación entre la naturaleza y la cultura es muy antigua. Pero, en los últimos años, esta separación se ha erosionado debido a la crisis climática y ha surgido una nueva perspectiva: la cultureza"
+        "content": "La discusión en torno a si existe una separación entre la naturaleza y la cultura es muy antigua. Pero, en los últimos años, esta separación se ha erosionado debido a la crisis climática y ha surgido una nueva perspectiva: la cultureza."
       },
       {
         "type": "paragraph",
@@ -1746,49 +1776,49 @@
     "content": [
       {
         "type": "paragraph",
-        "content": "En una entrevista hecha para este reportaje, la especialista en Estudios del Antropoceno, Ara Goudsmit, afirma que tratar de separar la naturaleza y la cultura es una forma de ilusión, una “fantasía” que nos coloca “lentes compartimentalizados” que nos impiden ver la profunda interrelación entre las diferentes formas de vida en el planeta."
+        "content": "En una entrevista hecha para este reportaje, la especialista en Estudios del Antropoceno, Ara Goudsmit, afirma que tratar de separar la naturaleza y la cultura es una forma de ilusión, una “fantasía” que nos coloca \"lentes compartimentalizados\" que nos impiden ver la profunda interrelación entre las diferentes formas de vida en el planeta."
       },
       {
         "type": "poet",
         "photo": "../images/photos/ara-goudsmit.png",
        "biography": [
-          "Es artista, estratega de marketing y nómada digital. Trabaja en poesía, en collage y en la intervención digital de imágenes."
+          "Es investigadora y escritora, colaboradora en distintos medios de comunicación. Trabaja en torno a los saberes y memorias territoriales en contextos extractivistas."
         ],
         "location": [
           "Nació en Sucre en 1998.",
-          "Vive en Santa Cruz, Bolivia."
+          "Vive entre La Paz, Beni y Pando, Bolivia."
         ],
         "education": [
-          "Cursó Derecho en la Universidad Privada de Santa Cruz de la Sierra."
+          "Cursó Ciencias Políticas en la Universidad de los Andes de Colombia y Estudios del Antropoceno en la Universidad de Cambridge, Inglaterra."
         ],
         "works": [
           {
-            "title": "Bete Noire",
-            "year": "2016"
+            "title": "Recolectar semillas y ver entre las tinieblas",
+            "year": "reportaje 2024"
           },
           {
-            "title": "Ángeles a máxima velocidad",
-            "year": "2017 y 2020"
-          },
-          {
-            "title": "Ruido de Ave / Ruido de Aqua",
-            "year": "2024"
+            "title": "Comer ruina",
+            "year": "ensayo sonoro y fotográfico 2024"
           }
         ],
         "link": "https://www.instagram.com/aragou?igsh=MW54eWR5ZGNzem1jcQ=="
       },
       {
         "type": "paragraph",
-        "content": "En la Amazonía, por ejemplo, cuenta Goudsmit, los niños aprenden el lenguaje del río que habitan porque no hay la ilusión de que la educación viene de la cultura: se educan gracias a los peces, a los ciclos de las aves y a los cambios en el agua."
+        "content": "En la Amazonía, por ejemplo, cuenta Goudsmit, los niños aprenden el lenguaje del río que habitan porque no hay la ilusión de que la educación viene de la cultura: se educan gracias a los peces, a los ciclos de las aves y a los cambios en el agua. "
       },
       {
         "type": "paragraph",
-        "content": "En los entornos urbanos, en cambio, el contacto con los cuerpos de agua y la vida natural se vuelve nocivo, como ocurre con los contaminados ríos Kripinchaca en Sucre o el Choqueyapu en La Paz. "
+        "content": "En los entornos urbanos, en cambio, el contacto con los cuerpos de agua y la vida natural se vuelve nocivo, como ocurre con los contaminados ríos Kripinchaca en Sucre o el Choqueyapu en La Paz."
       },
       {
         "type": "image",
         "caption": " Niños de la etnia Tenharim en el río Amazonas. Fuente: EFEVerde.",
         "source": "../images/foto-ninos-selva.webp"
+      },
+      {
+        "type": "paragraph",
+        "content": "¿Pueden los pueblos indígenas enseñar a los habitantes urbanos a superar el distanciamiento entre naturaleza y cultura? Esa es la pregunta que muchos antropólogos, sociólogos y biólogos se hacen cuando discuten el término animismo. "
       },
       {
         "type": "paragraph",
@@ -1818,7 +1848,7 @@
       },
       {
         "type": "paragraph",
-        "content": "En el rito de paso, los púberes Sateré-Mawé deben introducir sus manos a unos sacos en los que los adultos han introducido al menos 80 ejemplares de hormigas balas sedadas. Estas hormigas, según la tradición del pueblo, provienen de la vagina de una mujer serpiente.",
+        "content": "En el rito de paso, los púberes Sateré-Mawé deben introducir sus manos a unos sacos en los que los adultos han introducido al menos 80 ejemplares de hormigas balas sedadas. Estas hormigas, según la tradición del pueblo, provienen de la vagina de una mujer serpiente. ",
         "tooltip": {
           "word": "rito de paso",
           "content": "Un rito de paso es una actividad que marca la transición de un estado a otro en la vida de una persona. En muchos de casos, los ritos de paso se hacen para que los niños transiten hacia su adultez. Los más conocidos son las fiestas de quince años o la ceremonia de primera comunión.",
@@ -1827,7 +1857,7 @@
       },
       {
         "type": "paragraph",
-        "content": "Cuando los púberes han introducido ya sus manos, las hormigas despiertan por las provocaciones con humo de tabaco que reciben de los adultos. Una a una, las hormigas los pican con una picadura que equivale al dolor que provoca una bala o la introducción de un clavo en la piel de manera violenta, según reporta el medio National Geographic. "
+        "content": "Cuando los púberes han introducido ya sus manos, las hormigas despiertan por las provocaciones con humo de tabaco que reciben de los adultos. Una a una, las hormigas los pican con una picadura que equivale al dolor que provoca una bala o la introducción de un clavo en la piel de manera violenta, según reporta el medio National Geographic."
       },
       {
         "type": "paragraph",
@@ -1844,40 +1874,32 @@
     "content": [
       {
         "type": "paragraph",
-        "content": "Durante siglos se ha creído que el humano afecta con su artificialidad entornos totalmente vírgenes. Sin embargo, para el historiador de la Amazonía, José Octavio Orsag, la virginidad de la naturaleza con respecto a la cultura no existe."
+        "content": "Durante siglos se ha creído que el humano afecta con su artificialidad entornos totalmente vírgenes. Sin embargo, para el historiador de la Amazonía, José Octavio Orsag, la virginidad de la naturaleza con respecto a la cultura no existe. "
       },
       {
         "type": "poet",
         "photo": "../images/photos/jose-orsag.png",
         "biography": [
-          "Es artista, estratega de marketing y nómada digital. Trabaja en poesía, en collage y en la intervención digital de imágenes."
+          "Es historiador de la Amazonía, candidato a doctorado en historia por la universidad de Nueva York, Estados Unidos. Trabaja temas vinculados a los procesos nacionales de colonización de la Amazonía indígena."
         ],
         "location": [
-          "Nació en Sucre en 1998.",
-          "Vive en Santa Cruz, Bolivia."
+          "Nació en La Paz en 1994.",
+          "Vive en La Paz, Bolivia."
         ],
         "education": [
-          "Cursó Derecho en la Universidad Privada de Santa Cruz de la Sierra."
+          "Cursó Historia en la Universidad Mayor de San Andrés."
         ],
         "works": [
           {
-            "title": "Bete Noire",
-            "year": "2016"
-          },
-          {
-            "title": "Ángeles a máxima velocidad",
-            "year": "2017 y 2020"
-          },
-          {
-            "title": "Ruido de Ave / Ruido de Aqua",
-            "year": "2024"
+            "title": "Tecnología, modernidad y desplazamiento del conflicto social. El continuo avance de la frontera agraria en la Amazonía sur. Brasil y Bolivia",
+            "year": "investigación escrita junto a Nohely Guzmán, 2021"
           }
         ],
         "link": "https://www.instagram.com/charles.norwick?igsh=azkwajdpMmFzaXU0"
       },
       {
         "type": "paragraph",
-        "content": "La manera en que se han dado a conocer las islas Galápagos es un gran ejemplo de esta ilusión de virginidad, y del problema de la separación entre naturaleza y cultura."
+        "content": "La manera en que se han dado a conocer las islas Galápagos es un gran ejemplo de esta ilusión de virginidad, y del problema de la separación entre naturaleza y cultura. "
       },
       {
         "type": "image",
@@ -1886,7 +1908,7 @@
       },
       {
         "type": "paragraph",
-        "content": "En 1845, Charles Darwin escribió Viaje de un naturalista alrededor del mundo. En esos diarios, que incluyen su paso por Galápagos, Darwin propone ideas distintas a las del relato bíblico de la Creación y busca una teoría científica que explique que las especies evolucionan gracias a una selección natural, en la cual el entorno cumple una función, pero que se da por azar y sin intervención humana. En sus diarios, observa:"
+        "content": "En 1845, Charles Darwin escribió Viaje de un naturalista alrededor del mundo. En esos diarios, que incluyen su paso por Galápagos, Darwin propone ideas distintas a las del relato bíblico de la Creación y busca una teoría científica que explique que las especies evolucionan gracias a una selección natural, en la cual el entorno cumple una función, pero que se da por azar y sin intervención humana. En sus diarios, observa:  "
       },
       {
         "type": "poem",
@@ -1900,7 +1922,7 @@
       },
       {
         "type": "paragraph",
-        "content": "En 1788 llegó el primer navío británico para cazar ballenas cerca de las islas Galápagos. Por el prodigioso número de cetáceos en la región, desde el primer navío hasta fines del siglo XIX, más de un millar de navíos balleneros pasaron por las islas. "
+        "content": "En 1788 llegó el primer navío británico para cazar ballenas cerca de las islas Galápagos. Por el prodigioso número de cetáceos en la región, desde el primer navío hasta fines del siglo XIX, más de un millar de navíos balleneros pasaron por las islas.  "
       },
       {
         "type": "paragraph",
@@ -1937,34 +1959,26 @@
         "type": "poet",
         "photo": "../images/photos/stasiek-czaplicki.png",
         "biography": [
-          "Es artista, estratega de marketing y nómada digital. Trabaja en poesía, en collage y en la intervención digital de imágenes."
+          "Es economista ambiental especializado en cadenas de valor agropecuarias y forestales, con más de 10 años de experiencia. Investigador y activista boliviano enfocado en la deforestación y en investigación financiera. "
         ],
         "location": [
-          "Nació en Sucre en 1998.",
-          "Vive en Santa Cruz, Bolivia."
+          "Nació en La Paz en 1986.",
+          "Vive en La Paz, Bolivia."
         ],
         "education": [
-          "Cursó Derecho en la Universidad Privada de Santa Cruz de la Sierra."
+          "Cursó Economía en la Universidad de Toulouse 1, Francia, una maestría en Desarrollo y Medio Ambiente en London School of Economics, Inglaterra, y otra en Agricultura de Desarrollo en la Universidad de Copenhague, Dinamarca.  "
         ],
         "works": [
           {
-            "title": "Bete Noire",
-            "year": "2016"
-          },
-          {
-            "title": "Ángeles a máxima velocidad",
-            "year": "2017 y 2020"
-          },
-          {
-            "title": "Ruido de Ave / Ruido de Aqua",
-            "year": "2024"
+            "title": "Columnista en la Revista Nómadas.",
+            "year": "desde el año 2024"
           }
         ],
-        "link": "https://www.instagram.com/charles.norwick?igsh=azkwajdpMmFzaXU0"
+        "link": "https://www.instagram.com/el.stashou?igsh=cW1iMTM4NnVkbnNl"
       },
       {
         "type": "paragraph",
-        "content": "Para Stash, la mitificación de la práctica milenaria del chaqueo, ha hecho que esta mute a escalas inmanejables y permanezca intacta por ser idealizada."
+        "content": "Para Stash, la mitificación de la práctica milenaria del chaqueo, ha hecho que esta mute a escalas inmanejables y permanezca intacta por ser idealizada. "
       },
       {
         "type": "paragraph",
@@ -1972,7 +1986,7 @@
       },
       {
         "type": "paragraph",
-        "content": "El informe Chaqueos e incendios forestales en Bolivia del Instituto Boliviano de Investigación Forestal, aclara que la práctica ancestral del chaqueo en sus orígenes ancestrales se realizaba a partir de la primera lluvia intensa, para que el suelo se caliente poco durante la quema, preservando así su fertilidad y la estructura de su suelo. "
+        "content": "El informe Chaqueos e incendios forestales en Bolivia del Instituto Boliviano de Investigación Forestal, aclara que la práctica ancestral del chaqueo en sus orígenes ancestrales se realizaba a partir de la primera lluvia intensa, para que el suelo se caliente poco durante la quema, preservando así su fertilidad y la estructura de su suelo."
       },
       {
         "type": "paragraph",
@@ -1989,11 +2003,11 @@
       },
       {
         "type": "paragraph",
-        "content": "Las escalas de consumo de los chiquitanos debe ser siempre pequeña. La dirigente del pueblo chiquitano, Beatriz Tapanaché explica en una entrevista para el diagnóstico sobre la situación socioeconómica de los pueblos de tierras bajas, Nunca nos fuimos, que deben cuidar la relación con el jichi, pues él es el responsable de proteger la flora, la fauna y el aprovisionamiento de agua en el territorio. En sus palabras: hay que cuidar las fuentes de agua, \"porque si se las mal usa, el jichi se va y se seca la fuente\"."
+        "content": "Las escalas de consumo de los chiquitanos debe ser siempre pequeña. La dirigente del pueblo chiquitano, Beatriz Tapanaché explica en una entrevista para el diagnóstico sobre la situación socioeconómica de los pueblos de tierras bajas, Nunca nos fuimos, que deben cuidar la relación con el jichi, pues él es el responsable de proteger la flora, la fauna y el aprovisionamiento de agua en el territorio. En sus palabras: hay que cuidar las fuentes de agua, \"porque si se las mal usa, el jichi se va y se seca la fuente\". "
       },
       {
         "type": "paragraph",
-        "content": "Todo se cuida, pues todo tiene su dueño. El antropólogo Carlos Fausto, que realiza trabajo de campo en la Amazonía desde ​1988​, cuenta que en realidad, dueño en los idiomas de la Amazonía suele significar “quien tiene una relación de cuidado con otros” y no tanto propietario."
+        "content": "Todo se cuida, pues todo tiene su dueño. El antropólogo Carlos Fausto, que realiza trabajo de campo en la Amazonía desde ​1988​, cuenta que en realidad, dueño en los idiomas de la Amazonía suele significar \"quien tiene una relación de cuidado con otros\" y no tanto propietario."
       },
       {
         "type": "paragraph",
@@ -2014,7 +2028,7 @@
       },
       {
         "type": "paragraph",
-        "content": "A partir de imágenes satelitales, el CEDLA pudo identificar a los actores principales de la deforestación en el país y conocer mejor sus procedimientos. Primero, los actores desmontan el terreno que no se utilizará para la agricultura con maquinaria pesada. Después de dos o tres meses de periodo de seca, quienes deforestan también utilizan máquinas para esparcir combustible e incendiar la vegetación ya seca. Luego, el fuego y el humo se propagan."
+        "content": "A partir de imágenes satelitales, el CEDLA pudo identificar a los actores principales de la deforestación en el país y conocer mejor sus procedimientos. Primero, los actores desmontan el terreno que no se utilizará para la agricultura con maquinaria pesada. Después de dos o tres meses de periodo de seca, quienes deforestan también utilizan máquinas para esparcir combustible e incendiar la vegetación ya seca. Luego, el fuego y el humo se propagan. "
       },
       {
         "type": "image",
@@ -2023,15 +2037,15 @@
       },
       {
         "type": "paragraph",
-        "content": "En septiembre de 2024, neumólogos paceños pidieron a la Alcaldía declarar una alerta sanitaria debido a la contaminación por humo en la ciudad de La Paz, que está del otro extremo del país de donde se realizaban las prácticas de deforestación. El medio La Razón, por aquellos días, informaba que el Índice de Calidad del Aire marcaba 208, siendo 0 saludable, 100 dañino para la salud y 200 muy dañino para la salud."
+        "content": "En septiembre de 2024, neumólogos paceños pidieron a la Alcaldía declarar una alerta sanitaria debido a la contaminación por humo en la ciudad de La Paz, que está del otro extremo del país de donde se realizaban las prácticas de deforestación. El medio La Razón, por aquellos días, informaba que el Índice de Calidad del Aire marcaba 208, siendo 0 saludable, 100 dañino para la salud y 200 muy dañino para la salud. "
       },
       {
         "type": "paragraph",
-        "content": "Para el economista, todo el daño que todavía se hace al medio ambiente en Bolivia tiene que ver con el hecho de que el país sigue en una fase económica principalmente extractivista. Incluso lo que él llama “el discurso de la Pachamama” podría ser cómplice del extractivismo."
+        "content": "Para el economista, todo el daño que todavía se hace al medio ambiente en Bolivia tiene que ver con el hecho de que el país sigue en una fase económica principalmente extractivista. Incluso lo que él llama “el discurso de la Pachamama” podría ser cómplice del extractivismo. "
       },
       {
         "type": "paragraph",
-        "content": "En sus palabras: \"Un ejemplo claro para mí es pues escucho a amigos, colegas, dirigentes, digamos, más enfocados en la cosmovisión andina y te van a hablar de lo importante de la Pachamama, de lo que provee, de muchos otros elementos\""
+        "content": "En sus palabras: \"Un ejemplo claro para mí es pues escucho a amigos, colegas, dirigentes, digamos, más enfocados en la cosmovisión andina y te van a hablar de lo importante de la Pachamama, de lo que provee, de muchos otros elementos\"."
       },
       {
         "type": "image",
@@ -2058,7 +2072,7 @@
       },
       {
         "type": "paragraph",
-        "content": "En el arte es donde se puede superar la ilusión de separación, ya que aquella disciplina ha asumido un rol crucial en restituir y revalorizar las conexiones entre la cultura y la naturaleza, opina Ara."
+        "content": "En el arte es donde se puede superar la ilusión de separación, ya que aquella disciplina ha asumido un rol crucial en restituir y revalorizar las conexiones entre la cultura y la naturaleza,  opina Ara."
       },
       {
         "type": "paragraph",
@@ -2088,7 +2102,7 @@
       },
       {
         "type": "paragraph",
-        "content": "Stash también ve posibilidades de superar la dicotomía entre naturaleza y cultura en el arte, sobre todo en las obras de Hefzibia Martínez y Knorke Leaf, quienes trabajan el problema del extractivismo"
+        "content": "Stash también ve posibilidades de superar la dicotomía entre naturaleza y cultura en el arte, sobre todo en las obras de Hefzibia Martínez y Knorke Leaf, quienes trabajan el problema del extractivismo."
       },
       {
         "type": "image",
@@ -2101,11 +2115,11 @@
       },
       {
         "type": "paragraph",
-        "content": "La palabra cultureza emerge como un nuevo paradigma que no separa las urbes de lo rural o lo artificial de lo natural, sino que los une. Como si el límite entre ambas fuera una ilusión, la selva educa, las especies son transformadas por los humanos y las relaciones profundas entre humanos y no-humanos hacen que los bosques se respeten en otros territorios."
+        "content": "La palabra cultureza emerge como un nuevo paradigma que no separa las urbes de lo rural o lo artificial de lo natural, sino que los une. Como si el límite entre ambas fuera una ilusión, la selva educa, las especies son transformadas por los humanos y las relaciones profundas entre humanos y no-humanos hacen que los bosques se respeten en otros territorios. "
       },
       {
         "type": "paragraph",
-        "content": "Quizás la evolución de las palabras cultura y la naturaleza en cultureza no es solo una cuestión de teoría, sino también de supervivencia."
+        "content": "Quizás la evolución de las palabras cultura y la naturaleza en cultureza no es solo una cuestión de teoría, sino también de supervivencia. "
       }
     ]
   }

@@ -5,7 +5,7 @@ import { FooterNav } from "../components/footer/footer.tsx";
 
 const itemsMenuFooter = [
   { title: 'Poesía-ritual y poesía-pústula', href: '/perfiles', dir: 'left'  },
-  { title: 'Poesía', href: '/', dir: 'right' }
+  { title: 'Reportaje', href: '/', dir: 'right' }
 ];
 
 import textContent from "../utils/content.json"

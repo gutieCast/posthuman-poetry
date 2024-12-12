@@ -58,13 +58,34 @@
 
   @include mixins.md {
     margin: variables.$mp-md auto;
-    max-width: 75%;
+    width: 75%;
   }
   @include mixins.lg {
     margin: variables.$mp-md auto;
-    max-width: 1000px;
+    width: 1000px;
   }
 }
 .space {
   margin-top: 100px;
+}
+
+figcaption {
+  max-width: 900px;
+  margin: 20px auto;
+}
+
+.PDF-downloader {
+  width: 600px;
+  margin: 20px auto;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  figure {
+    max-width: 200px;
+  }
+  figcaption {
+    flex-grow: 1;
+    margin: auto;
+    margin-left: 10px;
+  }
 }
