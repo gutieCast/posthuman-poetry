@@ -7,11 +7,9 @@
   border-radius: 10px;
   margin: variables.$mp-md;
   padding: variables.$mp-md;
-  // box-shadow: 0 1px 1px variables.$color-green;
-  
+  width: 95%;
   @include mixins.md {
-    
-    width: 65%;
+    width: 75%;
   }
   .title {
     font-size: variables.$size-title;

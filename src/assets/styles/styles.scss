@@ -32,15 +32,11 @@
     width: 80%;
     margin: 10px auto;
     display: flex;
-    flex-direction: row;
     justify-content: center;
     align-items: center;
     height: 100%;
-    display: flex;
-    @include mixins.sm {
-      flex-direction: column;
-    }
-    @include mixins.md {
+    flex-direction: column;
+    @include mixins.lg {
       flex-direction: row;
       justify-content: baseline;
       align-items: center;
@@ -49,7 +45,10 @@
   .biography-photo {
     width: 70%;
     @include mixins.md {
-      flex: 1 0 auto;
+      flex: 1 0 auto; 
+    }
+    @include mixins.lg {
+      flex: 0 0 50%;
     }
     img {
       max-width: 100%;

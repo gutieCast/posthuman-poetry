@@ -513,7 +513,10 @@
       {
         "type": "image",
         "caption": " Palliris de Llalagua. Fuente: Opinión.",
-        "source": "../images/foto-palliris.jpg"
+        "source": "../images/foto-palliris.jpg",
+        "cursives": [
+          "Opinión"
+        ]
       }
     ]
   },
@@ -1866,7 +1869,10 @@
       {
         "type": "image",
         "caption": " Edgar Soliz leyendo en un baño público. Fuente: EJU TV.",
-        "source": "../images/foto-edgar-soliz-lectura.jpg"
+        "source": "../images/foto-edgar-soliz-lectura.jpg",
+        "cursives": [
+          "EJU TV"
+        ]
       },
       {
         "type": "paragraph",
@@ -1961,7 +1967,8 @@
       {
         "type": "image",
         "caption": "Baño para hacer cruising. Fuente: Cruising Gobson.",
-        "source": "../images/foto-bano-cruising.jpg"
+        "source": "../images/foto-bano-cruising.jpg",
+        "cursives": "Cruising Gobson"
       },
       {
         "type": "paragraph",
@@ -1992,7 +1999,10 @@
       {
         "type": "image",
         "caption": "Performance Desandar la ciudad. Fuente: Performing borders.",
-        "source": "../images/foto-edgar-soliz-performance-nacion-marica.jpg"
+        "source": "../images/foto-edgar-soliz-performance-nacion-marica.jpg",
+        "cursives": [
+          "Performing borders"
+        ]
       },
       {
         "type": "paragraph",

@@ -3,7 +3,7 @@
 
 .--initial-scene {
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-around;
   height: 100vh;
   // canvas{
   //   width: 100%;
@@ -20,7 +20,7 @@
 
 .biography-link {
   width: 80%;
-  margin: 20px auto;
+  margin: 0 auto;
   cursor: pointer;
   @include mixins.sm {
     animation: fadeIn 13s;
@@ -37,7 +37,6 @@
       transition: opacity 1s;
     }
   }
-
   .credit {
     display: flex;
     justify-content: center;
@@ -69,17 +68,19 @@
 .main-title {
   font-family: variables.$font-title;
   font-weight: 900;
-  font-size: 9vi;
+  font-size: 15vi;
   letter-spacing: .15ch;
   line-height: 1;
   text-transform: uppercase;
   z-index: 1;
-  margin-bottom: 50px;
   &.align-end {
     align-items: end !important;
   }
   &.center {
     align-items: center;
+  }
+  @include mixins.lg {
+    font-size: 9vi;
   }
 }
 .word {
