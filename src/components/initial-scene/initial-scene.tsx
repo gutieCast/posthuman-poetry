@@ -1,4 +1,7 @@
 import { FC } from "react";
+import { Link } from "react-router-dom";
+
+import photoAutor from '../../assets/images/joan-villanueva.jpg';
 import ScrollIcon from "../scroll-icon/scroll-icon";
 
 import "./initial-scene.scss";
@@ -42,6 +45,19 @@ const InitialScene: FC = () => {
             <span>o</span>
           </div>
         </h1>
+
+        <Link className="biography-link" to={'/biography'} >
+          <div className="credit">
+            <div className="author-photo">
+              <img src={ photoAutor } alt="Joan Loayza Villanueva's photography" />
+            </div>
+            <div className="author-credit">
+              <span>Por </span>
+              <span>Joan Loayza Vilanuena</span>
+            </div>
+          </div>
+        </Link>
+
         <ScrollIcon />
       </div>
     </section>

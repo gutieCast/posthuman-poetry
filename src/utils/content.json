@@ -4,7 +4,7 @@
     "content": [
       {
         "type": "paragraph",
-        "content": "Los océanos se alimentan de hasta 12 millones de toneladas de basura cada año, según la organización ecologista Greenpeace. Como el río Flint de Estados Unidos, por muchos otros ríos del planeta fluyen toneladas de basura, cargando los territorios que tocan con contaminación.."
+        "content": "Los océanos se alimentan de hasta 12 millones de toneladas de basura cada año, según la organización ecologista Greenpeace. Como el río Flint de Estados Unidos, por muchos otros ríos del planeta fluyen toneladas de basura, cargando los territorios que tocan con contaminación."
       },
       {
         "type": "paragraph",
@@ -33,21 +33,33 @@
       },
       {
         "type": "paragraph",
-        "content": "En cambio, la poesía del s. XXI en Bolivia continúa con el trabajo de la generación McOndo que es, según el escritor Edmundo Paz Soldán para el medio DW, \"un intento de registrar el impacto de los nuevos medios y tecnologías en la cultura urbana de hoy\".",
-        "tooltip": {
-          "word": "McOndo",
-          "content": "Parodia de Macondo, corriente literaria latinoamericana surgida como reacción contra la escuela literaria del realismo mágico (movimiento literario que muestra lo extraño como algo cotidiano, como por ejemplo lo hace Cien años de soledad), que dominaba la recepción europea de la literatura de América Latina desde 1960.",
-          "source": "La Vanguardia."
-        }
+        "content": "En cambio, la poesía del s. XXI en Bolivia continúa con el trabajo de la generación McOndo que es, según el escritor Edmundo Paz Soldán para el medio DW, \"un intento de registrar el impacto de los nuevos medios y tecnologías en la cultura urbana de hoy\"",
+        "cursives": [
+          "DW"
+        ],
+        "tooltips": [
+          {
+            "word": "McOndo",
+            "content": "Parodia de Macondo, corriente literaria latinoamericana surgida como reacción contra la escuela literaria del realismo mágico (movimiento literario que muestra lo extraño como algo cotidiano, como por ejemplo lo hace Cien años de soledad), que dominaba la recepción europea de la literatura de América Latina desde 1960.",
+            "source": "La Vanguardia.",
+            "cursives": ["Cien años de soledad", "La Vanguardia"]
+          }
+        ]
       },
       {
         "type": "paragraph",
         "content": "Después de esta generación, otros flujos en la poesía también han intentado exceder la identidad, ya sea latinoamericana o nacional. Tal es el caso de la Alt Lit, que según el medio Clarín, propone, \"después del 11 de septiembre, una nueva sinceridad: producto inevitable del fin de un imperio, la sensación de que ellos también son vulnerables\".",
-        "tooltip": {
-          "word": "Alt Lit",
-          "content": "Corriente literaria surgida en Estados Unidos que se enfoca en cuestiones mínimas de la vida cotidiana urbana y que lleva estas cuestiones hasta una inutilidad irónica.",
-          "source": "Clarín."
-        }
+        "cursives": [
+          "Clarín"
+        ],
+        "tooltips": [
+          {
+            "word": "Alt Lit",
+            "content": "Corriente literaria surgida en Estados Unidos que se enfoca en cuestiones mínimas de la vida cotidiana urbana y que lleva estas cuestiones hasta una inutilidad irónica.",
+            "source": "Clarín.",
+            "cursives": ["Clarín"]
+          }
+        ]
       },
       {
         "type": "paragraph",
@@ -109,15 +121,17 @@
     "title": null,
     "content": [
       {
-        "type": "poem",
-        "title": "Posthumano, na",
-        "author": "Del ingl. posthumanist.",
-        "verses": [
-          "1. adj. Perteneciente o relativo al posthumanismo.",
-          "2. adj. Partidario o seguidor del posthumanismo, que propone la insuficiencia y agotamiento del modelo humanista para dar cuenta de la complejidad de nuestra sociedad actual y la necesidad de trascender al mismo con un énfasis propositivo en que la cuestión ética juega un rol fundamental ",
-          "",
-          "Fuente: “Posthumanismo: más allá de antropo-técnica y nomadismo”, Marco Maureira."
-        ]
+        "type": "definition",
+        "term": "Posthumano, na",
+        "root": "Del ingl. posthumanist.",
+        "cursives": [
+          "posthumanist"
+        ],
+        "definitions": [
+          "adj. Perteneciente o relativo al posthumanismo.",
+          "adj. Partidario o seguidor del posthumanismo, que propone la insuficiencia y agotamiento del modelo humanista para dar cuenta de la complejidad de nuestra sociedad actual y la necesidad de trascender al mismo con un énfasis propositivo en que la cuestión ética juega un rol fundamental."
+        ],
+        "source": "\"Posthumanismo: más allá de antropo-técnica y nomadismo\", Marco Maureira"
       },
       {
         "type": "paragraph",
@@ -126,7 +140,10 @@
       {
         "type":"image",
         "caption": "Grandes ciudades. Fuente: Google Earth.",
-        "source": "https://i.ibb.co/hdV62FX/Grandes-ciudades.png"
+        "source": "https://i.ibb.co/hdV62FX/Grandes-ciudades.png",
+        "cursives": [
+          "Google Earth"
+        ]
       }
     ]
   },
@@ -134,22 +151,30 @@
     "title": "¿Antropoceno?",
     "content": [
       {
-        "type": "poem",
-        "title": "Antropoceno, na",
-        "author": "Del ingl. Anthropocene, y este de anthropo- 'antropo-' y el gr. καινός kainós 'nuevo, reciente'.",
-        "verses": [
-          "1. adj. Geol. Dicho de una época: que es la más reciente del período cuaternario, abarca desde mediados del siglo XX hasta nuestros días y está caracterizada por la modificación global y sincrónica de los sistemas naturales por la acción humana. ",
-          "",
-          "Fuente: Diccionario de la Real Academia Española de la Lengua."
+        "type": "definition",
+        "term": "Antropoceno, na",
+        "root": "Del ingl. Anthropocene, y este de anthropo- 'antropo-' y el gr. καινός kainós 'nuevo, reciente'.",
+        "cursives": [
+          "Anthropocene",
+          "anthropo",
+          "kainós",
+          "Diccionario de la Real Academia Española de la Lengua"
+        ],
+        "definitions": [
+          "adj. Geol. Dicho de una época: que es la más reciente del período cuaternario, abarca desde mediados del siglo XX hasta nuestros días y está caracterizada por la modificación global y sincrónica de los sistemas naturales por la acción humana."
+        ],
+        "source": "Diccionario de la Real Academia Española de la Lengua"
+      },
+      {
+        "type": "paragraph",
+        "content": "Durante una conferencia en Cuernavaca, México, el nobel que descubrió el agujero en la capa de Ozono, Paul Crutzen, se sintió impaciente al escuchar a sus colegas todavía referirse a la época geológica actual como Holoceno, se puso de pie y los corrigió: \"¡No! Ya no vivimos en el Holoceno, sino en… ¡El Antropoceno!\" (Arias Maldonado, 2018, párr. 1)."
+      },
+      {
+        "type": "paragraph",
+        "content": "Después de aquel episodio, el Antropoceno se ha convertido en un término utilizado de manera informal por científicos y cientistas sociales para referirse a la época geológica actual, afectada por las acciones de los seres humanos. Este término, según la National Geographic, tiene enfrentada a la comunidad científica.",
+        "cursives": [
+          "National Geographic"
         ]
-      },
-      {
-        "type": "paragraph",
-        "content": "Durante una conferencia en Cuernavaca, México, el Nobel que descubrió el agujero en la capa de Ozono, Paul Crutzen, se sintió impaciente al escuchar a sus colegas todavía referirse a la época geológica actual como Holoceno, se puso de pie y los corrigió: \"¡No! Ya no vivimos en el Holoceno, sino en… ¡El Antropoceno!\" (Arias Maldonado, 2018, párr. 1)."
-      },
-      {
-        "type": "paragraph",
-        "content": "Después de aquel episodio, el Antropoceno se ha convertido en un término utilizado de manera informal por científicos y cientistas sociales para referirse a la época geológica actual, afectada por las acciones de los seres humanos. Este término, según la National Geographic, tiene enfrentada a la comunidad científica."
       },
       {
         "type": "paragraph",
@@ -162,11 +187,14 @@
       },
       {
         "type": "paragraph",
-        "content": "A pesar de que se basa en sólidos argumentos científicos, la propuesta del Antropoceno ha sido rechazada por la comunidad de geólogos, según el medio The Conversation, por la imposibilidad de acordar el momento exacto en que comenzó. Podría haber empezado en el siglo XVIII, con la invención de la máquina de vapor, o en el siglo XX, con la aceleración de las industrias."   
+        "content": "A pesar de que se basa en sólidos argumentos científicos, la propuesta del Antropoceno ha sido rechazada por la comunidad de geólogos, según el medio The Conversation, por la imposibilidad de acordar el momento exacto en que comenzó. Podría haber empezado en el siglo XVIII, con la invención de la máquina de vapor, o en el siglo XX, con la aceleración de las industrias.",
+        "cursives": [
+          "The Conversation"
+        ]   
       },
       {
         "type":"paragraph",
-        "content": "Según el geólogo de la Universidad de Cambridge, Philip Gibbard, los geólogos descartaron el nombramiento del Antropoceno manera formal porque la fecha de la propuesta de su comienzo, 1952, es demasiado reciente y porque \"los humanos han estado influyendo en el medio ambiente natural durante al menos 40.000 años\"."
+        "content": "Según el geólogo de la Universidad de Cambridge, Philip Gibbard, los geólogos descartaron el nombre Antropoceno de manera formal porque la fecha de la propuesta de su comienzo, 1952, es demasiado reciente y porque \"los humanos han estado influyendo en el medio ambiente natural durante al menos 40.000 años\"."
       },
       {
         "type": "paragraph",
@@ -201,28 +229,31 @@
           
             "Xatha xatha",
             "xxitrRa mhortuzz",
-
+            "",
             "666houl 666or666atho666a 666houl 666houl 666houl",
-
+            "",
             "(los sesos derramados de Hastursedec-aa-Ioth: el energúmeno 666houl traficándonos energía desde el Otro Lado)"
         ]
       },
       {
         "type": "paragraph",
-        "content": "Algunas de las obras del Antropoceno, además, eligen otros métodos para su producción editorial. Esto hace de los autores personas más conscientes de los materiales que utilizan o los procesos en los que incurren. Tal es el caso de Jessica Freudenthal, que ha publicado en editoriales alternativas."
+        "content": "Algunas de las obras del Antropoceno, además, eligen otros métodos para su producción editorial. Esto hace de los autores personas más conscientes de los materiales que utilizan o los procesos en los que incurren. Tal es el caso de Jessica Freudenthal, que ha publicado en la editorial alternativa Yerbamala Cartonera."
       },
       {
         "type": "image",
-        "caption": "Portada de Poemas ocultos de Jessica Freudenthal. Fuente: Jessica Freudenthal.",
-        "source": "../images/portada-poemas-ocultos.png"
+        "caption": "Portada de Poemas ocultos de Jessica Freudenthal. Fuente: Biblioteca de la universidad de Wisconsin-Madison.",
+        "source": "../images/portada-poemas-ocultos.png",
+        "cursives": [
+          "Poemas ocultos"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "Jessica dice que ha publicado en editoriales de este tipo para cultivar las relaciones y los intercambios entre poetas. Tomar en cuenta estas relaciones es una manera de prestar atención a las fuerzas que operan por fuera del autor o del individuo: las colectividades, los circuitos editoriales o los materiales con que se hacen los libros."
+        "content": "Jessica dice que ha publicado en editoriales alternativas para cultivar las relaciones y los intercambios entre poetas. Tomar en cuenta estas relaciones es una manera de prestar atención a las fuerzas que operan por fuera del autor o del individuo: las colectividades, los circuitos editoriales o los materiales con que se hacen los libros."
       },
       {
         "type": "paragraph",
-        "content": "Además de ser un indicador del Antropoceno, estas son las obras que hacen que sus lectores reflexionen en torno a la humanidad y su relación con la naturaleza:"
+        "content": "Además de ser un indicador del Antropoceno, estas son algunas obras que hacen que sus lectores reflexionen en torno a la humanidad y su relación con la naturaleza: "
       }
     ]
   },
@@ -394,11 +425,14 @@
       },
       {
         "type": "paragraph",
-        "content": "El nuevo mito que plantea Donna Haraway acerca del cyborg es un mito en el que no hay ningún temor de tener parentesco con animales o máquinas, o incluso, en el contexto de este poema, temor de tener parentesco con nuestros propios hijos."
+        "content": "El nuevo mito que plantea Donna Haraway acerca del cyborg es un mito en el que no hay ningún temor de tener parentesco con animales o máquinas, o incluso, en el contexto de este poema, temor de tener parentesco con nuestros propios hijos.",
+        "cursives": [
+          "cyborg"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "En la obra, la voz poética llamada madre incluso desgarra su propia identidad, como seguramente ha hecho con su cuerpo alguna que otra hija suya, pero no lo se sabrá porque, como dice la voz poética:"
+        "content": "En la obra, la voz poética llamada madre incluso desgarra su propia identidad, como seguramente ha hecho con su cuerpo alguna que otra hija suya, pero no se sabrá con certeza. Porque, como dice la voz poética:"
       },
       {
         "type": "poem",
@@ -415,11 +449,18 @@
       },
       {
         "type": "paragraph",
-        "content": "La autora propone el cuerpo materno como un cyborg de Donna Haraway, un cuerpo entre el organismo y la máquina, que se genera de una manera violenta: \"Para mí Cérvix es una obra violenta\"."
+        "content": "La autora propone el cuerpo materno como un cyborg de Donna Haraway, un cuerpo entre el organismo y la máquina, que se genera de una manera violenta: \"Para mí Cérvix es una obra violenta\".",
+        "cursives": [
+          "cyborg",
+          "Cérvix"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "Y la obra es violenta. La maternidad cyborg desgarra la identidad de la madre y la desplaza hacia la del reptil:"
+        "content": "Y la obra es violenta. La maternidad cyborg desgarra la identidad de la madre y la desplaza hacia la del reptil:",
+        "cursives": [
+          "cyborg"
+        ]
       },
       {
         "type": "poem",
@@ -432,25 +473,42 @@
       },
       {
         "type": "image",
-        "caption": "Vórtice. Fuente: Tenor.",
+        "caption": "",
         "source": "../images/effects/vortex-fuente-tenor.gif"
       },
       {
         "type": "paragraph",
-        "content": "Cérvix —que es sinónimo de cuello uterino— es un poema que opera en espiral. Comienza con una madre y termina con la imagen de las palliris en la bocamina, escarbándola. ",
-        "tooltip": {
-          "word": "palliris",
-          "content": "Una palliri es una mujer que trabaja en las minas, generalmente de Bolivia, recogiendo residuos de mineral con valor comercial. La palabra palliri proviene del aymara palla-ri, que significa \"la que recoge\".",
-          "source": "Diccionario de la lengua española."
-        }
+        "content": "Cérvix —que es sinónimo de cuello uterino— es un poema que opera en espiral. Comienza con una madre y termina con la imagen de las palliris en la bocamina, escarbándola.",
+        "cursives": [
+          "Cérvix"
+        ],
+        "tooltips": [
+          {
+            "word": "palliris",
+            "content": "Una palliri es una mujer que trabaja en las minas, generalmente de Bolivia, recogiendo residuos de mineral con valor comercial. La palabra palliri proviene del aymara palla-ri, que significa \"la que recoge\".",
+            "source": "Diccionario de la lengua española.",
+            "cursives": [
+              "palla-ri",
+              "Diccionario de la lengua española"
+            ]
+          }
+        ]
       },
       {
         "type": "paragraph",
-        "content": "Las palliris son mujeres, generalmente esposas de mineros, que se dedican a rescatar en las bocaminas los residuos de la minería que puedan tener algo de valor para la venta. Todas estas mujeres trabajan por fuera de la mina, sin ningún tipo de derecho laboral o seguro, según el medio Opinión. Algunas de ellas heredan el contrato con la minera de su esposo y pueden acceder a trabajar dentro de la mina, pero esto solo ocurre en el caso de que sus esposos fallezcan. Muchas de ellas están condenadas a la pobreza, ven a sus esposos e hijos morir en las minas y, finalmente, ellas mismas mueren."
+        "content": "Las palliris son mujeres, generalmente esposas de mineros, que se dedican a rescatar en las bocaminas los residuos de la minería que puedan tener algo de valor para la venta. Todas estas mujeres trabajan por fuera de la mina, sin ningún tipo de derecho laboral o seguro, según el medio Opinión. Algunas de ellas heredan el contrato con la minera de su esposo y pueden acceder a trabajar dentro de la mina, pero esto solo ocurre en el caso de que sus esposos fallezcan. Muchas de ellas están condenadas a la pobreza, ven a sus esposos e hijos morir en las minas y, finalmente, ellas mismas mueren.",
+        "cursives": [
+          "palliris",
+          "Opinión"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "En el principio de Cérvix está el útero: la espiral que da vida. Hacia el final otra espiral, la de la bocamina, que es una tierra que se traga aquella vida. Creación de la vida en el útero y destrucción de la vida de las palliris, mujeres son madres y tienen úteros, en la mina."
+        "content": "En el principio de Cérvix está el útero: la espiral que da vida. Hacia el final otra espiral, la de la bocamina, que es una tierra que se traga aquella vida. Creación de la vida en el útero y destrucción de la vida de las palliris, mujeres son madres y tienen úteros, en la mina.",
+        "cursives": [
+          "Cérvix",
+          "palliris"
+        ]
       },
       {
         "type": "image",
@@ -506,7 +564,16 @@
           "costras",
           "y cicatrices.",
           "Ni siquiera ese fatal tizne violáceo que tanto temíamos.",
-          "(LA MODORRA EMPIEZA A HABITAR LO EXCESIVO DEL DESEO EN LO TRANSITORIO DE LA NÁUSEA EQUÍVOCA DEL AMOR QUE, A SU VEZ, YERRA EL CUERPO PORQUE TODO MUERE EN EL SUPLICIO DE LA NOCHE QUE VACÍA SU URNA APOYÁNDOSE EN LA PRÉDICA DE LA  URGENCIA  TIEMPO  DESTINO  CUERPO  POEMA  PALABRA SILENCIO.)"
+          "(LA MODORRA EMPIEZA A HABITAR LO EXCESIVO DEL DESEO EN LO TRANSITORIO DE LA NÁUSEA EQUÍVOCA DEL AMOR QUE, A SU VEZ, YERRA EL CUERPO PORQUE TODO MUERE EN EL SUPLICIO DE LA NOCHE QUE VACÍA SU URNA APOYÁNDOSE EN LA PRÉDICA DE LA  URGENCIA  TIEMPO  DESTINO  CUERPO  POEMA  PALABRA SILENCIO.)",
+          "El performance de la vida",
+          "se deshace en las arrugas",
+          "y los pliegues nocturnos",
+          "que delinean la tumba.",
+          "Sopor hereje que convalece",
+          "en el adentro del miembro,",
+          "en  la vértebra de la saliva,",
+          "en el escombro hemorrágico.",
+          "Un vacío anida la huella del nombre."
         ]
       },
       {
@@ -521,38 +588,78 @@
     "content": [
       {
         "type": "paragraph",
-        "content": "En Sarcoma, Edgar Soliz deja hablar a la enfermedad del VIH (sigla para el virus de inmunodeficiencia humana), en su expresión de SIDA (que es la etapa final de la infección por VIH), como carcoma de la vida y del lenguaje. Esta obra además tiene lo que él llama \"una acción militante respecto del VIH\", puesto que Edgar es miembro de Nación Marica, un movimiento que apuesta por la liberación del gremio marifrunci.",
-        "tooltip": {
-          "word": "marifrunci",
-          "content": "Movimiento de personas LGBTIQ+ o también llamadas disidencias sexuales. Esta es la palabra que utiliza el movimiento Maricas Bolivia para no invisibilizar los orígenes populares, cholos e indígenas de las personas homosexuales latinoamericanas.",
-          "source": "Comunicación personal."
-        }
+        "content": "En Sarcoma, Edgar Soliz deja hablar a la enfermedad del VIH, en su expresión de SIDA, como carcoma de la vida y del lenguaje. Esta obra además tiene lo que él llama “una acción militante respecto del VIH”, puesto que Edgar es miembro de Nación Marica, un movimiento que apuesta por la liberación del gremio marifrunci.",
+        "tooltips": [
+          {
+            "word": "VIH",
+            "content": "El virus de inmunodeficiencia humana (VIH) es un virus que daña al sistema inmunitario destruyendo un tipo de glóbulo blanco que ayuda a su cuerpo a combatir las infecciones. Esto lo pone en riesgo de tener otras infecciones y enfermedades.",
+            "source": "Medlineplus.",
+            "cursives": [
+              "Medlineplus"
+            ]
+          },
+          {
+            "word": "SIDA",
+            "content": "El SIDA es el síndrome de inmunodeficiencia adquirida. Es la etapa final de la infección por VIH y ocurre cuando el sistema inmunitario del cuerpo está muy dañado por el virus. El cuerpo que padece este síndrome puede ser atacado más fácilmente por cánceres e infecciones.",
+            "source": "Medlineplus.",
+            "cursives": [
+              "Medlineplus"
+            ]
+          },
+          {
+            "word": "marifrunci",
+            "content": "Movimiento de personas LGBTIQ+ o también llamadas disidencias sexuales. Esta es la palabra que utiliza el movimiento Maricas Bolivia para no invisibilizar los orígenes populares, cholos e indígenas de las personas homosexuales latinoamericanas.",
+            "source": "Comunicación personal."
+          }
+        ],
+        "cursives": [
+          "Sarcoma"
+        ] 
       },
       {
         "type": "paragraph",
-        "content": "Sarcoma es también una obra que transmite incertidumbre. En 1984, tres años después de los primeros brotes, el VIH y el SIDA fueron identificados por la comunidad científica. Se supo, en aquella época, que las causas de contagio eran vía sangre, relaciones sexuales y de madre a hijo."
+        "content": "Sarcoma es también una obra que transmite incertidumbre. En 1984, tres años después de los primeros brotes, el VIH y el SIDA fueron identificados por la comunidad científica. Se supo, en aquella época, que las causas de contagio eran vía sangre, relaciones sexuales y de madre a hijo.",
+        "cursives": [
+          "Sarcoma"
+        ] 
       },
       {
         "type": "paragraph",
-        "content": "En la época, la enfermedad todavía no tenía un nombre conocido. Uno de sus primeros nombres, según el medio Somich, fue el de \"cáncer gay\". Por eso, Sarcoma no es solo un libro sobre el SIDA, sino también un diálogo con las tradiciones artística y literaria homosexuales, y también con los movimientos por los derechos de los homosexuales."
+        "content": "En la época, la enfermedad todavía no tenía un nombre conocido. Uno de sus primeros nombres, según el medio Somich, fue el de \"cáncer gay\". Por eso, Sarcoma no es solo un libro sobre el SIDA, sino también un diálogo con las tradiciones artística y literaria homosexuales, y también con los movimientos por los derechos de los homosexuales. ",
+        "cursives": [
+          "Somich",
+          "Sarcoma"
+        ] 
       },
       {
         "type": "paragraph",
-        "content": "Para Edgar, honrar su tradición literaria es tan importante como nombrarse indígena: \"es difícil desentenderse de Loco afán: Crónicas de sidario de Pedro Lemebel, la grandiosa novela El color del verano de Reinaldo Arenas o Salón de belleza de Mario Bellatin\"."
+        "content": "Para Edgar, honrar su tradición es tan importante como nombrarse indígena: \"Es difícil desentenderse de Loco afán: Crónicas de sidario de Pedro Lemebel, la grandiosa novela El color del verano de Reinaldo Arenas o Salón de belleza de Mario Bellatin\".",
+        "cursives": [
+          "Loco afán: Crónicas de sidario",
+          "El color del verano",
+          "Salón de belleza"
+        ]
       },
       {
         "type": "image",
         "caption": "Portada de un libro de crónicas de enfermos de SIDA de Pedro Lemebel. Fuente: Memoria chilena.",
-        "source": "../images/portada-loco-afan-pedro-lemebel.jpg"
+        "source": "../images/portada-loco-afan-pedro-lemebel.jpg",
+        "cursives": [
+          "Memoria chilena"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "En Sarcoma, la enfermedad escribe sobre la superficie de un cuerpo infecto:"
+        "content": "En Sarcoma, la enfermedad escribe sobre la superficie de un cuerpo infecto:",
+        "cursives": [
+          "Sarcoma"
+        ]
       },
       {
         "type": "poem",
         "verses": [
           "Desahuciado:",
+          "",
           "     El dolor escribe sus señales como grafía del tormento,",
           "     signos indescifrables que transforman mi cuerpo",
           "     en un misterio que socava sus fronteras",
@@ -565,19 +672,31 @@
       },
       {
         "type": "paragraph",
-        "content": "El SIDA en Sarcoma es una enfermedad que es capaz de expresarse. Parte del lenguaje de la enfermedad del SIDA son sus signos: las pústulas y los sarcomas. Estas imágenes son leídas por la sociedad, pero también la sociedad les construye otras. "
+        "content": "El SIDA en Sarcoma es una enfermedad que es capaz de expresarse. Parte del lenguaje de la enfermedad del SIDA son sus signos: las pústulas y los sarcomas. Estas imágenes son leídas por la sociedad, pero también la sociedad les construye otras.",
+        "cursives": [
+          "Sarcoma"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "Edgar menciona como inspiración de su obra a la filósofa Susan Sontag quien, en El SIDA y sus métaforas, afirma el SIDA en los años ‘80 pasó a ser vivido como se vivía el cáncer, es decir el secreto y la vergüenza."
+        "content": "Edgar menciona como inspiración de su obra a la filósofa Susan Sontag quien, en El SIDA y sus métaforas, afirma que el SIDA en los años 80 pasó a ser vivido como se vivía el cáncer, es decir, en el secreto y la vergüenza.",
+        "cursives": [
+          "El SIDA y sus métaforas"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "Pero el secreto y la vergüenza no fueron la inspiración de Edgar para escribir Sarcoma, sino la incertidumbre y el miedo a encontrarse con las expresiones de la enfermedad y con la muerte. Según el poeta, él mismo ha vivido el periodo ventana: un periodo entre el primer contacto sin protección con una persona —generalmente, contacto sexual— y los 30 días siguientes, periodo en el que el virus todavía no alcanza a ser detectado. Considérese que una persona puede vivir hasta 15 años sin saber que porta el VIH."
+        "content": "Pero el secreto y la vergüenza no fueron la inspiración de Edgar para escribir Sarcoma, sino la incertidumbre y el miedo a encontrarse con las expresiones de la enfermedad y con la muerte. Según el poeta, él mismo ha vivido el periodo ventana: un periodo entre el primer contacto sin protección con una persona —generalmente, contacto sexual— y los 30 días siguientes, periodo en el que el virus todavía no alcanza a ser detectado. Considérese que una persona puede vivir hasta 15 años sin saber que porta el VIH.",
+        "cursives": [
+          "Sarcoma"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "Pero el cuerpo individual no es necesariamente el cuerpo que trabaja Edgar en Sarcoma, sino que él habla desde un cuerpo social marica, cuerpo sobre el que el VIH y el SIDA, a través de la muerte y el estigma, escriben."
+        "content": "Pero el secreto y la vergüenza no fueron la inspiración de Edgar para escribir Sarcoma, sino la incertidumbre y el miedo a encontrarse con las expresiones de la enfermedad y con la muerte. Según el poeta, él mismo ha vivido el periodo ventana: un periodo entre el primer contacto sin protección con una persona —generalmente, contacto sexual— y los 30 días siguientes, periodo en el que el virus todavía no alcanza a ser detectado. Considérese que una persona puede vivir hasta 15 años sin saber que porta el VIH.",
+        "cursives": [
+          "Sarcoma"
+        ]
       }
     ]
   },
@@ -603,7 +722,7 @@
             "year": "2016"
           },
           {
-            "title": "Escribir sobre el cemento (Liliputienses, 2023)",
+            "title": "Escribir sobre el cemento",
             "year": "2023"
           }
         ],
@@ -663,7 +782,10 @@
     "content": [
       {
         "type": "paragraph",
-        "content": "Valeria, que escribió Escribir sobre el cemento, dice que \"el horizonte de que en nuestro umbral de vida nos enfrentemos a la desaparición de especies, de ecosistemas, es bastante, bastante patente, bastante claro. Entonces pienso, eso tiene que afectar al lenguaje de alguna forma\"."
+        "content": "Valeria, autora de Escribir sobre el cemento, dice que \"el horizonte de que en nuestro umbral de vida nos enfrentemos a la desaparición de especies, de ecosistemas, es bastante, bastante patente, bastante claro. Entonces pienso, eso tiene que afectar al lenguaje de alguna forma\".",
+        "cursives": [
+          "Escribir sobre el cemento"
+        ]
       },
       {
         "type": "paragraph",
@@ -677,6 +799,7 @@
           "equivoco nuevamente los repartos",
           "al pensar que lo uno no está",
           "engarzado en lo otro",
+          "",
           "se trata de un desbroce innecesario",
           "porque es en las superficies pobladas",
           "en las extensas nieblas sin contraste",
@@ -692,24 +815,36 @@
       {
         "type": "paragraph",
         "content": "Valeria, en casi todos sus perfiles en línea, se nombra felinista. ¿Por que es feminista gatuna o por que es activista por los derechos de los gatos? Como fuera, la poeta propone en su obra, como lo haría Dona Haraway, la generación de parentescos en vez de los relacionamientos más comunes entre los humanos y el resto de los seres del planeta, como el de consumo.",
-        "tooltip": {
-          "word": "parentescos",
-          "content": "La filósofa Donna Haraway propone construir parentescos como una manera de reconfigurar las relaciones entre el planeta y sus habitantes humanos. Para ella, esto implica generar parentescos entre humanos y no–humanos (animales, minerales, plantas, etc.).",
-          "source": "Seguir con el problema, Donna Haraway"
-        }
+        "tooltips": [
+          {
+            "word": "parentescos",
+            "content": "La filósofa Donna Haraway propone construir parentescos como una manera de reconfigurar las relaciones entre el planeta y sus habitantes humanos. Para ella, esto implica generar parentescos entre humanos y no–humanos (animales, minerales, plantas, etc.).",
+            "source": "Seguir con el problema, Donna Haraway",
+            "cursives": ["Seguir con el problema"]
+          }
+        ]
       },
       {
         "type": "paragraph",
-        "content": "En 2023, la Policía Forestal y de Preservación del Medio Ambiente (Pofoma) registró 647 denuncias de rescate animal, de las cuales solo un par terminaron en sentencia. La cifra de ese año es menor con respecto al anterior, 2022, en la que Pofoma registró 3.551 denuncias."
+        "content": "En 2023, la Policía Forestal y de Preservación del Medio Ambiente (Pofoma), según La Razón, registró 647 denuncias de rescate animal, de las cuales solo un par terminaron en sentencia. La cifra de ese año es menor con respecto al anterior, 2022, en la que Pofoma registró 3.551 denuncias.",
+        "cursives": [
+          "La Razón"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "El especismo es una forma de discriminación hacia quienes no pertenecen a determinada especie, generalmente a la especie humana, según el sitio web Animal Ethics. Esta discriminación incluye la explotación de los animales no humanos, quienes se usan como recursos alimenticios, materiales, para experimentación o incluso para ser los jueguetes de los niños. Son, en pocas palabras, esclavos."
+        "content": "El especismo es una forma de discriminación hacia quienes no pertenecen a determinada especie, generalmente a la especie humana, según el sitio web Animal Ethics. Esta discriminación incluye la explotación de los animales no humanos, quienes se usan como recursos alimenticios, materiales, para experimentación o incluso para ser los jueguetes de los niños. Son, en pocas palabras, esclavos.",
+        "cursives": [
+          "Animal Ethics"
+        ]
       },
       {
         "type": "image",
         "caption": "Cachorros rescatados de la venta ilegal de animales de la Feria 16 de Julio de El Alto, Bolivia. Fuente: La Razón.",
-        "source": "../images/foto-cachorros-16-julio.jpg"
+        "source": "../images/foto-cachorros-16-julio.jpg",
+        "cursives": [
+          "La Razón"
+        ]
       },
       {
         "type": "paragraph",
@@ -811,7 +946,10 @@
     "content": [
       {
         "type": "paragraph",
-        "content": "La autora de El oráculo eléctrico, Lucía Carvalho, trabaja la poesía desde lo digital, pero también desde lo místico: \"Estoy tratando de entender y comunicarme con algo desconocido a través de la poesía\"."
+        "content": "La autora de El oráculo eléctrico, Lucía Carvalho, trabaja la poesía desde lo digital, pero también desde lo místico: \"Estoy tratando de entender y comunicarme con algo desconocido a través de la poesía\".",
+        "cursives": [
+          "El oráculo eléctrico"
+        ]
       },
       {
         "type": "paragraph",
@@ -820,41 +958,68 @@
       {
         "type": "image",
         "caption": "Holograma de Tupac Shakoor en el festival de música Coachella 2012. Fuente: Lollapaloozamania.",
-        "url": "../images/foto-holograma-tupac-shakoor.jpg"
+        "source": "../images/foto-holograma-tupac-shakoor.jpg",
+        "cursives": [
+          "Lollapaloozamania"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "Oráculo eléctrico apuesta por buscar respuestas a preguntas espirituales en las máquinas. A esta propuesta, en Tecgnosis: Mito, magia y misticismo en la era de la información, el escritor Erik Davis le ha llamado el cyborg espiritual."
+        "content": "Oráculo eléctrico apuesta por buscar respuestas a preguntas espirituales en las máquinas. A esta propuesta, en Tecgnosis: Mito, magia y misticismo en la era de la información, el escritor Erik Davis le ha llamado el cyborg espiritual.",
+        "cursives": [
+          "Oráculo eléctrico",
+          "Tecgnosis: Mito, magia y misticismo en la era de la información",
+          "cyborg"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "Para Davis, los medios tecnológicos —\"desde los jeroglíficos hasta el código informático\"— son indisociables del intercambio entre el mundo espiritual o divino y el humano. A este tipo de propuestas se las enmarca dentro del tecnomisticismo. ",
-        "tooltip": {
-          "word": "tecnomisticismo",
-          "content": "Corriente de pensamiento que desarma la premisa de que el avance de la razón técnica traería un desencantamiento del mundo. Más bien, propone que la dimensión espiritual sigue viva; convive y dialoga con el desarrollo de Internet y todas las evoluciones que nos dejan perplejos. ",
-          "source": "Página/12"
-        }
+        "content": "Para Davis, los medios tecnológicos —\"desde los jeroglíficos hasta el código informático\"— son indisociables del intercambio entre el mundo espiritual o divino y el humano. A este tipo de propuestas se las enmarca dentro del tecnomisticismo.",
+        "tooltips": [
+          {
+            "word": "tecnomisticismo",
+            "content": "Corriente de pensamiento que desarma la premisa de que el avance de la razón técnica traería un desencantamiento del mundo. Más bien, propone que la dimensión espiritual sigue viva; convive y dialoga con el desarrollo de Internet y todas las evoluciones que nos dejan perplejos. ",
+            "source": "Página/12",
+            "cursives": [
+              "Página/12"
+            ]
+          }
+        ]
       },
       {
         "type": "paragraph",
-        "content": "Davis lo advirtió ya en un intercambio de e-mails que tuvo con el medio Página/12: \"Quizás ya seamos más posthumanos de lo que imaginamos\". \"Si los 25 años que han pasado entre la publicación inicial (de Tecgnosis) y ahora sirven de guía, los temas extraños y marginales que cubro solo se volverán más mainstream\", vaticina, consultado por el mundo que imagina en el futuro."
+        "content": "Davis lo advirtió ya en un intercambio de e-mails que tuvo con el medio Página/12: \"Quizás ya seamos más posthumanos de lo que imaginamos\". \"Si los 25 años que han pasado entre la publicación inicial (de Tecgnosis) y ahora sirven de guía, los temas extraños y marginales que cubro solo se volverán más mainstream\", vaticina, consultado por el mundo que imagina en el futuro.",
+        "cursives": [
+          "Página/12",
+          "Tecgnosis",
+          "mainstream"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "Oráculo eléctrico comienza con esta imagen:"
+        "content": "Oráculo eléctrico comienza con esta imagen:",
+        "cursives": [
+          "Oráculo eléctrico"
+        ]
       },
       {
         "type": "image",
-        "caption": "Comienzo Oráculo eléctrico",
-        "url": "../images/foto-oraculo-electrico.png"
+        "caption": "",
+        "source": "../images/foto-oraculo-electrico.png"
       },
       {
         "type": "paragraph",
-        "content": "En él, quien escribe instala ya el panorama: se trata de una usuaria que pregunta a Google, cual si fuera un oráculo, cuál es el próximo paso que \"buscamos con la comunicación\" o que está \"fuera del orden\". "
+        "content": "En él, quien escribe instala ya el panorama: se trata de una usuaria que pregunta a Google, cual si fuera un oráculo, cuál es el próximo paso que \"buscamos con la comunicación\" o que está \"fuera del orden\".",
+        "cursives": [
+          "Google"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "El Oráculo eléctrico, sin embargo, no responde, sino que refleja un vacío:"
+        "content": "El Oráculo eléctrico, sin embargo, no responde, sino que refleja un vacío:",
+        "cursives": [
+          "Oráculo eléctrico"
+        ]
       },
       {
         "type": "poem",
@@ -872,7 +1037,10 @@
       },
       {
         "type": "paragraph",
-        "content": "Sin embargo, hay cierta esperanza en encontrar respuestas en el Oráculo eléctrico, pues él \"sabrá mostrar / la belleza que me contiene\". "
+        "content": "Sin embargo, hay cierta esperanza en encontrar respuestas en el Oráculo eléctrico, pues él \"sabrá mostrar / la belleza que me contiene\".",
+        "cursives": [
+          "Oráculo eléctrico"
+        ]
       },
       {
         "type": "paragraph",
@@ -880,7 +1048,12 @@
       },
       {
         "type": "paragraph",
-        "content": "Lucía gestiona el proyecto Hija del internet, sitio web que reúne su trabajo, y gestiona el proyecto Cyber Elfa, un proyecto de difusión cultural que intersecta animé, poesía y feminismo. En septiembre, el podcast Hablemos escritoras le hizo una entrevista donde la poeta menciona ser fundadora del centro cultural Casa Carmencita en Santa Cruz, donde busca \"abrir un espacio cultural en donde podamos darle sala a artistas y crear eventos culturales\". "
+        "content": "Lucía gestiona el proyecto Hija del internet, sitio web que reúne su trabajo, y gestiona el proyecto Cyber Elfa, un proyecto de difusión cultural que intersecta animé, poesía y feminismo. En septiembre, el podcast Hablemos escritoras le hizo una entrevista donde la poeta cuenta que es la fundadora del centro cultural Casa Carmencita en Santa Cruz, espacio en el que busca \"abrir un espacio cultural en donde podamos darle sala a artistas y crear eventos culturales\"",
+        "cursives": [
+          "Hija del internet",
+          "Cyber Elfa",
+          "Hablemos escritoras"
+        ]
       }
     ]
   },
@@ -918,7 +1091,7 @@
       },
       {
         "type": "poem",
-        "title": "",
+        "title": "Sigrotor",
         "author": "Andrés Mariño",
         "verses": [
           "Xatha xatha",
@@ -953,11 +1126,17 @@
     "content": [
       {
         "type": "paragraph",
-        "content": "Andrés Mariño, el poeta que escribe en El chivo maquínico, afirma rotundamente que no hay una ruptura entre el mundo natural y el maquínico, sino que aquella separación no es más que una apariencia. Todo está unido por flujos y energías sutiles. En sus palabras: \"Es a partir de flujos, transformaciones, bloques, donde esos flujos (natural y maquínico) se condensan, luego se descondensa\", \"no se destruyen, no se transforman\", \"no hay una ruptura, sino que hay contagios\"."
+        "content": "Andrés Mariño, el poeta que escribe en El chivo maquínico, afirma rotundamente que no hay una ruptura entre el mundo natural y el maquínico, sino que aquella separación no es más que una apariencia. Todo está unido por flujos y energías sutiles. En sus palabras: \"Es a partir de flujos, transformaciones, bloques, donde esos flujos (natural y maquínico) se condensan, luego se descondensa\", \"no se destruyen, no se transforman\", \"no hay una ruptura, sino que hay contagios\".",
+        "cursives": [
+          "El chivo maquínico"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "El chivo maquínico, más que un sitio web, es un proyecto transmedia que se presenta a sí mismo de la siguiente manera:"
+        "content": "El chivo maquínico, más que un sitio web, es un proyecto transmedia que se presenta a sí mismo de la siguiente manera:",
+        "cursives": [
+          "El chivo maquínico"
+        ]
       },
       {
         "type": "poem",
@@ -970,33 +1149,50 @@
           "Advertencia, la bomba es lateral.",
           "Cabe decir, por último, que escribimos no desde el tercero, sino desde el último de los mundos.",
           "El rapto ya viene.",
-          "Sustituir chivo, por la Kobrxx y la sangre fría y el misterio Dewónico"
+          "Sustituir chivo, por la Kobrxx y la sangre fría",
+          "y el misterio Dewónico"
         ]
       },
       {
         "type": "paragraph",
-        "content": "En una entrevista para la revista de poesía Ubre amarga, Andrés presenta a El chivo como un proyecto con dos alas: \"una, es el blog El chivo maquínico que reúne textos experimentales, propuestas maquínico deseantes, manifiestos, experimentos visuales y otra, de experimentación performática y de ritual burlesco y violento: Los Trances del RoTuRnomiO (TdR)\", que se dedica sobre todo a la performance en vivo. "
+        "content": "En una entrevista para la revista de poesía Ubre amarga, Andrés presenta a El chivo como un proyecto con dos alas: “Una es el blog El chivo maquínico que reúne textos experimentales, propuestas maquínico deseantes, manifiestos, experimentos visuales y otra, de experimentación performática y de ritual burlesco y violento: Los Trances del RoTuRnomiO (TdR)”, que se dedica sobre todo a la performance en vivo.",
+        "cursives": [
+          "Ubre amarga",
+          "El chivo",
+          "El chivo maquínico",
+          "Trances del RoTuRnomiO"
+        ]
       },
       {
         "type": "image",
         "caption": "Afiche de uno de los Trances del RoTuRnomiO. Fuente: EscenArtes.",
-        "source": "../images/afiche-trances-del-roturnomio.jpg"
+        "source": "../images/afiche-trances-del-roturnomio.jpg",
+        "cursives": [
+          "Trances del RoTuRnomiO",
+          "EscenArtes"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "En el proyecto participan Andrés Mariño, Oscar Delgadillo, Nonato Espina (quien es un personaje ficticio) y Leonardo Nicodemo, y colabora continuamente con artistas y proyectos del afuera, es decir, seres humanos y seres no humanos."
+        "content": "En el proyecto participan Andrés Mariño, Oscar Delgadillo, Nonato Espina (quien es un personaje ficticio) y Leonardo Nicodemo, y colabora continuamente con artistas y proyectos del \"afuera\", es decir, seres humanos y seres no humanos."
       },
       {
         "type": "paragraph",
-        "content": "En Bolivia, después de la pandemia el presupuesto de cultura del Estado Plurinacional de Bolivia sufrió una reducción del 73%: de Bs 146.000.000 a Bs 39.000.000, según el medio Opinión. El Premio Municipal de Poesía Franz Tamayo, se redujo de los Bs. 20.000 en 2017, pasando por los Bs 15.000 en 2020, hasta llegar a los Bs 11.000 en 2024. Este es el incentivo más importante a los poetas en el país, porque el Premio Nacional de Poesía Yolanda Bedregal dejó de existir en el año de la pandemia por COVID-19, el 2020."
+        "content": "En Bolivia, después de la pandemia el presupuesto de cultura del Estado Plurinacional de Bolivia sufrió una reducción del 73%: de Bs 146.000.000 a Bs 39.000.000, según el medio Opinión. El Premio Municipal de Poesía Franz Tamayo, se redujo de los Bs. 20.000 en 2017, pasando por los Bs 15.000 en 2020, hasta llegar a los Bs 11.000 en 2024. Este es el incentivo más importante a los poetas en el país, porque el Premio Nacional de Poesía Yolanda Bedregal dejó de existir en el año de la pandemia por COVID-19, el 2020.",
+        "cursives": [
+          "Opinión"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "Para Andrés, es fácil concentrarse en el \"mal externo\" de la precariedad de la industria cultural boliviana y no ser autocrítico. Para él, el cáncer de los poetas y los artistas es la ausencia de investigación y la falta de rigor en los procesos investigativos. \"Hay que estar a la altura del nuevo parásito\", afirma el poeta."
+        "content": "Para Andrés, es fácil concentrarse en el  \"mal externo\" de la precariedad de la industria cultural boliviana y no ser autocrítico. Para él, el cáncer de los poetas y los artistas es la ausencia de investigación y la falta de rigor en los procesos investigativos. \"Hay que estar a la altura del nuevo parásito\", afirma el poeta."
       },
       {
         "type": "paragraph",
-        "content": "Para él, los movimientos artísticos deberían ser \"movimientos paramilitares instaurando nuevas religiones sin dios\". En los poemas del Chivo maquínico, quien escribe se relaciona con una sustancia —probablemente ketamina— como si de la relación con una entidad espiritual se tratara:"
+        "content": "Para él, los movimientos artísticos deberían ser \"movimientos paramilitares instaurando nuevas religiones sin dios\". En los poemas del Chivo maquínico, quien escribe se relaciona con una sustancia —probablemente ketamina— como si de la relación con una entidad espiritual se tratara:",
+        "cursives": [
+          "Chivo maquínico"
+        ]
       },
       {
         "type": "poem",
@@ -1005,10 +1201,10 @@
           "Visiones. Vómitos. ¿Acaso la maldita criatura Z me ama como yo amo el horror de la kosa?",
           "Me intoxico por amor.",
           "",
+          "",
           "Progresiones en polvo hacia snowcrash. Pspspspsps. Algo te llama. Resplandor de campanas y sieRRRRRRas. DIJE Z Y PUNTO.",
           "¿Quién te hizo creer que estábamos destinados a volver? Software software haciendo y deshaciendo. Esto es una trampa. Atrapado en la trabada trampa. Jodida de mierda hijo de puta.",
           "suneastos. Abaou Werrra!!!!",
-          "",
           "Hechos de tiza. Golem. Gorrem.",
           "VOLVEMOS, PERO CON LA BESTIA.",
           "Atravesar el transecto mientras todo se tranza.",
@@ -1020,7 +1216,7 @@
       },
       {
         "type": "paragraph",
-        "content": "En este poema, quien escribe se relaciona desde el amor y el horror con \"la kosa\" o la sustancia ketamina. El texto termina con la frase \"(Sólo hay truco / no hay trato posible)\" y con esto se refiere a que en esta poesía no hay manera en que haya un acuerdo con la entidad espiritual de la ketamina, sino que hay truco, trampa para lograr un fin. La sustancia, una religión y el ser humano, su esclavo o amante."
+        "content": "En este poema, quien escribe se relaciona desde el amor y el horror con \"la kosa\" o la sustancia ketamina. El texto termina con la frase “(Sólo hay truco / no hay trato posible)” y con esto se refiere a que en esta poesía no hay manera en que haya un acuerdo con la entidad espiritual de la ketamina, sino que hay truco, trampa para lograr un fin. La sustancia, una religión y el ser humano, su esclavo o amante."
       },
       {
         "type": "paragraph",
@@ -1046,6 +1242,9 @@
         "photo": "../images/photos/ignacio-navarro.png",
         "biography": [
           "Es artista, estratega de marketing y nómada digital. Trabaja en poesía, en collage y en la intervención digital de imágenes."
+        ],
+        "cursives": [
+          "collage"
         ],
         "location": [
           "Nació en Sucre en 1998.",
@@ -1127,16 +1326,26 @@
     "content": [
       {
         "type": "paragraph",
-        "content": "Ignacio “Nacho” Navarro, autor de Ángeles a máxima velocidad, confiesa que su relación con el Antropoceno es un proyecto al que se adscribe, porque se considera el arte parte de un rastro humano en la geología que indica que ha \"estado acá, en el Planeta\"."
+        "content": "Ignacio \"Nacho\" Navarro, autor de Ángeles a máxima velocidad, confiesa que su relación con el Antropoceno es un proyecto al que se adscribe, porque se considera el arte parte de un rastro humano en la geología que indica que ha \"estado acá, en el Planeta\".",
+        "cursives": [
+          "Ángeles a máxima velocidad"
+        ]
       },
       {
         "type": "image",
         "caption": "Fuente: collage de Ángeles a máxima velocidad de Ignacio Navarro.",
-        "source": "../images/collage-nacho.png"
+        "source": "../images/collage-nacho.png",
+        "cursives": [
+          "collage",
+          "Ángeles a máxima velocidad"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "Su obra está dedicada a Anne Sexton porque ella \"sí dejó una obra y dejó un rastro de lo que ella fue como persona, como ser, como como humana\". Por ello el libro de poemas y collages, Ángeles a máxima velocidad, comienza con el siguiente poema introductorio:"
+        "content": "Su obra está dedicada a Anne Sexton porque ella \"sí dejó una obra y dejó un rastro de lo que ella fue como persona, como ser, como como humana\". Por ello el libro de poemas y collages, Ángeles a máxima velocidad, comienza con el siguiente poema introductorio:",
+        "cursives": [
+          "Ángeles a máxima velocidad"
+        ]
       },
       {
         "type": "poem",
@@ -1166,16 +1375,25 @@
       },
       {
         "type": "paragraph",
-        "content": "Hacia el final de la introducción, quedan los versos que recuerdan la mortalidad pero también la trascendencia de los ángeles que caen: “este es su edificio”. El poeta se adscribe al proyecto del Antropoceno porque, como los ángeles, él también busca ir más allá de la mortalidad."
+        "content": "Hacia el final de la introducción, quedan los versos que recuerdan la mortalidad pero también la trascendencia de los ángeles que caen: \"Este es su edificio\". El poeta se adscribe al proyecto del Antropoceno porque, como los ángeles, él también busca ir más allá de la mortalidad."
       },
       {
         "type": "paragraph",
-        "content": "En su página de Gumroad, Nacho da a conocer y comercializa su poesía. Es nómada digital y trabaja desde Santa Cruz para Estados Unidos, en Creators Collective. ",
-        "tooltip": {
-          "word": "nómada digital",
-          "content": "Un nómada digital es una persona que utiliza Internet para ejercer su actividad laboral o para vender sus conocimientos a otras personas. Se caracterizan por poder trabajar desde cualquier lado porque trabajan en línea, porque utilizan diferentes modelos de negocios para trabajar y porque su estilo de vida se basa en el viaje.",
-          "source": "Infobae."
-        }
+        "content": "En su página de Gumroad, Nacho da a conocer y comercializa su poesía. Es nómada digital y trabaja desde Santa Cruz para Estados Unidos, en Creators Collective.",
+        "cursives": [
+          "Gumroad",
+          "Creators Collective"
+        ],
+        "tooltips": [
+          {
+            "word": "nómada digital",
+            "content": "Un nómada digital es una persona que utiliza Internet para ejercer su actividad laboral o para vender sus conocimientos a otras personas. Se caracterizan por poder trabajar desde cualquier lado porque trabajan en línea, porque utilizan diferentes modelos de negocios para trabajar y porque su estilo de vida se basa en el viaje.",
+            "source": "Infobae.",
+            "curives": [
+              "Infobae"
+            ]
+          }
+        ]
       }
     ]
   },
@@ -1188,11 +1406,11 @@
       },
       {
         "type": "paragraph",
-        "content": "En el sondeo, se les hizo preguntas a los lectores sobre poesía posthumana y se les pidió que leyeran dos poemas de las obras seleccionadas en este reportaje: “Compañía” de Valeria Canelas y un poema sin título de Andrés Mariño."
+        "content": "En el sondeo, se les hizo preguntas a los lectores sobre poesía posthumana y se les pidió que leyeran dos poemas de las obras seleccionadas en este reportaje: \"Compañía\" de Valeria Canelas y un poema sin título de Andrés Mariño."
       },
       {
         "type": "paragraph",
-        "content": "Aunque en los resultados la mayoría reportó no saber qué es la poesía posthumana, también cada uno escribió su propia definición de lo que es poesía posthumana:"
+        "content": "Aunque en los resultados la mayoría reportó no saber qué es la poesía posthumana, cada participante definió lo que entiende por poesía posthumana:"
       },
       {
         "type": "image",
@@ -1202,11 +1420,16 @@
       {
         "type": "paragraph",
         "content": "Además, de ello, la mayoría de las personas encuestadas (10/15), es decir el 66.6%, sugirieron que la poesía posthumana está estrechamente relacionada con una enunciación posthumana. Es decir, que quien habla en el poema no lo hace desde un cuerpo humano, o no le habla a alguien que es humano (puede ser un gato o un dios) o totalmente humano (puede ser un androide, mitad humano y mitad máquina).",
-        "tooltip": {
-          "word": "enunciación",
-          "content": "La enunciación es el conjunto de condiciones desde las que se habla. Es decir, para conocer la enunciación de un enunciado es importante saber quién lo emite, para quién, cuándo, dónde.",
-          "source": "Centro Virtual Cervantes."
-        }
+        "tooltips": [
+          {
+            "word": "enunciación",
+            "content": "La enunciación es el conjunto de condiciones desde las que se habla. Es decir, para conocer la enunciación de un enunciado es importante saber quién lo emite, para quién, cuándo, dónde.",
+            "source": "Centro Virtual Cervantes.",
+            "cursives": [
+              "Centro Virtual Cervantes"
+            ]
+          }
+        ]
       },
       {
         "type": "paragraph",
@@ -1310,36 +1533,50 @@
       {
         "type": "paragraph",
         "content": "Los lectores reconocen también en estos poemas una tentativa posthumana. Más en el caso de Andrés que en el caso de Valeria, cuya poesía alguno de los lectores consideró naíf.",
-        "tooltip": {
-          "word": "naíf",
-          "content": "En el arte o la poesía, naíf es una obra infantil o ingenua, incluso si es elaborada y compleja. Para muchos críticos, este arte es la expresión más auténtica de la inocencia. ",
-          "source": "Manifiesto de Arte."
-        }
+        "tooltips": [
+          {
+            "word": "naíf",
+            "content": "En el arte o la poesía, naíf es una obra infantil o ingenua, incluso si es elaborada y compleja. Para muchos críticos, este arte es la expresión más auténtica de la inocencia.",
+            "source": "Manifiesto de Arte.",
+            "cursives": [
+              "Manifiesto de Arte"
+            ]
+          }
+        ]
       },
       {
         "type": "paragraph",
-        "content": "El poema de Andrés evoca en los lectores \"situaciones de exterminio, ataque, intercepción, destrucción, inoperancia\" y una \"atmósfera post apocalíptica (qué poderosa imagen: hielo escarlata), con mutantes insecto/antropófagos (sagrados)\"."
+        "content": "El poema de Andrés evoca en los lectores “situaciones de exterminio, ataque, intercepción, destrucción, inoperancia” y una \"atmósfera post apocalíptica (qué poderosa imagen: hielo escarlata), con mutantes insecto/antropófagos (sagrados)\"."
       },
       {
         "type": "paragraph",
-        "content": "El poema de Valeria transfiere a los lectores \"el lamento solidario de un ser de una especie a otro\" de otra o una \"voz humana que coincide con esa otra especie a la que se dirige, sobre la duda/el deseo de si esta compañía continuará incluso en el final de sus tiempos como especies\". "
+        "content": "El poema de Valeria transfiere a los lectores \"el lamento solidario de un ser de una especie a otro\" de otra o una \"voz humana que coincide con esa otra especie a la que se dirige, sobre la duda/el deseo de si esta compañía continuará incluso en el final de sus tiempos como especies\"."
       },
       {
         "type": "paragraph",
-        "content": "A pesar de que 26.66% de los lectores reportan sentir cierto desconcierto ante los poemas leídos, también el 73.33% reporta que uno de los efectos que causa la lectura de estos poemas es que se reflexione en torno a la humanidad, sus límites y también las conexiones que pueden llegar a tener con otros seres, ya sea, no–humanos (seres con los que los seres humanos comparten de manera desigual el planeta Tierra, como animales, plantas, microbios o virus) o más–que–humanos.",
-        "tooltip": {
-          "word": "más-que-humanos ",
-          "content": "Seres que desafían la primacía de los seres humanos en el mundo. Por ejemplo: dioses, espíritus, demonios, ángeles, apus o plantas maestras. ",
-          "source": "Tekoporá. Revista Latinoamericana de humanidades ambientales y estudios territoriales."
-        }
+        "content": "A pesar de que 26.66% de los lectores reportan sentir cierto desconcierto ante los poemas leídos, también el 73.33% reporta que uno de los efectos que causa la lectura de estos poemas es que se reflexione en torno a la humanidad, sus límites y también las conexiones que pueden llegar a tener con otros seres, ya sean no–humanos o más–que–humanos.",
+        "tooltips": [
+          {
+            "word": "no–humanos",
+            "content": "Seres con los que los seres humanos comparten de manera desigual el planeta Tierra. Por ejemplo: animales, plantas, microbios o virus.",
+            "source": "Tekoporá. Revista Latinoamericana de humanidades ambientales y estudios territoriales.",
+            "cursives": [
+              "Tekoporá. Revista Latinoamericana de humanidades ambientales y estudios territoriales"
+            ]
+          },
+          {
+            "word": "más–que–humanos",
+            "content": "Seres que desafían la primacía de los seres humanos en el mundo. Por ejemplo: dioses, espíritus, demonios, ángeles, apus o plantas maestras. ",
+            "source": "Tekoporá. Revista Latinoamericana de humanidades ambientales y estudios territoriales.",
+            "cursives": [
+              "Tekoporá. Revista Latinoamericana de humanidades ambientales y estudios territoriales"
+            ]
+          }
+        ]
       },
       {
         "type": "paragraph",
-        "content": "El sondeo ha podido comprobar que los lectores pueden llegar a cuestionar tanto la condición de los seres humanos con relación al rol de estos en la naturaleza a través de la poesía.  "
-      },
-      {
-        "type": "paragraph",
-        "content": "Para obtener otro análisis de poesía de cada una de las obras, también se ha invitado al lector especializado en poesía y poeta Juan Carlos Ramiro Quiroga (La Paz, 1962–). El texto de crítica literaria por este poeta comienza, en primer lugar, por presentar el Antropoceno y, después, por hacer un análisis uno por uno de fragmentos de las obras de este reportaje."
+        "content": "Para obtener otro análisis de poesía de cada una de las obras se ha invitado al lector especializado en poesía y también poeta Juan Carlos Ramiro Quiroga (La Paz, 1962–). El texto de crítica literaria por este poeta comienza, en primer lugar, por presentar el Antropoceno y, después, por hacer un análisis uno por uno de algunos fragmentos de las obras de este reportaje."
       },
       {
         "type": "paragraph",
@@ -1353,7 +1590,7 @@
       },
       {
         "type": "paragraph",
-        "content": "A través de las entrevistas a los poetas, se ha confirmado que estos poemas contribuyen a que los lectores cuestionen la relación de los seres humanos con la naturaleza debido a una estética donde hay una fuerte presencia, explícita o implícita de seres no–humanos o más–que–humanos en sus escritos. En el caso de Edgar Soliz, el ser no–humano es el SIDA; en el de Andrés Mariño, el ser más–que–humano es el cosmos que causa horror."
+        "content": "A través del sondeo, las entrevistas a los poetas y la investigación del reportaje, se ha confirmado que estos poemas contribuyen a que los lectores cuestionen la relación de los seres humanos con la naturaleza debido a una estética donde hay una fuerte presencia, explícita o implícita de seres no–humanos o más–que–humanos en sus escritos. En el caso de Edgar Soliz, el ser no–humano es el SIDA; en el de Andrés Mariño, el ser más–que–humano es el cosmos que causa horror."
       },
       {
         "type": "paragraph",
@@ -1365,7 +1602,7 @@
       },
       {
         "type": "paragraph",
-        "content": "También han sido entrevistados tres expertos para dar a conocer si esta poesía puede llegar a contribuir con un cambio hacia una cultura más ecológica. Si bien todos han admitido que puede haber una contribución a la discusión ecológica en el arte, también son críticos y afirman que el arte o la poesía se pueden convertir en meros objetos de consumo, en una moda más."
+        "content": "También han sido entrevistados tres expertos para dar a conocer si esta poesía puede llegar a contribuir con un cambio hacia una cultura más ecológica. Estos son el economista ambiental Stasiek Czalpicki, el historiador de la Amazonía José Octavio Orsag y la especialista en estudios del Antropoceno Ara Goudsmit. Si bien todos han admitido que puede haber una contribución a la discusión ecológica en el arte, también son críticos y afirman que el arte o la poesía se pueden convertir en meros objetos de consumo, en una moda más."
       },
       {
         "type": "paragraph",
@@ -1418,7 +1655,10 @@
       },
       {
         "type": "paragraph",
-        "content": "Lo siguiente que recuerda Valeria es la conversación online entre ella y entrevistador hacia el final de la entrevista para ser aceptada en la maestría en Estudios Ibéricos y Latinoamericanos en la Universidad de Notre Dame de Estados Unidos:"
+        "content": "Lo siguiente que recuerda Valeria es la conversación online entre ella y entrevistador hacia el final de la entrevista para ser aceptada en la maestría en Estudios Ibéricos y Latinoamericanos en la Universidad de Notre Dame de Estados Unidos:",
+        "cursives": [
+          "online"
+        ]
       },
       {
         "type": "paragraph",
@@ -1546,7 +1786,10 @@
       },
       {
         "type": "paragraph",
-        "content": "—Hay mucho discurso que dice que es poesía. Poesía es una categoría de marketing, un discurso que tiene esta forma, que generalmente es cortado en versos, que habla de ciertas cosas, puede ser de la verdad, puede ser los sentimientos, de la naturaleza, del afuera misma, de lo que sea, y utiliza el lenguaje de cierta manera, para lo cual hay un montón de recursos estilísticos que se ponen en juego… Si no es un túnel de contagio, yo diría que no es poesía."
+        "content": "—Hay mucho discurso que dice que es poesía. Poesía es una categoría de marketing, un discurso que tiene esta forma, que generalmente es cortado en versos, que habla de ciertas cosas, puede ser de la verdad, puede ser los sentimientos, de la naturaleza, del afuera misma, de lo que sea, y utiliza el lenguaje de cierta manera, para lo cual hay un montón de recursos estilísticos que se ponen en juego… Si no es un túnel de contagio, yo diría que no es poesía.",
+        "cursives": [
+          "marketing"
+        ]
       },
       {
         "type": "paragraph",
@@ -1571,7 +1814,10 @@
       },
       {
         "type": "paragraph",
-        "content": "El vector hacia estas energías tenebrosamente reales es la poesía. En sus obras están los resultados de esas comunicaciones. En La geología sagrada trata con demonios tónicos, de cuevas, de volcanes y de túneles. Actualmente transcribe sus comunicaciones con seres de aire, como los ángeles, la lluvia, la nieve y el espacio exterior."
+        "content": "El vector hacia estas energías tenebrosamente reales es la poesía. En sus obras están los resultados de esas comunicaciones. En La geología sagrada trata con demonios tónicos, de cuevas, de volcanes y de túneles. Actualmente transcribe sus comunicaciones con seres de aire, como los ángeles, la lluvia, la nieve y el espacio exterior.",
+        "cursives": [
+          "La geología sagrada"
+        ]
       },
       {
         "type": "image",
@@ -1645,7 +1891,10 @@
       },
       {
         "type": "paragraph",
-        "content": "Contrario a la imagen que muchos asocian a la palabra maricón, Edgar es parco y discreto, como quien ha aprendido del lecho de amor en la clandestinidad y del sufrimiento en soledad dentro de su propio nido familiar."
+        "content": "Contrario a la imagen que muchos asocian a la palabra maricón, Edgar es parco y discreto, como quien ha aprendido del lecho de amor en la clandestinidad y del sufrimiento en soledad dentro de su propio nido familiar.",
+        "cursives": [
+          "maricón"
+        ]
       },
       {
         "type": "paragraph",
@@ -1662,7 +1911,10 @@
       },
       {
         "type": "paragraph",
-        "content": "Lemebel, en cambio, se reía del SIDA. \"Es la autodefensa de los homosexuales\", decía. Trabajaba la carcajada, que algunas críticas literarias han llamado también la risa post-mortis. Así, por ejemplo, comienza la historia de una travesti portadora de VIH, Loba Lamar, de Loco afán: Crónica de sidario:"
+        "content": "Lemebel, en cambio, se reía del SIDA. \"Es la autodefensa de los homosexuales\", decía. Trabajaba la carcajada, que algunas críticas literarias han llamado también la risa post-mortis. Así, por ejemplo, comienza la historia de una travesti portadora de VIH, Loba Lamar, de Loco afán: Crónica de sidario:",
+        "cursives": [
+          "Loco afán: Crónica de sidario"
+        ]
       },
       {
         "type": "poem",
@@ -1697,7 +1949,10 @@
       },
       {
         "type": "paragraph",
-        "content": "—Hay un lenguaje que el cuerpo tiene que son los síntomas o los signos de la enfermedad. Cuando he pensado en Sarcoma pensaba en el cuerpo. Todos estos lenguajes que genera el propio cuerpo alrededor de la enfermedad para anunciar algo. Ya tú verás qué haces con eso. Uno como persona, si siente esos signos y esos síntomas, puedes ir al hospital y resolver ese tema o no… Y dejarte morir. Muchas cosas pueden pasar. "
+        "content": "—Hay un lenguaje que el cuerpo tiene que son los síntomas o los signos de la enfermedad. Cuando he pensado en Sarcoma pensaba en el cuerpo. Todos estos lenguajes que genera el propio cuerpo alrededor de la enfermedad para anunciar algo. Ya tú verás qué haces con eso. Uno como persona, si siente esos signos y esos síntomas, puedes ir al hospital y resolver ese tema o no… Y dejarte morir. Muchas cosas pueden pasar.",
+        "cursives": [
+          "Sarcoma"
+        ]
       },
       {
         "type": "paragraph",
@@ -1710,7 +1965,10 @@
       },
       {
         "type": "paragraph",
-        "content": "Cuando introdujo la mirada en otro de los agujeros, otro hombre lo saludó de manera amistosa y comenzó a masturbarse. Ya no se sentía solo, porque acababa de conocer el cruising, una práctica de los hombres homosexuales que consiste en tener conocer homosexuales en lugares públicos, con fines sexuales o afectivos."
+        "content": "Cuando introdujo la mirada en otro de los agujeros, otro hombre lo saludó de manera amistosa y comenzó a masturbarse. Ya no se sentía solo, porque acababa de conocer el cruising, una práctica de los hombres homosexuales que consiste en tener conocer homosexuales en lugares públicos, con fines sexuales o afectivos.",
+        "cursives": [
+          "cruising"
+        ]
       },
       {
         "type": "paragraph",
@@ -1718,7 +1976,10 @@
       },
       {
         "type": "paragraph",
-        "content": "Edgar se refiere al libro El SIDA y sus metáforas de Susan Sontag, una obra de teoría crítica de 1989 en la que la autora, enferma de cáncer, explora las metáforas atribuidas en la sociedad al cáncer y el SIDA, y que afectan negativamente a los pacientes. Estas metáforas, según la filósofa, distraen al cuerpo social y causan más muertes en los enfermos por la discriminación que sufren."
+        "content": "Edgar se refiere al libro El SIDA y sus metáforas de Susan Sontag, una obra de teoría crítica de 1989 en la que la autora, enferma de cáncer, explora las metáforas atribuidas en la sociedad al cáncer y el SIDA, y que afectan negativamente a los pacientes. Estas metáforas, según la filósofa, distraen al cuerpo social y causan más muertes en los enfermos por la discriminación que sufren.",
+        "cursives": [
+          "El SIDA y sus metáforas"
+        ]
       },
       {
         "type": "image",
@@ -1735,7 +1996,10 @@
       },
       {
         "type": "paragraph",
-        "content": "Hoy en día, Edgar considera que Sarcoma es un libro que está estancado, incompleto. Confiesa que se ha preguntado muchas veces sobre el porqué de este estancamiento. Entre sus especulaciones, el poeta afirma que se debe a que hace más de cuatro años que no se ha hecho la prueba del VIH."
+        "content": "Hoy en día, Edgar considera que Sarcoma es un libro que está estancado, incompleto. Confiesa que se ha preguntado muchas veces sobre el porqué de este estancamiento. Entre sus especulaciones, el poeta afirma que se debe a que hace más de cuatro años que no se ha hecho la prueba del VIH.",
+        "cursives": [
+          "Sarcoma"
+        ]
       },
       {
         "type": "paragraph",
@@ -1752,18 +2016,23 @@
     "title": "Cultureza: Hacia la extinción de la dicotomía entre naturaleza y cultura",
     "content": [
       {
-        "type": "poem",
-        "title": "Cultureza",
-        "author": "De la unión de los vocablos cultura y naturaleza: cultu + reza.",
-        "verses": [
-          "1. sust. Dicho de una propuesta teórica en que no se separa la cultura de la naturaleza, sino en la que son una y la misma cosa.",
-          "",
-          "Fuente: El pensamiento dicotómico en la antropología y el evolucionismo, Vera, Chiappa y Lizárraga."
-        ]
+        "type": "definition",
+        "term": "Cultureza",
+        "root": "De la unión de los vocablos cultura y naturaleza: cultu + reza.",
+        "cursives": [
+          "El pensamiento dicotómico en la antropología y el evolucionismo"
+        ],
+        "definitions": [
+          "sust. Dicho de una propuesta teórica en que no se separa la cultura de la naturaleza, sino en la que son una y la misma cosa."
+        ],
+        "source": "El pensamiento dicotómico en la antropología y el evolucionismo, Vera, Chiappa y Lizárraga."
       },
       {
         "type": "paragraph",
-        "content": "La discusión en torno a si existe una separación entre la naturaleza y la cultura es muy antigua. Pero, en los últimos años, esta separación se ha erosionado debido a la crisis climática y ha surgido una nueva perspectiva: la cultureza."
+        "content": "La discusión en torno a si existe una separación entre la naturaleza y la cultura es muy antigua. Pero, en los últimos años, esta separación se ha erosionado debido a la crisis climática y ha surgido una nueva perspectiva: la cultureza.",
+        "cursives": [
+          "cultureza"
+        ]
       },
       {
         "type": "paragraph",
@@ -1814,7 +2083,10 @@
       {
         "type": "image",
         "caption": " Niños de la etnia Tenharim en el río Amazonas. Fuente: EFEVerde.",
-        "source": "../images/foto-ninos-selva.webp"
+        "source": "../images/foto-ninos-selva.webp",
+        "cursives": [
+          "EFEVerde"
+        ]
       },
       {
         "type": "paragraph",
@@ -1827,15 +2099,23 @@
       {
         "type": "paragraph",
         "content": "El animismo es el nombre que se le pone a los sistemas de pensamiento que proponen que todos los elementos del mundo natural tienen agencia. Esto significa que lo que para los habitantes urbanos es un recurso natural, una materia sin vida, para las comunidades indígenas del Amazonas puede ser un ser consciente con el que deben mantener una relación y ser responsables de esta, puesto que les brinda protección, alimento o salud.",
-        "tooltip": {
-          "word": "agencia",
-          "content": "En ciencias sociales, la agencia es la capacidad de las personas (ampliada en este caso a animales, espíritus, plantas o cosas) para actuar por sí mismas, definir y alcanzar sus objetivos, elegir y tomar decisiones.",
-          "source": "Academia.edu."
-        }
+        "tooltips": [
+          {
+            "word": "agencia",
+            "content": "En ciencias sociales, la agencia es la capacidad de las personas (ampliada en este caso a animales, espíritus, plantas o cosas) para actuar por sí mismas, definir y alcanzar sus objetivos, elegir y tomar decisiones.",
+            "source": "Academia",
+            "cursives": [
+              "Academia"
+            ]
+          }
+        ]
       },
       {
         "type": "paragraph",
-        "content": "En Los últimos niños del bosque del año 2005, el periodista Richard Louv investigó acerca de la desconexión entre niños que habitan los espacios urbanos y la naturaleza, y lo llamó el trastorno por déficit de naturaleza. En esta investigación, el periodista demuestra que hay un enlace entre el aislamiento de la naturaleza en los niños y la obesidad, el asma y el trastorno por deficiencia de atención. Como resultado de este estudio, él y otros comenzaron a trabajar en un movimiento que busca implantar una “terapia del mundo silvestre” en los niños para liberarlos de las “prisiones burocráticas”, que son las aulas de clase urbanas."
+        "content": "En Los últimos niños del bosque del año 2005, el periodista Richard Louv investigó acerca de la desconexión entre niños que habitan los espacios urbanos y la naturaleza, y lo llamó el trastorno por déficit de naturaleza. En esta investigación, el periodista demuestra que hay un enlace entre el aislamiento de la naturaleza en los niños y la obesidad, el asma y el trastorno por deficiencia de atención. Como resultado de este estudio, él y otros comenzaron a trabajar en un movimiento que busca implantar una “terapia del mundo silvestre” en los niños para liberarlos de las “prisiones burocráticas”, que son las aulas de clase urbanas.",
+        "cursives": [
+          "Los últimos niños del bosque"
+        ]
       },
       {
         "type": "paragraph",
@@ -1849,15 +2129,23 @@
       {
         "type": "paragraph",
         "content": "En el rito de paso, los púberes Sateré-Mawé deben introducir sus manos a unos sacos en los que los adultos han introducido al menos 80 ejemplares de hormigas balas sedadas. Estas hormigas, según la tradición del pueblo, provienen de la vagina de una mujer serpiente. ",
-        "tooltip": {
-          "word": "rito de paso",
-          "content": "Un rito de paso es una actividad que marca la transición de un estado a otro en la vida de una persona. En muchos de casos, los ritos de paso se hacen para que los niños transiten hacia su adultez. Los más conocidos son las fiestas de quince años o la ceremonia de primera comunión.",
-          "source": "News Madre Tierra."
-        }
+        "tooltips": [
+          {
+            "word": "rito de paso",
+            "content": "Un rito de paso es una actividad que marca la transición de un estado a otro en la vida de una persona. En muchos de casos, los ritos de paso se hacen para que los niños transiten hacia su adultez. Los más conocidos son las fiestas de quince años o la ceremonia de primera comunión.",
+            "source": "News Madre Tierra.",
+            "cursives": [
+              "News Madre Tierra."
+            ]
+          }
+        ]
       },
       {
         "type": "paragraph",
-        "content": "Cuando los púberes han introducido ya sus manos, las hormigas despiertan por las provocaciones con humo de tabaco que reciben de los adultos. Una a una, las hormigas los pican con una picadura que equivale al dolor que provoca una bala o la introducción de un clavo en la piel de manera violenta, según reporta el medio National Geographic."
+        "content": "Cuando los púberes han introducido ya sus manos, las hormigas despiertan por las provocaciones con humo de tabaco que reciben de los adultos. Una a una, las hormigas los pican con una picadura que equivale al dolor que provoca una bala o la introducción de un clavo en la piel de manera violenta, según reporta el medio National Geographic.",
+        "cursives": [
+          "National Geographic"
+        ]
       },
       {
         "type": "paragraph",
@@ -1904,11 +2192,17 @@
       {
         "type": "image",
         "caption": "Retrato de Charles Darwin. Fuente: Wikipedia.",
-        "source": "../images/foto-darwin.jpg"
+        "source": "../images/foto-darwin.jpg",
+        "cursives": [
+          "Wikipedia"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "En 1845, Charles Darwin escribió Viaje de un naturalista alrededor del mundo. En esos diarios, que incluyen su paso por Galápagos, Darwin propone ideas distintas a las del relato bíblico de la Creación y busca una teoría científica que explique que las especies evolucionan gracias a una selección natural, en la cual el entorno cumple una función, pero que se da por azar y sin intervención humana. En sus diarios, observa:  "
+        "content": "En 1845, Charles Darwin escribió Viaje de un naturalista alrededor del mundo. En esos diarios, que incluyen su paso por Galápagos, Darwin propone ideas distintas a las del relato bíblico de la Creación y busca una teoría científica que explique que las especies evolucionan gracias a una selección natural, en la cual el entorno cumple una función, pero que se da por azar y sin intervención humana. En sus diarios, observa:",
+        "cursives": [
+          "Viaje de un naturalista alrededor del mundo"
+        ]
       },
       {
         "type": "poem",
@@ -1926,16 +2220,25 @@
       },
       {
         "type": "paragraph",
-        "content": "En la época, lanzarse a la vida de marinero en busca de aventuras era común. En el siglo XIX, por ejemplo, un muchacho de 21 años se atrevió a enlistarse en el barco ballenero Nantucket para trabajar como marinero y ampliar sus horizontes. Las islas le impresionaron tanto que le ocasionaron pesadillas durante años. El muchacho, llamado Herman Melville, escribió años después una novela titulada Moby Dick."
+        "content": "En la época, lanzarse a la vida de marinero en busca de aventuras era común. En el siglo XIX, por ejemplo, un muchacho de 21 años se atrevió a enlistarse en el barco ballenero Nantucket para trabajar como marinero y ampliar sus horizontes. Las islas le impresionaron tanto que le ocasionaron pesadillas durante años. El muchacho, llamado Herman Melville, escribió años después una novela titulada Moby Dick.",
+        "cursives": [
+          "Moby Dick"
+        ]
       },
       {
         "type": "image",
         "caption": "Barco ballenero del s. XIX. Fuente: Museo Peabody Essex.",
-        "source": "../images/barco-ballenero-s-xix.webp"
+        "source": "../images/barco-ballenero-s-xix.webp",
+        "cursives": [
+          "Museo Peabody Essex"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "Fue gracias a estudios de geografía posteriores, como el de Christophe Grenier en Conservación contra natura: las islas Galápagos, que se descubrió que los tripulantes de los barcos balleneros cazaban tortugas para alimentarse. En épocas de tormenta, las tortugas eran tiradas por la borda, para aliviar el peso de los barcos. De este modo, las especies eran llevadas lejos de sus hábitats originales."
+        "content": "Fue gracias a estudios de geografía posteriores, como el de Christophe Grenier en Conservación contra natura: las islas Galápagos, que se descubrió que los tripulantes de los barcos balleneros cazaban tortugas para alimentarse. En épocas de tormenta, las tortugas eran tiradas por la borda, para aliviar el peso de los barcos. De este modo, las especies eran llevadas lejos de sus hábitats originales.",
+        "cursives": [
+          "Conservación contra natura: las islas Galápagos"
+        ]
       },
       {
         "type": "paragraph",
@@ -1949,11 +2252,16 @@
       {
         "type": "paragraph",
         "content": "El economista ambiental, Stasiek “Stash” Czaplicki, en una entrevista concedida para este reportaje, afirma que superar la dicotomía entre naturaleza y cultura implica desmitificar todo lo que se entiende por naturaleza.",
-        "tooltip": {
-          "word": "desmitificar",
-          "content": "La mitificación de la naturaleza es un proyecto de pensamiento que busca concebirla como un orden perfecto, idílico y armónico que debe preservarse o conservarse intacto",
-          "source": "Fuente: Gaceta."
-        }
+        "tooltips": [
+          {
+            "word": "desmitificar",
+            "content": "La mitificación de la naturaleza es un proyecto de pensamiento que busca concebirla como un orden perfecto, idílico y armónico que debe preservarse o conservarse intacto",
+            "source": "Fuente: Gaceta.",
+            "cursives": [
+              "Gaceta"
+            ]
+          }
+        ]
       },
       {
         "type": "poet",
@@ -1986,24 +2294,39 @@
       },
       {
         "type": "paragraph",
-        "content": "El informe Chaqueos e incendios forestales en Bolivia del Instituto Boliviano de Investigación Forestal, aclara que la práctica ancestral del chaqueo en sus orígenes ancestrales se realizaba a partir de la primera lluvia intensa, para que el suelo se caliente poco durante la quema, preservando así su fertilidad y la estructura de su suelo."
+        "content": "El informe Chaqueos e incendios forestales en Bolivia del Instituto Boliviano de Investigación Forestal, aclara que la práctica ancestral del chaqueo en sus orígenes ancestrales se realizaba a partir de la primera lluvia intensa, para que el suelo se caliente poco durante la quema, preservando así su fertilidad y la estructura de su suelo.",
+        "cursives": [
+          "Chaqueos e incendios forestales en Bolivia"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "El pueblo chiquitano, cuyo verdadero antes de la Colonia era tovasicoci, es uno de los pueblos que hoy en día practican el chaqueo. Estos pequeños seres humanos —de ahí su nombre— eran enemigos de los primeros cruceños y de Ñuflo de Chávez. Lo poco que se sabe de ellos es que eran temidos por los demás pueblos por el veneno de sus flechas y que probablemente hubiesen sido grupos semi-nómadas, cuya economía descansaba en las actividades de caza."
+        "content": "El pueblo chiquitano, cuyo verdadero antes de la Colonia era tovasicoci, es uno de los pueblos que hoy en día practican el chaqueo. Estos pequeños seres humanos —de ahí su nombre— eran enemigos de los primeros cruceños y de Ñuflo de Chávez. Lo poco que se sabe de ellos es que eran temidos por los demás pueblos por el veneno de sus flechas y que probablemente hubiesen sido grupos semi-nómadas, cuya economía descansaba en las actividades de caza.",
+        "cursives": [
+          "tovasicoci"
+        ]
       },
       {
         "type": "paragraph",
         "content": "No fueron agricultores sino hasta que se vieron obligados a pedir auxilio a jesuitas a finales del siglo XVII, época de la cacería de esclavos en la región. A comienzos del siglo XX, el avasallamiento de sus territorios por parte de empresarios cruceños los dejó en condición de trabajadores o pongos.",
-        "tooltip": {
-          "word": "pongo",
-          "content": "Pongo era un indígena andino que tenía una obligación de servicio personal con un amo en la época colonial. El pongueaje y el mitanaje, instituciones heredadas de la Colonia, fueron acrecentadas durante la República, pervivieron hasta la segunda mitad del siglo XX y fueron abolidas recientemente en la Revolución Nacional del año 1952.",
-          "source": "Diccionario de americanismos."
-        }
+        "tooltips": [
+          {
+            "word": "pongo",
+            "content": "Pongo era un indígena andino que tenía una obligación de servicio personal con un amo en la época colonial. El pongueaje y el mitanaje, instituciones heredadas de la Colonia, fueron acrecentadas durante la República, pervivieron hasta la segunda mitad del siglo XX y fueron abolidas recientemente en la Revolución Nacional del año 1952.",
+            "source": "Diccionario de americanismos.",
+            "cursives": [
+              "Diccionario de americanismos"
+            ]
+          }
+        ]
       },
       {
         "type": "paragraph",
-        "content": "Las escalas de consumo de los chiquitanos debe ser siempre pequeña. La dirigente del pueblo chiquitano, Beatriz Tapanaché explica en una entrevista para el diagnóstico sobre la situación socioeconómica de los pueblos de tierras bajas, Nunca nos fuimos, que deben cuidar la relación con el jichi, pues él es el responsable de proteger la flora, la fauna y el aprovisionamiento de agua en el territorio. En sus palabras: hay que cuidar las fuentes de agua, \"porque si se las mal usa, el jichi se va y se seca la fuente\". "
+        "content": "Las escalas de consumo de los chiquitanos debe ser siempre pequeña. La dirigente del pueblo chiquitano, Beatriz Tapanaché explica en una entrevista para el diagnóstico sobre la situación socioeconómica de los pueblos de tierras bajas, Nunca nos fuimos, que deben cuidar la relación con el jichi, pues él es el responsable de proteger la flora, la fauna y el aprovisionamiento de agua en el territorio. En sus palabras: hay que cuidar las fuentes de agua, \"porque si se las mal usa, el jichi se va y se seca la fuente\".",
+        "cursives": [
+          "Nunca nos fuimos",
+          "jichi"
+        ]
       },
       {
         "type": "paragraph",
@@ -2015,7 +2338,10 @@
       },
       {
         "type": "paragraph",
-        "content": "Sin embargo, Stash insiste en que las prácticas contemporáneas de chaqueo son diferentes y además son protagonizadas por otros actores. En un artículo para la Revista Nómadas, el economista señala a los principales responsables de la deforestación en Bolivia entre 2021 y 2022, entre los cuales se encuentran los ganaderos, los menonitas y los colonos."
+        "content": "Sin embargo, Stash insiste en que las prácticas contemporáneas de chaqueo son diferentes y además son protagonizadas por otros actores. En un artículo para la Revista Nómadas, el economista señala a los principales responsables de la deforestación en Bolivia entre 2021 y 2022, entre los cuales se encuentran los ganaderos, los menonitas y los colonos.",
+        "cursives": [
+          "Revista Nómadas"
+        ]
       },
       {
         "type": "image",
@@ -2024,7 +2350,10 @@
       },
       {
         "type": "paragraph",
-        "content": "Contrario a la tradición ancestral, el nuevo chaqueo para ganadería y agricultura a gran escala se realiza con máquinas. Para confirmar esto, el Centro de Estudios para el Desarrollo Laboral y Agrario (CEDLA) hizo un estudio multiescalar —de escalas grandes y pequeñas— de la deforestación en Bolivia titulado Causas, actores y dinámicas de la deforestación en Bolivia 2010-2022."
+        "content": "Contrario a la tradición ancestral, el nuevo chaqueo para ganadería y agricultura a gran escala se realiza con máquinas. Para confirmar esto, el Centro de Estudios para el Desarrollo Laboral y Agrario (CEDLA) hizo un estudio multiescalar —de escalas grandes y pequeñas— de la deforestación en Bolivia titulado Causas, actores y dinámicas de la deforestación en Bolivia 2010-2022.",
+        "cursives": [
+          "Causas, actores y dinámicas de la deforestación en Bolivia 2010-2022"
+        ]
       },
       {
         "type": "paragraph",
@@ -2033,15 +2362,21 @@
       {
         "type": "image",
         "caption": "Fotografía satelital de los puntos de incendio en 2024 en Bolivia. Fuente: Mongabay.",
-        "source": "../images/fotografía-satelital-incendios-bolivia-2024.jpg"
+        "source": "../images/fotografía-satelital-incendios-bolivia-2024.jpg",
+        "cursives": [
+          "Mongabay"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "En septiembre de 2024, neumólogos paceños pidieron a la Alcaldía declarar una alerta sanitaria debido a la contaminación por humo en la ciudad de La Paz, que está del otro extremo del país de donde se realizaban las prácticas de deforestación. El medio La Razón, por aquellos días, informaba que el Índice de Calidad del Aire marcaba 208, siendo 0 saludable, 100 dañino para la salud y 200 muy dañino para la salud. "
+        "content": "En septiembre de 2024, neumólogos paceños pidieron a la Alcaldía declarar una alerta sanitaria debido a la contaminación por humo en la ciudad de La Paz, que está del otro extremo del país de donde se realizaban las prácticas de deforestación. El medio La Razón, por aquellos días, informaba que el Índice de Calidad del Aire marcaba 208, siendo 0 saludable, 100 dañino para la salud y 200 muy dañino para la salud.",
+        "cursives": [
+          "La Razón"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "Para el economista, todo el daño que todavía se hace al medio ambiente en Bolivia tiene que ver con el hecho de que el país sigue en una fase económica principalmente extractivista. Incluso lo que él llama “el discurso de la Pachamama” podría ser cómplice del extractivismo. "
+        "content": "Para el economista, todo el daño que todavía se hace al medio ambiente en Bolivia tiene que ver con el hecho de que el país sigue en una fase económica principalmente extractivista. Incluso lo que él llama “el discurso de la Pachamama” podría ser cómplice del extractivismo."
       },
       {
         "type": "paragraph",
@@ -2050,7 +2385,10 @@
       {
         "type": "image",
         "caption": "Fotografía satelital del humo consecuencia de la deforestación de 2024 en Bolivia. Fuente: Wikipedia.",
-        "source": "../images/fotografía-satelital-deforestacion-bolivia-2024-2.png"
+        "source": "../images/fotografía-satelital-deforestacion-bolivia-2024-2.png",
+        "cursives": [
+          "Wikipedia"
+        ]
       },
       {
         "type": "paragraph",
@@ -2067,7 +2405,7 @@
       },
       {
         "type": "image",
-        "caption": " Persona contemplando la curaduría de \"Las cosas como antes\" de Coca, Goudsmit y Orsag. Fuente: Centro Cultural España La Paz.",
+        "caption": "Persona contemplando la curaduría de \"Las cosas como antes\" de Coca, Goudsmit y Orsag. Fuente: Centro Cultural España La Paz.",
         "source": "../images/foto-exposición-las-cosas-como-antes-CCELP.png"
       },
       {
@@ -2081,7 +2419,10 @@
       {
         "type": "image",
         "caption": "El primer mapa de la Amazonía, obra del padre jesuita Samuel Fritz, misionero en la región entre 1685 y 1724. Fuente: Enciclopedia amazónica en línea.",
-        "source": "../images/primer-mapa-amazonas.jpg"
+        "source": "../images/primer-mapa-amazonas.jpg",
+        "cursives": [
+          "Enciclopedia amazónica en línea"
+        ]
       },
       {
         "type": "paragraph",
@@ -2115,11 +2456,17 @@
       },
       {
         "type": "paragraph",
-        "content": "La palabra cultureza emerge como un nuevo paradigma que no separa las urbes de lo rural o lo artificial de lo natural, sino que los une. Como si el límite entre ambas fuera una ilusión, la selva educa, las especies son transformadas por los humanos y las relaciones profundas entre humanos y no-humanos hacen que los bosques se respeten en otros territorios. "
+        "content": "La palabra cultureza emerge como un nuevo paradigma que no separa las urbes de lo rural o lo artificial de lo natural, sino que los une. Como si el límite entre ambas fuera una ilusión, la selva educa, las especies son transformadas por los humanos y las relaciones profundas entre humanos y no-humanos hacen que los bosques se respeten en otros territorios.",
+        "cursives": [
+          "cultureza"
+        ]
       },
       {
         "type": "paragraph",
-        "content": "Quizás la evolución de las palabras cultura y la naturaleza en cultureza no es solo una cuestión de teoría, sino también de supervivencia. "
+        "content": "Quizás la evolución de las palabras cultura y la naturaleza en cultureza no es solo una cuestión de teoría, sino también de supervivencia.",
+        "cursives": [
+          "cultureza"
+        ]
       }
     ]
   }

@@ -17,10 +17,10 @@
   padding-top: 10vh;
   .text-title {
     font-size: 3rem;
-    padding: 0 50px;
-    @include mixins.lg {
-      padding: 0 300px;
-    }
+    padding: 0 70px;
+    // @include mixins.lg {
+    //   padding: 0 300px;
+    // }
   }
 }
 
@@ -50,17 +50,18 @@
   }
 }
 
-.--text-content p, .--text-content .paragraph-content {
+.--text-content .container, .--text-content .paragraph-content {
   font-size: variables.$size-paragraph;
   max-width: 80%;
   margin: variables.$mp-sm auto;
   // padding: 30px;
-
+  
   @include mixins.md {
     margin: variables.$mp-md auto;
     width: 75%;
   }
   @include mixins.lg {
+    line-height: 1.7;
     margin: variables.$mp-md auto;
     width: 1000px;
   }
@@ -70,18 +71,34 @@
 }
 
 figcaption {
-  max-width: 900px;
   margin: 20px auto;
 }
 
+.inline-text {
+  display: contents;
+}
+
+.tooltip-text {
+  .paragraph-content {
+    font-size: 90%;
+  }
+}
+
 .PDF-downloader {
-  width: 600px;
   margin: 20px auto;
   display: flex;
-  align-content: center;
+  align-items: center;
   justify-content: center;
+  @include mixins.sm {
+    flex-direction: column;
+  }
+  @include mixins.md {
+    flex-direction: row;
+  }
   figure {
-    max-width: 200px;
+    img {
+      max-width: 200px;
+    }
   }
   figcaption {
     flex-grow: 1;

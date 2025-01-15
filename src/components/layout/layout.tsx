@@ -44,10 +44,7 @@ const Layout = () => {
       </nav>
       </header>
       <div className="main-container">
-        <aside className="aside"></aside>
-        <main className={"flex-1"}>
-          <Outlet />
-        </main>
+        <Outlet />
       </div>
     </div>
   );

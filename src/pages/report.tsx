@@ -70,17 +70,17 @@ const Report: FC = () => {
       <TextContent title={textContent.antropoceno.title} content={textContent.antropoceno.content as Content[]} effect="transform" />
       <ImagesHorizontalScroll imageURLs={imgEraGArray} ></ImagesHorizontalScroll>
       <TextContent title={textContent.ecos.title} theme="light" content={textContent.ecos.content as Content[]} effect="transform"  />
-      <TextContent title={textContent.jessica.title} theme="light" content={textContent.jessica.content as unknown as Content[]} />
+      <TextContent title={textContent.jessica.title} cursivesTitle={["Cérvix"]} theme="light" content={textContent.jessica.content as unknown as Content[]} />
       <TextContent title={textContent.jessica2.title} content={textContent.jessica2.content as Content[]} />
-      <TextContent title={textContent.edgar.title} theme="light" content={textContent.edgar.content as unknown as Content[]} />
+      <TextContent title={textContent.edgar.title} cursivesTitle={["Sarcoma"]} theme="light" content={textContent.edgar.content as unknown as Content[]} />
       <TextContent title={textContent.edgar2.title} content={textContent.edgar2.content as unknown as Content[]} />
-      <TextContent title={textContent.valeria.title} theme="light" content={textContent.valeria.content as unknown as Content[]} />
+      <TextContent title={textContent.valeria.title} cursivesTitle={["Escribir sobre el cemento"]} theme="light" content={textContent.valeria.content as unknown as Content[]} />
       <TextContent title={textContent.valeria2.title} content={textContent.valeria2.content as Content[]} />
-      <TextContent title={textContent.lucia.title} theme="light" content={textContent.lucia.content as unknown as Content[]} />
+      <TextContent title={textContent.lucia.title} cursivesTitle={["Oráculo eléctrico"]} theme="light" content={textContent.lucia.content as unknown as Content[]} />
       <TextContent title={textContent.lucia2.title} content={textContent.lucia2.content as Content[]} />
-      <TextContent title={textContent.andres.title} theme="light" content={textContent.andres.content as unknown as Content[]} />
+      <TextContent title={textContent.andres.title} cursivesTitle={["El chivo maquínico"]} theme="light" content={textContent.andres.content as unknown as Content[]} />
       <TextContent title={textContent.andres2.title} content={textContent.andres2.content as Content[]} />
-      <TextContent title={textContent.ignacio.title} theme="light" content={textContent.ignacio.content as unknown as Content[]} />
+      <TextContent title={textContent.ignacio.title} cursivesTitle={["Ángeles a máxima velocidad"]} theme="light" content={textContent.ignacio.content as unknown as Content[]} />
       <TextContent title={textContent.ignacio2.title} content={textContent.ignacio2.content as Content[]} />
       <TextContent title={textContent.readers.title} theme="light" content={textContent.readers.content as unknown as Content[]} />
       <FooterNav items={itemsMenuFooter} ></FooterNav>

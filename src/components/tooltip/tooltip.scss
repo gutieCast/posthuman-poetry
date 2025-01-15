@@ -2,22 +2,26 @@
 @use '../../assets/styles/mixins';
 
 .tooltip-container {
-  position: relative;
-  display: inline-block;
-  cursor: pointer;
-  color: variables.$color-gray-light;
-  text-shadow: 3px 3px 3px variables.$color-green;
-  font-style: italic;
-  &::after {
-    content: '';
-    position: absolute;
-    left: 0;
-    right: 0;
-    height: 1px;
-    background-color: variables.$color-green;
-    transform: translateY(25px);
-  }
-
+  display: contents;
+  .tooltip-word {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    color: variables.$color-green;
+    font-weight: bold;
+    // color: variables.$color-gray-light;
+    // text-shadow: 3px 3px 3px variables.$color-green;
+    font-style: italic;
+  // &::after {
+  //   content: '';
+  //   position: absolute;
+  //   left: 0;
+  //   right: 0;
+  //   height: 1px;
+  //   background-color: variables.$color-green;
+  //   transform: translateY(25px);
+  // }
+  
   .tooltip-content {
     // visibility: hidden;
     background-color: variables.$color-green;
@@ -37,12 +41,22 @@
     // display: none;
     // margin-left: -520%;
   }
-
+  
   // &:hover .tooltip-content, .tooltip-content.tooltip-visible {
   //   visibility: visible;
   //   opacity: 1;
   //   display: block;
   //   width: 300px;
-
+  
   // }
+  }
+
+.tooltip-element {
+  background-color: variables.$color-green!important;
+  color: variables.$color-white!important;
+  width: 300px!important;
+  padding: 15px!important;
+  z-index: 5!important;
+  opacity: 1 !important;
+}
 }

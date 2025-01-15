@@ -17,10 +17,59 @@
   //   animation: none !important;
   // }
 }
+
+.biography-link {
+  width: 80%;
+  margin: 20px auto;
+  cursor: pointer;
+  @include mixins.sm {
+    animation: fadeIn 13s;
+  }
+  @include mixins.md {
+    animation: fadeIn 13s;
+  }
+  @include mixins.lg {
+    animation: semiFadeIn 13s;
+    transition: opacity 1s;
+    opacity: .5;
+    &:hover {
+      opacity: 100%;
+      transition: opacity 1s;
+    }
+  }
+
+  .credit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    .author-photo {
+      width: 100px;
+      height: 100px;
+      img {
+        border-radius: 50%;
+        max-width: 100%;
+      }
+    }
+    .author-credit {
+      span {
+        color: variables.$color-green;
+        font-size: variables.$size-normal;
+        &:nth-child(1) {
+          font-style: italic;
+        }
+        &:nth-child(2) {
+          font-weight: 700;
+        }
+      }
+    }
+  }
+}
+
 .main-title {
   font-family: variables.$font-title;
   font-weight: 900;
-  font-size: 11vi;
+  font-size: 9vi;
   letter-spacing: .15ch;
   line-height: 1;
   text-transform: uppercase;
@@ -72,6 +121,8 @@
 }
 // Apply the mixin to the spans
 @include mixins.animate-spans-title(26);
+
+
 
 
 

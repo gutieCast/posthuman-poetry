@@ -2,6 +2,7 @@ import { FC } from "react";
 interface IPoetCardProps {
   photo: string; // URL of the poet's photo or image
   biography: string[]; // Poet's name, title, and biography,
+  cursives?: string[];
   location: string[];
   education: string[];
   works: Work[],
@@ -22,7 +23,21 @@ import iconWorks from '../../assets/icons/works-icon.svg';
 import iconInstagram from '../../assets/icons/instagram-icon.svg';
 
 
-export const PoetCard: FC<IPoetCardProps> = ({ photo, biography, location, education, works, link }) => {
+export const PoetCard: FC<IPoetCardProps> = ({ photo, biography, cursives, location, education, works, link }) => {
+  const renderContent = () => {
+    let renderedContent = biography;
+    if (cursives && cursives.length > 0) {
+      cursives.forEach((cursive) => {
+        const parts = renderedContent[0].split(cursive);
+        renderedContent = [parts.join(`<span class="cursive">${cursive}</span>`)];
+      });
+    }
+
+    return (
+      <span dangerouslySetInnerHTML={{ __html: renderedContent }} />
+    );
+  };
+
     return (
         <div className="poet-card">
           <div className="poet-card-body">
@@ -32,19 +47,22 @@ export const PoetCard: FC<IPoetCardProps> = ({ photo, biography, location, educa
             <div className="poet-card-content">
               <div className="poet-biography">
               {
-                biography.map((item, index) => (
-                  <div className="text-container" key={index}>
-                    <span>{item}</span>
-                  </div>
-                ))
+                // biography.map((item, index) => (
+                //   <div className="text-container" key={index}>
+                //     <span>{item}</span>
+                //   </div>
+                // ))
+                renderContent()
               }
               </div>
               <div className="poet-info">
                 <div className="info-item">
                   <img src={ iconLocation } alt="location-icon" />
+                  <div>
                   {location && location.map((loc, index) => (
-                    <span key={`loc-${index}`}>{loc} </span>
+                    <p key={`loc-${index}`}>{loc} </p>
                   ))}
+                  </div>
                 </div>
                 <div className="info-item">
                   <img src={ iconEducation } alt="education-icon" />
@@ -60,7 +78,8 @@ export const PoetCard: FC<IPoetCardProps> = ({ photo, biography, location, educa
                       {
                         works.map((work, index) => (
                           <li key={index} className="work-item">
-                            <span className="work-title bold">{work.title} </span>
+                            <span className="work-title cursive">{work.title}</span>
+                            <span>, </span>
                             <span className="work-year">{work.year}</span>
                           </li>
                         ))

@@ -1,5 +1,4 @@
 import { FC } from "react";
-// interface INatureCulturePageProps {};
 import TextContent, { Content } from "../components/text-content/text-content.tsx";
 import { FooterNav } from "../components/footer/footer.tsx";
 

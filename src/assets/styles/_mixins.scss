@@ -54,6 +54,7 @@
   flex-direction: column;
   // justify-content: space-around;
   position: relative;
+  overflow-x: hidden;
   // min-height: 100vh;
 
   &.--text-content {
@@ -83,17 +84,20 @@
   background-color: $background-color;
   
   .--text-content {
-    .poem-container {
+    .paragraph-content {
+      color: $text-color;
+    }
+    .poem-container, .definition-container {
       // background-color: $background-color 0.5;
       border: 2px solid $text-color;
       // border-bottom: 1px solid $text-color;
-      .title {
+      .title, .term {
         color: $text-color;
       }
-      .author {
+      .author, .root {
         color: $text-color;
       }
-      .poem {
+      .poem, .definitions {
         color: $text-color;
       }
     }

@@ -5,6 +5,7 @@ import Report from "./pages/report";
 import ChroniclesPage from "./pages/chronicle-page";
 import NatureCulturePage from "./pages/nature-culture-page";
 import ProfilesPage from "./pages/profiles-page";
+import BiographyPage from "./pages/biography-page";
 
 const App = () => {
  return (
@@ -17,6 +18,7 @@ const App = () => {
            <Route path="perfiles" element={<ProfilesPage />} />
            <Route path="cultureza" element={<NatureCulturePage />} />
          </Route>
+        <Route path="biography" element={<BiographyPage />} />
        </Routes>
      </BrowserRouter>
    </div>

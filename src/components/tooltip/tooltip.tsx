@@ -3,12 +3,14 @@ import { Tooltip } from 'react-tooltip';
 import './tooltip.scss';
 
 interface ICustomTooltipProps {
-  content: ReactNode;
-  children: ReactNode;
+  id: string;
+  word: string;
+  content: string;
+  cursives?: string[];
+  children?: ReactNode;
 }
 
-const CustomTooltip: FC<ICustomTooltipProps> = ({ content, children }) => {
-  
+const CustomTooltip: FC<ICustomTooltipProps> = ({ id, word, content, cursives, children }) => {
   const [isButton, setIsButton] = useState(false);
   useEffect(() => {
     const updateIsButton = () => setIsButton(window.innerWidth < 999);
@@ -17,35 +19,55 @@ const CustomTooltip: FC<ICustomTooltipProps> = ({ content, children }) => {
     return () => window.removeEventListener('resize', updateIsButton);
   }, [isButton]);
 
+  const renderContent = () => {
+    let renderedContent = content;
+    if (cursives && cursives.length > 0) {
+      cursives.forEach((cursive) => {
+        const parts = renderedContent.split(cursive);
+        renderedContent = parts.join(`<span class="cursive">${cursive}</span>`);
+      });
+    }
+
+    return (
+      <span>
+        <span dangerouslySetInnerHTML={{ __html: renderedContent }} />
+        <br/><br/>
+        { children }
+      </span>
+    );
+  };
+
   return (
-    <>
+    <div className='tooltip-container'>
       {isButton ? (
         <>
-          <a className="tooltip-container" data-tooltip-id='tooltip'>
-            {children}
+          <a className="tooltip-word" data-tooltip-id={ id }>
+            <span className="tooltip-anchor tooltip-word">{ word }</span>
           </a>
-          <Tooltip id="tooltip"
+          <Tooltip
+            id={ id }
             place="top"
             openEvents={{click: true}}
-            style={{ backgroundColor: "#429242", color: "#ECECEA", width: "300px" }}
+            className='tooltip-element'
           >
-            {content}
+            {renderContent()}
           </Tooltip>
         </>
       ) : (
-        <>
-          <a className="tooltip-container" data-tooltip-id='tooltip'>
-            {children}
+        <div className='tooltip-container'>
+          <a className="tooltip-word" data-tooltip-id={ id }>
+            <span className="tooltip-anchor tooltip-word">{ word }</span>  
           </a>
-          <Tooltip id="tooltip"
+          <Tooltip
+            id={ id }
             place="top"
-            style={{ backgroundColor: "#429242", color: "#ECECEA", width: "300px" }}
+            className='tooltip-element'
           >
-            {content}
+            {renderContent()}
           </Tooltip>
-        </>
+        </div>
       )}
-    </>
+    </div>
   );
 };
 

@@ -6,7 +6,6 @@
   padding: 0;
   margin: 0;
   text-decoration: none;
-  list-style: none;
   box-sizing: border-box;
 }
 
@@ -18,6 +17,10 @@ html {
 
 body {
   font-family: variables.$font-normal;
+}
+
+ul {
+  list-style: none;
 }
 
 main, .poetry-sections-container {

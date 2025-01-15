@@ -7,6 +7,69 @@
 @use 'base';
 // @import './components';
 
+
+.biography-container {
+  min-height: 100vh;
+  background-color: variables.$color-black;
+  padding-top: 150px;    height: 100%;
+  display: flex;
+  @include mixins.sm {
+    padding-top: 50px;
+  }
+  @include mixins.md {
+    padding-top: 100px;
+  }
+  @include mixins.lg {
+    padding-top: 150px;
+  }
+  h2 {
+    text-align: center;
+    padding: variables.$mp-md;
+    margin: 0;
+    color: variables.$color-gray-light;
+  }
+  .biography-content {
+    width: 80%;
+    margin: 10px auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    display: flex;
+    @include mixins.sm {
+      flex-direction: column;
+    }
+    @include mixins.md {
+      flex-direction: row;
+      justify-content: baseline;
+      align-items: center;
+    }
+  }
+  .biography-photo {
+    width: 70%;
+    @include mixins.md {
+      flex: 1 0 auto;
+    }
+    img {
+      max-width: 100%;
+      max-height: 100%;
+    }
+  }
+  .biography-text {
+    margin: 30px;
+    font-size: variables.$size-paragraph;
+    height: 100%;
+    color: variables.$color-white;
+  }
+  .biography-links {
+    margin: 50px;
+    a {
+      color: variables.$color-green;
+    }
+  }
+}
+
 .section {
   @include mixins.section;
   .section-content {
@@ -63,12 +126,12 @@
 //     // transform: translate3d(0, 8.5rem, 0);
 //     transition: all 1500ms;
 
-//     // // Apply animation 
+//     // // Apply animation
 //     &:not(h1):not(h2):not(canvas):not(video):not(.text-epigraph):not(img):not(.keyword):not(.infographic-container-y):not(.horizontal-scroll-image-container):not(.poet-card) {
 //       animation: content-animation 3s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards 1;
 //       // transform: translate3d(0, 8.5rem, 0);
 //       transition: all 1500ms;
-//     }    
+//     }
 //   }
 // }
 
@@ -125,7 +188,7 @@
     margin: 0 auto;
   }
   figcaption {
-    margin-top: 5px;
+    margin: 5px;
     text-align: center;
     p {
       font-size: variables.$size-normal;
@@ -140,6 +203,10 @@
 .bold {
   font-weight: bold;
   // display: inline-block;
+}
+
+.cursive {
+  font-style: italic;
 }
 
 .btn {
@@ -165,4 +232,14 @@
 .btn-transparent {
   background-color: transparent !important;
   border: none !important;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+@keyframes semiFadeIn {
+  0% { opacity: 0; }
+  100% { opacity: .5; }
 }
