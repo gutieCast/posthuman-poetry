@@ -1968,7 +1968,9 @@
         "type": "image",
         "caption": "Baño para hacer cruising. Fuente: Cruising Gobson.",
         "source": "../images/foto-bano-cruising.jpg",
-        "cursives": "Cruising Gobson"
+        "cursives": [
+          "Cruising Gobson"
+        ]
       },
       {
         "type": "paragraph",
