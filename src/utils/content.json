@@ -1623,7 +1623,10 @@
       {
         "type": "image",
         "caption": "Mapa satelital de las rotondas que hay en España y Europa. Fuente: Mapamundi rotondas.",
-        "source": "../images/foto-rotondas-españa.jpg"
+        "source": "../images/foto-rotondas-españa.jpg",
+        "cursives": [
+          "Mapamundi rotondas."
+        ]
       },
       {
         "type": "paragraph",
@@ -1694,7 +1697,10 @@
       },
       {
         "type": "paragraph",
-        "content": "A este hito histórico le siguieron otros. Como el caso del río Whanganui en Nueva Zelanda o el del río Atrato en Colombia, que según el medio Climática también fueron declarados como seres no–humanos con derechos."
+        "content": "A este hito histórico le siguieron otros. Como el caso del río Whanganui en Nueva Zelanda o el del río Atrato en Colombia, que según el medio Climática también fueron declarados como seres no–humanos con derechos.",
+        "cursives": [
+          "Climática"
+        ]
       },
       {
         "type": "paragraph",
@@ -1707,7 +1713,10 @@
       {
         "type": "image",
         "caption": "Postal de 1966 en homenaje a Henry Bergh y en conmemoración a los 100 años de la Sociedad Americana de Prevención de la Crueldad Animal. Fuente: Mystic Stamps Company.",
-        "source": "../images/postal-henry-bergh.jpg"
+        "source": "../images/postal-henry-bergh.jpg",
+        "cursives": [
+          "Mystic Stamps Company"
+        ]
       },
       {
         "type": "paragraph",
@@ -1749,7 +1758,10 @@
       {
         "type": "image",
         "caption": "En 2021, en las calles de India vivían 91 gatos callejeros. Fuente: The Catrina Foundation.",
-        "source": "../images/foto-gato-callejero.jpg"
+        "source": "../images/foto-gato-callejero.jpg",
+        "cursives": [
+          "The Catrina Foundation"
+        ]
       },
       {
         "type": "paragraph",
@@ -1772,7 +1784,10 @@
       {
         "type": "image",
         "caption": "Página de inicio de El chivo maquínico. Fuente: El chivo maquínico.",
-        "source": "../images/foto-inicio-chivo-maquinico.png"
+        "source": "../images/foto-inicio-chivo-maquinico.png",
+        "cursives": [
+          "El chivo maquínico"
+        ]
       },
       {
         "type": "paragraph",
@@ -1785,7 +1800,10 @@
       {
         "type": "image",
         "caption": "Andrés en la performance erótica Opus Nigrum. Fuente: Camila Rocha.",
-        "source": "../images/foto-andres-marino-eros-opus-nigrum.png"
+        "source": "../images/foto-andres-marino-eros-opus-nigrum.png",
+        "cursives": [
+          "Opus Nigrum"
+        ]
       },
       {
         "type": "paragraph",
@@ -1837,7 +1855,10 @@
       },
       {
         "type": "paragraph",
-        "content": "El ser que habitaba su cuerpo entonces es conocido en la cultura aymara como anchanchu. El hábitat de este ser es el Manqhapacha o el mundo de abajo. Cuando ataca, este ser lleva a su víctima a la locura, según un artículo del medio Muy Waso."
+        "content": "El ser que habitaba su cuerpo entonces es conocido en la cultura aymara como anchanchu. El hábitat de este ser es el Manqhapacha o el mundo de abajo. Cuando ataca, este ser lleva a su víctima a la locura, según un artículo del medio Muy Waso.",
+        "cursives": [
+          "Muy Waso"
+        ]
       },
       {
         "type": "image",
