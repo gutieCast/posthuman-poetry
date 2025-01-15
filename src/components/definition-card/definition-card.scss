@@ -8,7 +8,7 @@
   margin: variables.$mp-md auto;
   padding: variables.$mp-md;
   width: 95%;
-  
+  max-width: 1000px;
   @include mixins.md {
     
     width: 75%;
