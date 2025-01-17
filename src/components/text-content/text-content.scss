@@ -83,26 +83,3 @@ figcaption {
     font-size: 90%;
   }
 }
-
-.PDF-downloader {
-  margin: 20px auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  @include mixins.sm {
-    flex-direction: column;
-  }
-  @include mixins.md {
-    flex-direction: row;
-  }
-  figure {
-    img {
-      max-width: 200px;
-    }
-  }
-  figcaption {
-    flex-grow: 1;
-    margin: auto;
-    margin-left: 10px;
-  }
-}

@@ -1,0 +1,25 @@
+@use '../../assets/styles/variables';
+@use '../../assets/styles/mixins';
+
+.PDF-downloader {
+  margin: 20px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  // @include mixins.sm {
+  // }
+  // @include mixins.md {
+  //   flex-direction: row;
+  // }
+  figure {
+    img {
+      max-width: 300px;
+    }
+  }
+  figcaption {
+    flex-grow: 1;
+    margin: auto;
+    margin-left: 10px;
+  }
+}

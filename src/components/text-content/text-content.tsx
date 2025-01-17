@@ -4,8 +4,8 @@ import PoemComponent from "../poem-container/poem-component.tsx";
 import CustomTooltip from "../tooltip/tooltip.tsx";
 import AudioPlayer from "../audio-player/audio-player.tsx";
 import { PoetCard, Work } from "../poet-card/poet-card";
-import { Link } from "react-router-dom";
 import DefinitionCard from "../definition-card/definition-card.tsx";
+import FileLink from "../file-link/file-link.tsx";
 
 interface ITextContentProps {
   theme?: string;
@@ -141,6 +141,7 @@ const TextContent: FC<ITextContentProps> = (props) => {
           } else if (item.type === 'definition' && item.term && item.definitions) {
             return (
               <DefinitionCard
+                key={index}
                 term={item.term}
                 root={item.root}
                 cursives={item.cursives}
@@ -174,9 +175,16 @@ const TextContent: FC<ITextContentProps> = (props) => {
             }
           } else if (item.type === 'poet') {
             return (
-              <div key={index}>
-                <PoetCard photo={item.photo} biography={item.biography!} cursives={item.cursives} location={item.location!} education={item.education!} works={item.works!} link={item.link!} ></PoetCard>
-              </div>
+              <PoetCard
+                key={index}
+                photo={item.photo}
+                biography={item.biography!}
+                cursives={item.cursives}
+                location={item.location!}
+                education={item.education!}
+                works={item.works!}
+                link={item.link!}
+              />
             );
           } else if (item.type === 'audio') {
             return (
@@ -186,18 +194,11 @@ const TextContent: FC<ITextContentProps> = (props) => {
             )
           } else if(item.type === 'link' && item.address && item.display) {
             return (
-              <span key={index}>
-                <Link
-                  className="PDF-downloader"
-                  to={item.address} target="_blank" download>
-                  <figure key={index} className="figure-container">
-                    <img src={item.display} alt="image-for-link" />
-                  </figure>
-                  <figcaption>
-                    <p>{ item.title }</p>
-                  </figcaption>
-                </Link>
-              </span>
+              <FileLink
+                key={index}
+                item={item}
+                index={index}
+              />
             )
           }
           return null;

@@ -6,11 +6,13 @@ import ChroniclesPage from "./pages/chronicle-page";
 import NatureCulturePage from "./pages/nature-culture-page";
 import ProfilesPage from "./pages/profiles-page";
 import BiographyPage from "./pages/biography-page";
+import ScrollToTop from "./components/scroll-to-top/scroll-to-top";
 
 const App = () => {
  return (
    <div className="App">
      <BrowserRouter>
+     <ScrollToTop />
        <Routes>
          <Route element={<Layout />} >
            <Route path="/" element={<Report />} />

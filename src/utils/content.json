@@ -33,7 +33,7 @@
       },
       {
         "type": "paragraph",
-        "content": "En cambio, la poesía del s. XXI en Bolivia continúa con el trabajo de la generación McOndo que es, según el escritor Edmundo Paz Soldán para el medio DW, \"un intento de registrar el impacto de los nuevos medios y tecnologías en la cultura urbana de hoy\"",
+        "content": "En cambio, la poesía del s. XXI en Bolivia continúa con el trabajo de la generación McOndo que es, según el escritor Edmundo Paz Soldán para el medio DW, \"un intento de registrar el impacto de los nuevos medios y tecnologías en la cultura urbana de hoy\".",
         "cursives": [
           "DW"
         ],
@@ -1051,7 +1051,7 @@
       },
       {
         "type": "paragraph",
-        "content": "Lucía gestiona el proyecto Hija del internet, sitio web que reúne su trabajo, y gestiona el proyecto Cyber Elfa, un proyecto de difusión cultural que intersecta animé, poesía y feminismo. En septiembre, el podcast Hablemos escritoras le hizo una entrevista donde la poeta cuenta que es la fundadora del centro cultural Casa Carmencita en Santa Cruz, espacio en el que busca \"abrir un espacio cultural en donde podamos darle sala a artistas y crear eventos culturales\"",
+        "content": "Lucía gestiona el proyecto Hija del internet, sitio web que reúne su trabajo, y gestiona el proyecto Cyber Elfa, un proyecto de difusión cultural que intersecta animé, poesía y feminismo. En septiembre, el podcast Hablemos escritoras le hizo una entrevista donde la poeta cuenta que es la fundadora del centro cultural Casa Carmencita en Santa Cruz, espacio en el que busca \"abrir un espacio cultural en donde podamos darle sala a artistas y crear eventos culturales\".",
         "cursives": [
           "Hija del internet",
           "Cyber Elfa",
@@ -1589,7 +1589,7 @@
         "type": "link",
         "title": "Descargar Antología Poesía posthumana",
         "display": "../images/portada-antologia.png",
-        "address": "https://drive.google.com/drive/folders/1-j26mChHeBFp18x3Pqk5XjC54TLUVZTg"
+        "address": "https://drive.google.com/file/d/1hcXh_kaGNzJHPBikrffyvTTaxNpfSw_W/view"
       },
       {
         "type": "paragraph",
@@ -2158,7 +2158,10 @@
       {
         "type": "image",
         "caption": "Púber Sateré-Mawé antes de cumplir con su ritual de paso. Fuente: Sick History.",
-        "source": "../images/foto-nino-amazonia.jpg"
+        "source": "../images/foto-nino-amazonia.jpg",
+        "cursives": [
+          "Sick History"
+        ]
       },
       {
         "type": "paragraph",

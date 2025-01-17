@@ -13,8 +13,11 @@
     
     width: 75%;
   }
+  @include mixins.lg {
+    padding: 50px;
+  }
   .term {
-    font-size: variables.$size-big-parr;
+    font-size: 3rem;
     line-height: 1.2;
     margin: variables.$mp-md 0;
     font-weight: 900;
@@ -57,7 +60,7 @@
     }
   }
   .source {
-    font-size: variables.$size-normal;
+    font-size: 1.3rem;
     margin-top: variables.$mp-md;
     text-align: left;
   }

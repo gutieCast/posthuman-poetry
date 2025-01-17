@@ -33,13 +33,13 @@ const DefinitionCard: FC<IDefinitionCardProps> = ({ term, root, cursives, defini
   return (
     <div className="definition-container">
       <h3 className="term">{term}</h3>
-      {root && <p className="root">{renderText(root, cursives)}</p>}
+      {root && <div className="root">{renderText(root, cursives)}</div>}
       <ol className="definitions">
         {definitions.map((item, index) => (
           <li key={`${term}-${index}`}>{item}</li>
         ))}
       </ol>
-      {source && <p className="source"><span className="bold">Fuente:</span> {renderText(source, cursives)}</p>}
+      {source && <div className="source"><span className="bold">Fuente:</span> {renderText(source, cursives)}</div>}
     </div>
   );
 }

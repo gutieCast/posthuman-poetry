@@ -11,58 +11,76 @@
 .biography-container {
   min-height: 100vh;
   background-color: variables.$color-black;
-  padding-top: 150px;    height: 100%;
+  height: 100%;
   display: flex;
-  @include mixins.sm {
-    padding-top: 50px;
-  }
-  @include mixins.md {
-    padding-top: 100px;
-  }
-  @include mixins.lg {
-    padding-top: 150px;
-  }
-  h2 {
-    text-align: center;
-    padding: variables.$mp-md;
-    margin: 0;
-    color: variables.$color-gray-light;
-  }
+
   .biography-content {
-    width: 80%;
-    margin: 10px auto;
+    margin: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100%;
     flex-direction: column;
+    @include mixins.md {
+      margin: 50px;
+    }
     @include mixins.lg {
+      // height: fit-content;
       flex-direction: row;
-      justify-content: baseline;
-      align-items: center;
+      // justify-content: baseline;
+      // align-items: center;
+      margin: auto;
     }
   }
   .biography-photo {
+    // width: max-content;
     width: 70%;
-    @include mixins.md {
-      flex: 1 0 auto; 
-    }
+    // @include mixins.md {
+    //   flex: 1 0 auto; 
+    // }
     @include mixins.lg {
-      flex: 0 0 50%;
+      flex: 0 0 40%;
+      width: 100%;
+    // display: ruby;
     }
     img {
       max-width: 100%;
-      max-height: 100%;
     }
   }
   .biography-text {
-    margin: 30px;
     font-size: variables.$size-paragraph;
     height: 100%;
     color: variables.$color-white;
+    display: flex;
+    flex-direction: column;
+    @include mixins.lg {
+      height: inherit;
+    }
+
+    h2 {
+      text-align: center;
+      padding: variables.$mp-md;
+      margin: 0;
+      color: variables.$color-gray-light;
+      @include mixins.md {
+        margin: 30px;
+      }
+      @include mixins.lg {
+        margin: 50px;
+      }
+    }
+    p {
+      @include mixins.md {
+        margin: 30px;
+      }
+      @include mixins.lg {
+        margin: 50px;
+      }
+    }
   }
   .biography-links {
-    margin: 50px;
+    flex-grow: 1;
+    display: flex;
+    align-items: end;
     a {
       color: variables.$color-green;
     }
