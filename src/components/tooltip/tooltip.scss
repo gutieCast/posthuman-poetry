@@ -6,7 +6,7 @@
   
     .tooltip-word {
       position: relative;
-      display: contents;
+      display: initial;
       cursor: pointer;
       color: variables.$color-green;
       font-weight: bold;
