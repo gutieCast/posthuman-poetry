@@ -6,7 +6,7 @@
   
     .tooltip-word {
       position: relative;
-      display: ruby;
+      display: contents;
       cursor: pointer;
       color: variables.$color-green;
       font-weight: bold;
