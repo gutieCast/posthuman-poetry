@@ -49,11 +49,11 @@ const InitialScene: FC = () => {
         <Link className="biography-link" to={'/biography'} >
           <div className="credit">
             <div className="author-photo">
-              <img src={ photoAutor } alt="Joan Loayza Villanueva's photography" />
+              <img src={ photoAutor } alt="joan villanueva's photography" />
             </div>
             <div className="author-credit">
               <span>Por </span>
-              <span>Joan Loayza Vilanuena</span>
+              <span>joan vilanuena</span>
             </div>
           </div>
         </Link>
