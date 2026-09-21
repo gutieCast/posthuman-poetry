@@ -18,9 +18,9 @@
   .text-title {
     font-size: 3rem;
     padding: 0 70px;
-    // @include mixins.lg {
-    //   padding: 0 300px;
-    // }
+    @include mixins.lg {
+      padding-bottom: 0 300px;
+    }
   }
 }
 
@@ -35,6 +35,184 @@
   scrollbar-width: none;  /* Firefox */
   &::-webkit-scrollbar {
     display: none;
+  }
+
+  .figure-container img {
+    max-width: 80%;
+  }
+
+  // Combined Animation System
+  opacity: 0;
+  transform: translateY(60px) scale(0.95);
+  filter: blur(8px);
+  transition: all 0.9s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+
+  // When visible class is added by intersection observer
+  &.is-visible {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    filter: blur(0);
+
+    // Staggered reveal for child elements
+    h2 {
+      animation: title-reveal 0.8s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+    }
+
+    .paragraph-content,
+    .poem-container,
+    .definition-container,
+    .figure-container,
+    .poet-card,
+    .audio-player-container,
+    .file-link-container {
+      opacity: 0;
+      transform: translateX(30px);
+      animation: content-cascade 0.7s ease-out forwards;
+
+      // Stagger delay for each element
+      @for $i from 1 through 20 {
+        &:nth-child(#{$i}) {
+          animation-delay: #{$i * 0.08}s;
+        }
+      }
+    }
+  }
+
+  // Entering from top (scrolling up) - faster animation
+  &.enter-from-top {
+    animation: enter-from-top 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
+  }
+
+  // Entering from bottom (scrolling down - re-entering)
+  &.enter-from-bottom {
+    animation: enter-from-bottom 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) forwards;
+  }
+
+  // Exiting upward (scrolling up past element)
+  &.exit-up {
+    animation: exit-up 0.3s cubic-bezier(0.55, 0.055, 0.675, 0.19) forwards;
+  }
+
+  // Exiting downward (scrolling down past element)
+  &.exit-down {
+    animation: exit-down 0.3s cubic-bezier(0.55, 0.055, 0.675, 0.19) forwards;
+  }
+
+  // Hidden state
+  &.is-hidden {
+    opacity: 0;
+  }
+}
+
+// Dark theme specific animation
+.dark .--text-content {
+  &.is-visible {
+    box-shadow: 0 0 60px rgba(variables.$color-white, 0.05);
+    transition: all 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+                box-shadow 1.2s ease-out 0.3s;
+  }
+}
+
+// Light theme specific animation
+.light .--text-content {
+  &.is-visible {
+    box-shadow: 0 0 60px rgba(variables.$color-black, 0.03);
+    transition: all 0.6s cubic-bezier(0.25, 0.46, 0.45, 0.94),
+                box-shadow 1.2s ease-out 0.3s;
+  }
+}
+
+// Title reveal animation (from Option 1 - blur effect)
+@keyframes title-reveal {
+  0% {
+    opacity: 0;
+    transform: translateY(20px) scale(0.95);
+    filter: blur(8px);
+  }
+  50% {
+    opacity: 0.7;
+    transform: translateY(0) scale(1.02);
+    filter: blur(2px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    filter: blur(0);
+  }
+}
+
+// Content cascade animation (from Option 3 - staggered)
+@keyframes content-cascade {
+  0% {
+    opacity: 0;
+    transform: translateX(30px) rotateY(5deg);
+    filter: blur(4px);
+  }
+  60% {
+    transform: translateX(-5px) rotateY(0deg);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0) rotateY(0deg);
+    filter: blur(0);
+  }
+}
+
+// Directional animations for scroll-based entry/exit
+
+// Enter from top (scrolling up - element coming from above)
+@keyframes enter-from-top {
+  0% {
+    opacity: 0;
+    transform: translateY(-60px) scale(0.95);
+    filter: blur(8px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    filter: blur(0);
+  }
+}
+
+// Enter from bottom (scrolling down - element coming from below)
+@keyframes enter-from-bottom {
+  0% {
+    opacity: 0;
+    transform: translateY(60px) scale(0.95);
+    filter: blur(8px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    filter: blur(0);
+  }
+}
+
+// Exit upward (scrolling up past element - element exits to bottom)
+@keyframes exit-up {
+  0% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    filter: blur(0);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(60px) scale(0.92);
+    filter: blur(6px);
+  }
+}
+
+// Exit downward (scrolling down past element - element exits to top)
+@keyframes exit-down {
+  0% {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+    filter: blur(0);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-60px) scale(0.92);
+    filter: blur(6px);
   }
 }
 
