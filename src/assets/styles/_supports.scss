@@ -24,7 +24,7 @@
 @supports (scroll-snap-type: x mandatory) {
 
   .--horizontal-scroll {
-    min-width: 100vh;
+    // min-width: 100vh;
     overflow-x: scroll;
     scroll-snap-type: x mandatory;
   }

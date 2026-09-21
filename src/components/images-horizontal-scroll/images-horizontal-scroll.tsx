@@ -16,7 +16,7 @@ const ImagesHorizontalScroll: FC<IImagesHorizontalScrollProps> = ({ imageURLs })
     threshold: 0.1
   };
 
-  const imgContainerRefs = useElementsOnScreen(options);
+  const imgContainerRefs = useElementsOnScreen(options, true); // Pass true to only mark first element as visible
 
   useEffect(() => {
     // Get all sections with the class 'image-container'
@@ -24,6 +24,48 @@ const ImagesHorizontalScroll: FC<IImagesHorizontalScrollProps> = ({ imageURLs })
 
     imgContainerRefs.current!.length = 0;
     imgContainerRefs.current!.push(...imgContainers);
+
+    // Add scroll listener to update visibility on horizontal scroll
+    const container = document.querySelector('.section-content.--horizontal-scroll') as HTMLElement;
+
+    const handleScrollUpdate = () => {
+      if (!imgContainerRefs.current) return;
+
+      // Find the first visible image container
+      let firstVisibleElement: HTMLElement | null = null;
+
+      for (const ref of imgContainerRefs.current) {
+        const rect = ref.getBoundingClientRect();
+        // Check if element is in viewport (more than 50% visible)
+        if (rect.left < window.innerWidth && rect.right > 0) {
+          firstVisibleElement = ref;
+          break;
+        }
+      }
+
+      // Update classes
+      imgContainerRefs.current.forEach(ref => {
+        if (ref === firstVisibleElement) {
+          ref.classList.add("is-visible");
+          ref.classList.remove("is-hidden");
+        } else {
+          ref.classList.remove("is-visible");
+          ref.classList.add("is-hidden");
+        }
+      });
+    };
+
+    if (container) {
+      container.addEventListener('scroll', handleScrollUpdate);
+      // Initial call to set first image as visible
+      handleScrollUpdate();
+    }
+
+    return () => {
+      if (container) {
+        container.removeEventListener('scroll', handleScrollUpdate);
+      }
+    };
   }, [imgContainerRefs]);
 
   const handleScroll = (side: 'left' | 'right') => {
@@ -46,17 +88,23 @@ const ImagesHorizontalScroll: FC<IImagesHorizontalScrollProps> = ({ imageURLs })
           imageURLs.map((imageURL, index) => (
             <div key={`img-geo-${index}`} className="horizontal-scroll-image-container">
               {
-                index !== 0 &&
+                index !== 0 
+                ?
                 <button key={`btn-left-${index}`} type="button" className="btn btn-scroll --left btn-transparent" onClick={() => handleScroll('left')}>
                   <img src={ iconLeft } alt="img-left-icon" />
-                  </button>
+                </button>
+                :
+                <button className="btn btn-transparent"></button>
               }
               <img key={`img-${index}`} src={imageURL} alt="Image" />
               {
-                index !== imageURLs.length - 1 && 
+                index !== imageURLs.length - 1 
+                ? 
                 <button key={`btn-right-${index}`} type="button" className="btn btn-scroll --right btn-transparent" onClick={() => handleScroll('right')}>
                   <img src={ iconRight } alt="img-right-icon" />
                 </button>
+                :
+                <button className="btn btn-transparent"></button>
               }
             </div>
           ))

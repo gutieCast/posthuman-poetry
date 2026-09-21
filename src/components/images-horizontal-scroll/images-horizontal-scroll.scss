@@ -2,10 +2,14 @@
 @use '../../assets/styles/mixins';
 
 .horizontal-scroll {
-  
+    /* Hide scrollbar for IE, Edge and Firefox */
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    &:-webkit-scrollbar {
+      display: none;
+    }
   .--horizontal-scroll {
-    overflow-x: auto;
-    // overflow-y: hidden;
     white-space: nowrap;
     width: 100vw;
     height: 100vh;
@@ -13,6 +17,13 @@
     flex-direction: row;
     justify-content: flex-start;
     background-color: variables.$color-black;
+    /* Hide scrollbar for IE, Edge and Firefox */
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    &:-webkit-scrollbar {
+      display: none;
+    }
 
   }
 
@@ -62,7 +73,7 @@
   }
 
   img {
-    animation: scale-fade-in 0.8s forwards 1 !important;
+    animation: scale-fade-in 0.5s forwards 1 !important;
     opacity: 1;
     filter: brightness(1);
   }
