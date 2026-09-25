@@ -25,6 +25,7 @@
 
   .--horizontal-scroll {
     // min-width: 100vh;
+    scroll-behavior: smooth;
     overflow-x: scroll;
     scroll-snap-type: x mandatory;
   }
