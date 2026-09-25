@@ -9,7 +9,7 @@ import "./initial-scene.scss";
 const InitialScene: FC = () => {
 
   return (
-    <section className="section initial-scene">
+    <section className="section initial-scene is-visible">
       <div className="section-content --initial-scene" data-content>
         <h1 className="main-title">
           <div className="word">
